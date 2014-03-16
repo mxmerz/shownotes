@@ -1,0 +1,212 @@
+00:00:00 Intro #chapter
+00:00:41 CRE Intro #music
+00:01:07 Begrüßung #chapter
+00:01:20 Livestream
+00:01:45 Denis Ahrens <https://twitter.com/denis2342>
+00:02:03 Einstieg #chapter
+00:02:06 ZFS <http://de.wikipedia.org/wiki/ZFS_%28Dateisystem%29> #glossary
+00:02:25 FFS, UFS <http://de.wikipedia.org/wiki/Unix_File_System> #glossary
+00:02:28 HFS <http://de.wikipedia.org/wiki/HFS_%28Dateisystem%29> #glossary
+00:02:36 XFS <http://de.wikipedia.org/wiki/XFS_%28Dateisystem%29> #glossary
+00:02:51 Jeff Bonwick <http://en.wikipedia.org/wiki/Jeff_Bonwick> #glossary
+00:02:52 Sun <http://de.wikipedia.org/wiki/Sun_Microsystems> #glossary
+00:03:03 Solaris <http://de.wikipedia.org/wiki/Solaris_%28Betriebssystem%29> #glossary
+00:03:05 OpenSolaris <http://de.wikipedia.org/wiki/OpenSolaris> #glossary
+00:03:10 Sun wirbt mit “the last word in filesystems” <http://www.filibeto.org/~aduritz/truetrue/solaris10/ZFS_SOSUG17oct2005_preso.pdf>
+00:03:20 Anspruch von ZFS
+00:03:29 Speicherverwaltung
+00:03:30 Festplatte <http://de.wikipedia.org/wiki/Festplattenlaufwerk> #glossary
+00:03:33 Dateisystem <http://de.wikipedia.org/wiki/Dateisystem> #glossary
+00:03:53 "Tatsächlich ist die Liste an Anforderungen, die man an Filesysteme hat, relativ lang." (Tim) "Länger als man denkt eigentlich." (Denis) #quote
+00:04:10 Geschichte #chapter
+00:04:22 Betriebssystem <http://de.wikipedia.org/wiki/Betriebssystem> #glossary
+00:04:29 FAT <http://de.wikipedia.org/wiki/File_Allocation_Table> #glossary
+00:04:30 MS-DOS <http://de.wikipedia.org/wiki/MS-DOS> #glossary
+00:04:32 USB-Stick <http://de.wikipedia.org/wiki/USB-Massenspeicher#USB-Speicherstick> #glossary
+00:04:39 8.3 <http://de.wikipedia.org/wiki/8.3> #glossary
+00:04:42 Länge der Dateinamen
+00:04:47 Unix <http://de.wikipedia.org/wiki/Unix> #glossary
+00:05:00 .htm <http://en.wikipedia.org/wiki/HTML#Naming_conventions> #glossary
+00:05:05 File Type Extensions <http://de.wikipedia.org/wiki/Dateinamenserweiterung> #glossary
+00:05:19 BSD <http://de.wikipedia.org/wiki/Berkeley_Software_Distribution> #glossary
+00:05:44 Apple <http://de.wikipedia.org/wiki/Apple> #glossary
+00:05:46 HFS <http://de.wikipedia.org/wiki/HFS_%28Dateisystem%29> #glossary
+00:05:57 HFS+ <http://de.wikipedia.org/wiki/HFS_Plus> #glossary
+00:05:59 Mac OS 8.1 <http://de.wikipedia.org/wiki/Mac_OS_8#Mac_OS_8.1> #glossary
+00:06:15 NTFS <http://de.wikipedia.org/wiki/NTFS> #glossary
+00:06:35 Ur-Filesystem von Unix
+00:06:46 Linux <http://de.wikipedia.org/wiki/Linux> #glossary
+00:06:53 ext3 <http://de.wikipedia.org/wiki/Ext3> #glossary
+00:07:07 POSIX-Standard <http://de.wikipedia.org/wiki/Portable_Operating_System_Interface> #glossary
+00:07:20 Unicode <http://de.wikipedia.org/wiki/Unicode> #glossary
+00:07:42 XFS <http://de.wikipedia.org/wiki/XFS_%28Dateisystem%29> #glossary
+00:07:48 SGI <http://de.wikipedia.org/wiki/Silicon_Graphics> #glossary
+00:08:30 Entwicklungsgeschichte von ZFS
+00:09:18 ZFS Versionsnummer
+00:09:37 Abwärtskompatibilität <http://de.wikipedia.org/wiki/Abw%C3%A4rtskompatibilit%C3%A4t#Abw.C3.A4rtskompatibilit.C3.A4t> #glossary
+00:09:45 ZFS hatte wohl noch nie einen Fehler in der internen Datenstruktur
+00:10:17 Continuous Testing <http://en.wikipedia.org/wiki/Continuous_testing> #glossary
+00:10:40 ztest <http://www.opensolaris.org/os/community/zfs/ztest/>
+00:12:01 ReiserFS <http://de.wikipedia.org/wiki/Reiser_File_System> #glossary
+00:12:40 ZFS Adressraum #chapter
+00:13:01 Großkunden von Sun werden an die 64bit-Grenze stoßen
+00:14:10 Bestehende Dateisysteme umzuschreiben lohnt sich nicht
+00:16:07 ZFS Datenintegrität #chapter
+00:16:19 SATA <http://de.wikipedia.org/wiki/Serial_ATA> #glossary
+00:16:20 Firewire <http://de.wikipedia.org/wiki/FireWire> #glossary
+00:16:22 USB <http://de.wikipedia.org/wiki/Universal_Serial_Bus> #glossary
+00:16:24 Prüfsummen <http://de.wikipedia.org/wiki/Pr%C3%BCfsumme> #glossary
+00:16:32 Block <http://de.wikipedia.org/wiki/Block> #glossary
+00:16:47 silent errors
+00:16:54 MPEG <http://de.wikipedia.org/wiki/MPEG> #glossary
+00:17:06 Buttle-Tuttle-Konfusion <http://de.wikipedia.org/wiki/Brazil> #glossary
+00:17:15 Variable Blockgröße
+00:17:58 Blockdevice <http://de.wikipedia.org/wiki/Block_device> #glossary
+00:19:43 LVM <http://de.wikipedia.org/wiki/Logical_Volume_Manager> #glossary
+00:19:52 RAID <http://de.wikipedia.org/wiki/RAID> #glossary
+00:19:56 Mirror (RAID 1) <http://de.wikipedia.org/wiki/RAID#RAID_1:_Mirroring_.E2.80.93_Spiegelung> #glossary
+00:19:57 RAID 5 <http://de.wikipedia.org/wiki/RAID#RAID_5:_Leistung_.2B_Parit.C3.A4t.2C_Block-Level_Striping_mit_verteilter_Parit.C3.A4tsinformation> #glossary
+00:20:00 RAID-Z <http://de.wikipedia.org/wiki/RAID#RAID-Z_im_Dateisystem_ZFS> #glossary
+00:20:01 RAID-Z2 <http://de.wikipedia.org/wiki/RAID#RAID-Z_im_Dateisystem_ZFS> #glossary
+00:20:03 Redundanz <http://de.wikipedia.org/wiki/Redundanz_%28Technik%29> #glossary
+00:21:01 Rampant Layering Violation? <http://blogs.sun.com/bonwick/entry/rampant_layering_violation>
+00:21:04 Andrew Morton <http://en.wikipedia.org/wiki/Andrew_Morton_%28computer_programmer%29> #glossary
+00:21:18 Logical Volume Manager <http://de.wikipedia.org/wiki/Logical_Volume_Manager> #glossary
+00:22:13 Resilvering <http://en.wikipedia.org/wiki/Resilvering> #glossary
+00:22:44 ZFS Storage Pools #chapter
+00:23:41 ZPool <https://wiki.ubuntu.com/ZFS/ZPool>
+00:23:52 ZFS kann man mit Dateien (statt Festplatten) testen
+00:24:37 RAID 0 (Striping) <http://de.wikipedia.org/wiki/RAID#RAID_0:_Striping_.E2.80.93_Beschleunigung_ohne_Redundanz> #glossary
+00:25:00 Festplatten können zur Laufzeit dynamisch hinzugefügt werden
+00:27:12 Redundant Array of Independent Disks (RAID) <http://de.wikipedia.org/wiki/RAID> #glossary
+00:27:44 RAID 1 (Mirroring) <http://de.wikipedia.org/wiki/RAID#RAID_1:_Mirroring_.E2.80.93_Spiegelung> #glossary
+00:29:35 In Zukunft: Ersatzblöcke freihalten zum Ausweichen
+00:32:04 Beispielsetup
+00:32:31 Pools haben Namen (z.B. “tank”)
+00:32:51 Mounten <http://de.wikipedia.org/wiki/Mounten> #glossary
+00:33:12 ZFS Dateisystem-Verwaltung #chapter
+00:33:20 ZFS Quota
+00:33:32 Disk Quota <http://de.wikipedia.org/wiki/Disk_Quota> #glossary
+00:33:54 ZFS Reservation
+00:34:19 Neue Denkweise mit ZFS
+00:34:31 Früher: am Anfang Filesystem-Größen festlegen
+00:34:44 /var, /temp <http://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout> #glossary
+00:35:03 Mit ZFS: Filesystem-Größe ändert sich dynamisch
+00:35:30 ZFS Lightweight Filesystem Creation
+00:35:44 mkdir <http://de.wikipedia.org/wiki/Mkdir> #glossary
+00:36:12 ZFS Filesystem Properties #topic
+00:36:25 Accesstime
+00:36:53 Properties werden vererbt
+00:37:05 Filesysteme werden im Pool erstellt wie Ordner im Filesystem
+00:38:14 ZFS Verschlüsselung #topic
+00:38:25 Schlüsselmanagement
+00:38:50 On-Disk-Format <http://www.opensolaris.org/os/community/zfs/docs/ondiskformat0822.pdf>
+00:38:56 ZFS Komprimierung #chapter
+00:39:14 MP3 <http://de.wikipedia.org/wiki/MP3> #glossary
+00:39:20 Lossless-Komprimierung <http://de.wikipedia.org/wiki/Datenkompression#Verlustlose_Kompression> #glossary
+00:39:44 FLAC <http://de.wikipedia.org/wiki/Free_Lossless_Audio_Codec> #glossary
+00:40:42 LZJB <http://en.wikipedia.org/wiki/LZJB> #glossary
+00:40:47 Lempel-Ziv-Markow-Algorithmus <http://de.wikipedia.org/wiki/Lempel-Ziv-Markow-Algorithmus> #glossary
+00:40:49 Lzip <http://de.wikipedia.org/wiki/Lzip> #glossary
+00:40:50 LZO <http://de.wikipedia.org/wiki/Lempel-Ziv-Oberhumer> #glossary
+00:40:56 Jeff Bonwick
+00:41:13 gzip <http://de.wikipedia.org/wiki/Gzip> #glossary
+00:42:03 "ZFS ist eigentlich sowieso einzeln betrachtet nichts neues. […] Aber das alles in einen Topf zu packen und als Einheit wirken zu lassen, das gibt es noch nicht." (Denis) #quote
+00:42:15 Amiga <http://de.wikipedia.org/wiki/Amiga> #glossary
+00:42:30 Rampant Layering Violation #chapter
+00:42:40 Vergleich von ZFS zu FreeBSDs GEOM #topic
+00:42:52 FreeBSD <http://de.wikipedia.org/wiki/FreeBSD> #glossary
+00:42:53 GEOM <http://en.wikipedia.org/wiki/GEOM> #glossary
+00:44:16 Eierlegende Wollmilchsau <http://de.wikipedia.org/wiki/Eierlegende_Wollmilchsau> #glossary
+00:44:44 "ZFS ist eigentlich ein Scheißname." (Tim) "Weil es ist halt nicht nur ein Filesystem." (Denis) #quote
+00:46:12 Elevator Algorithmus <http://en.wikipedia.org/wiki/Elevator_algorithm> #glossary
+00:47:13 ZFS Snapshots #chapter
+00:47:27 Snapshot <http://en.wikipedia.org/wiki/Snapshot_%28computer_storage%29> #glossary
+00:47:36 UFS <http://de.wikipedia.org/wiki/Unix_File_System> #glossary
+00:48:00 Beispiel mit Mails
+00:49:44 Copy on Write
+00:51:30 Überblock (0x00bab10c) <http://blogs.sun.com/tabriz/entry/zfs_on_disk_format>
+00:52:10 Bold Move <http://chaosradio.ccc.de/ctv061.html>
+00:52:11 Die Shownotes werden erwähnt. Hallo!
+00:52:39 Chaosradio <http://chaosradio.ccc.de>
+00:52:46 CRE (früher “Chaosradio Express”) <http://cre.fm/>
+00:53:45 Zugriff auf Snapshots
+00:54:00 .zfs Ordner
+00:54:08 ls <http://de.wikipedia.org/wiki/Ls_%28Unix%29> #glossary
+00:54:12 cd <http://de.wikipedia.org/wiki/Cd_%28Kommandozeilenbefehl%29> #glossary
+00:54:52 alle Operationen am Dateibaum sind grundsätzlich atomar
+00:55:05 Atomare Operation <http://de.wikipedia.org/wiki/Atomare_Operation> #glossary
+00:55:42 ZFS Intent Log (ZIL) #chapter
+00:55:50 PostgreSQL <http://de.wikipedia.org/wiki/PostgreSQL> #glossary
+00:55:53 WAL <http://en.wikipedia.org/wiki/Write-ahead_logging> #glossary
+00:55:59 Transaktionen <http://de.wikipedia.org/wiki/Transaktion_%28Informatik%29> #glossary
+00:56:14 Intent Log <http://en.wikipedia.org/wiki/Intent_log> #glossary
+00:57:15 Inkrementelle Backups #topic
+00:58:51 Snapshots verschicken <http://en.wikipedia.org/wiki/ZFS#Sending_and_receiving_snapshots> #glossary
+00:58:55 zfs send
+00:58:59 zfs receive
+01:00:59 Nachteile von ZFS #chapter
+01:01:05 Geschwindigkeit
+01:02:45 ZFS unter FreeBSD #chapter
+01:03:27 Pawel Jakub Dawidek <http://garage.freebsd.pl>
+01:04:10 FreeBSD <http://de.wikipedia.org/wiki/FreeBSD> #glossary
+01:04:15 Denis erzählt von seinem Backup-Setup #topic
+01:04:36 ZFS ist sehr speicher- und CPU-hungrig
+01:04:49 Logfiles <http://de.wikipedia.org/wiki/Logdatei> #glossary
+01:05:43 Jeder Rechner hat sein eigenes ZFS Filesystem
+01:06:06 rsync <http://de.wikipedia.org/wiki/Rsync> #glossary
+01:07:05 stündliche Backups für eine Woche
+01:07:48 FreeBSD 7.0 <https://www.freebsd.org/releases/7.0R/announce.html>
+01:08:16 Danke an Pawel Jakub Dawidek
+01:08:46 ZFS on FUSE <http://zfs-on-fuse.blogspot.de/> #chapter
+01:08:56 FUSE <http://fuse.sourceforge.net/>
+01:08:57 CDDL <http://de.wikipedia.org/wiki/Common_Development_and_Distribution_License> #glossary
+01:09:53 SSH <https://en.wikipedia.org/wiki/Secure_Shell> #glossary
+01:09:54 FTP <https://en.wikipedia.org/wiki/File_Transfer_Protocol> #glossary
+01:09:58 SSHFS <https://en.wikipedia.org/wiki/SSHFS> #glossary
+01:10:56 Mozilla Public License <http://de.wikipedia.org/wiki/Mozilla_Public_License> #glossary
+01:10:58 Allwissende Müllhalde <http://de.wikipedia.org/wiki/Allwissende_M%C3%BCllhalde> #glossary
+01:11:28 GPL <http://de.wikipedia.org/wiki/GNU_General_Public_License> #glossary
+01:11:40 BSD-Lizenz <http://de.wikipedia.org/wiki/BSD-Lizenz> #glossary
+01:11:48 FreeBSD <http://cre.fm/cre048-freebsd>
+01:12:20 Die Durchschlagskraft von ZFS
+01:14:00 Hans Reiser <http://de.wikipedia.org/wiki/Hans_Reiser_%28Entwickler%29> #glossary
+01:14:19 ZFS unter Mac OS X #chapter
+01:14:30 Apple Looking at ZFS for Mac OS X <http://slashdot.org/story/06/05/01/1110226/apple-looking-at-zfs-for-mac-os-x>
+01:15:24 Mac OS 10.5 Leopard <http://de.wikipedia.org/wiki/Mac_OS_X_10.5> #glossary
+01:15:47 ZFS nur read-only
+01:16:17 Case Insensitivity <http://de.wikipedia.org/wiki/Case_sensitivity> #glossary
+01:16:54 Kernel Extension <http://en.wikipedia.org/wiki/Kernel_Extension> #glossary
+01:17:24 Denis geht davon aus, dass ZFS dann in 10.5.1 nachgeliefert wird
+01:17:30 Mac OS X 10.6 <http://de.wikipedia.org/wiki/Mac_OS_X_10.6> #glossary
+01:17:50 ZFS um Daten zwischen Betriebssystemen auszutauschen
+01:18:16 ext3 <http://de.wikipedia.org/wiki/Ext3> #glossary
+01:19:20 Apple Partition Map <http://en.wikipedia.org/wiki/Apple_Partition_Map> #glossary
+01:19:25 GUID Partition Table <http://en.wikipedia.org/wiki/GUID_Partition_Table> #glossary
+01:19:30 UEFI <http://de.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface> #glossary
+01:20:24 WinFS <http://de.wikipedia.org/wiki/WinFS> #glossary
+01:22:47 POSIX <http://de.wikipedia.org/wiki/Portable_Operating_System_Interface> #glossary
+01:23:16 Metadaten #chapter
+01:23:25 User Properties für Filesysteme
+01:23:55 Extended File Attributes <http://en.wikipedia.org/wiki/Extended_file_attributes> #glossary
+01:24:04 BFS <http://de.wikipedia.org/wiki/Be_File_System> #glossary
+01:24:05 Practical File System Desing with BFS <http://www.nobius.org/~dbg/practical-file-system-design.pdf> #revision
+01:24:07 BeOS <http://de.wikipedia.org/wiki/BeOS> #glossary
+01:24:53 Spotlight <http://de.wikipedia.org/wiki/Spotlight_%28Software%29> #glossary
+01:26:00 RAIDs #chapter
+01:26:07 RAID 0 <http://de.wikipedia.org/wiki/RAID#RAID_0:_Striping_.E2.80.93_Beschleunigung_ohne_Redundanz> #glossary
+01:26:08 RAID 1 <http://de.wikipedia.org/wiki/RAID#RAID_1:_Mirroring_.E2.80.93_Spiegelung> #glossary
+01:26:09 RAID 5 <http://de.wikipedia.org/wiki/RAID#RAID_5:_Leistung_.2B_Parit.C3.A4t.2C_Block-Level_Striping_mit_verteilter_Parit.C3.A4tsinformation> #glossary
+01:26:37 Parität <http://de.wikipedia.org/wiki/Parit%C3%A4tsbit> #glossary
+01:27:12 RAID-Z <http://de.wikipedia.org/wiki/RAID#RAID-Z_im_Dateisystem_ZFS> #glossary
+01:27:30 RAID 6 <http://de.wikipedia.org/wiki/RAID#RAID_6:_Block-Level_Striping_mit_doppelter_verteilter_Parit.C3.A4tsinformation> #glossary
+01:27:55 RAID-Z2  <http://de.wikipedia.org/wiki/RAID#RAID-Z_im_Dateisystem_ZFS> #glossary
+01:28:26 Buttle-Tuttle-Konfusion <http://de.wikipedia.org/wiki/Brazil> #glossary
+01:28:51 Hot-Spare-Laufwerk <http://de.wikipedia.org/wiki/RAID#Hot-Spare-Laufwerk> #glossary
+01:29:13 “Plattenmonkeys” (Denis)
+01:29:35 Abschluss #chapter
+01:29:40 Snapshots wiederherstellen
+01:30:58 Livestream ist auf halber Strecke gescheitert
+01:31:23 Kommentaraufruf
+01:31:31 Verabschiedung
+01:31:36 CRE Outro #music
