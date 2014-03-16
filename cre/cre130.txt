@@ -1,0 +1,270 @@
+00:00:00 Intro #chapter
+00:00:46 CRE Intro
+00:01:13 Begrüßung #chapter
+00:01:44 Version Control <https://de.wikipedia.org/wiki/Versionsverwaltung> #glossary
+00:01:51 Distributed Version Control <https://en.wikipedia.org/wiki/Distributed_version_control> #glossary
+00:01:59 hukl <http://smyck.net/>
+00:02:16 Geschichte #chapter
+00:02:35 Softwareentwicklung <https://de.wikipedia.org/wiki/Softwareentwicklung> #glossary
+00:02:40 Systemadministration <https://de.wikipedia.org/wiki/Systemadministration> #glossary
+00:02:41 Konfigurationsdateien <https://de.wikipedia.org/wiki/Konfigurationsdatei> #glossary
+00:03:16 Versionsnummer <https://de.wikipedia.org/wiki/Versionsnummer> #glossary
+00:03:28 Versionskontrollsystem <https://de.wikipedia.org/wiki/Versionsverwaltung> #glossary
+00:03:42 CVS <https://de.wikipedia.org/wiki/Concurrent_Versions_System> #glossary
+00:03:45 “Kupferstandard” (Tim) #quote
+00:04:02 Klondike <https://de.wikipedia.org/wiki/Klondike-Goldrausch> #glossary
+00:04:11 “Als man mit seinen 2 mal 80MB-Festplatten noch der Held der Straße war.” (Tim) #quote
+00:04:19 Unix <https://de.wikipedia.org/wiki/Unix> #glossary
+00:04:30 SCCS <https://de.wikipedia.org/wiki/SCCS> #glossary
+00:04:35 RCS <http://de.wikipedia.org/wiki/Revision_Control_System> #glossary
+00:04:48 VMS <http://de.wikipedia.org/wiki/Virtual_Memory_System> #glossary
+00:04:50 Virtual Address eXtension (VAX) <https://de.wikipedia.org/wiki/Virtual_Address_eXtension> #glossary
+00:04:54 Dateisystem <https://de.wikipedia.org/wiki/Dateisystem> #glossary
+00:05:46 Sysadmins nutzen immer noch RCS
+00:06:06 rc.conf <http://www.freebsd.org/cgi/man.cgi?query=rc.conf&sektion=5> #glossary
+00:06:09 Firewall <https://de.wikipedia.org/wiki/Firewall> #glossary
+00:06:46 FreeBSD <https://de.wikipedia.org/wiki/FreeBSD> #glossary
+00:07:45 Punktverzeichnisse <https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory> #glossary
+00:08:04 OpenBSD <https://de.wikipedia.org/wiki/OpenBSD> #glossary
+00:08:11 Über hukl #chapter
+00:08:27 Apple Macintosh Performa 6200CD <http://www.everymac.com/systems/apple/mac_performa/specs/mac_performa_6200cd.html> #glossary
+00:08:52 FreeHand <https://de.wikipedia.org/wiki/FreeHand> #glossary
+00:08:53 Director <https://de.wikipedia.org/wiki/Adobe_Director> #glossary
+00:09:10 CCC <https://de.wikipedia.org/wiki/Chaos_Computer_Club> #glossary
+00:09:40 Modem <https://de.wikipedia.org/wiki/Modem> #glossary
+00:09:43 1&1 <https://de.wikipedia.org/wiki/1%261_Internet_AG> #glossary
+00:09:50 Treiber <https://de.wikipedia.org/wiki/Ger%C3%A4tetreiber> #glossary
+00:09:55 AT-Befehle <https://de.wikipedia.org/wiki/AT-Befehlssatz> #glossary
+00:10:22 Subversion (SVN) <https://de.wikipedia.org/wiki/Apache_Subversion> #glossary
+00:11:06 Branch <https://en.wikipedia.org/wiki/Branching_%28revision_control%29> #glossary
+00:11:07 Merge <https://en.wikipedia.org/wiki/Merge_%28revision_control%29> #glossary
+00:11:34 RCS, CVS, SVN #chapter
+00:11:47 CVS war der heiße Scheiß nach RCS
+00:11:53 RCS hat nur in einem Verzeichnis versioniert
+00:12:14 CVS geht von mehreren Mitarbeitern aus
+00:12:33 Terminal <https://de.wikipedia.org/wiki/Terminal_%28Computer%29> #glossary
+00:12:45 Repository <https://en.wikipedia.org/wiki/Repository_%28version_control%29> #glossary
+00:13:08 SSH <https://de.wikipedia.org/wiki/Secure_Shell> #glossary
+00:13:08 Tunnel <https://de.wikipedia.org/wiki/Tunnel_%28Rechnernetz%29> #glossary
+00:13:12 CVS ist nicht Internet-aware, kann man aber trotzdem über Internet machen
+00:13:22 RCS war Single-User
+00:13:33 Konflikt <https://en.wikipedia.org/wiki/Conflict_%28revision_control%29> #glossary
+00:13:41 Locking (Konfliktbehandlung)
+00:13:52 Merging (Konfliktbehandlung)
+00:15:08 Cygnus Solutions <https://en.wikipedia.org/wiki/Cygnus_Solutions> #glossary
+00:15:10 TCP/IP <https://de.wikipedia.org/wiki/TCP/IP> #glossary
+00:15:29 Die allwissende Müllhalde <https://de.wikipedia.org> #glossary
+00:15:49 GCC <https://de.wikipedia.org/wiki/GNU_Compiler_Collection> #glossary
+00:16:02 das Interessante war die Kollaboration
+00:16:22 “Aber: CVS nervt.” (Tim) #quote
+00:16:44 Verschieben von Verzeichnissen war schmerzhaft mit CVS
+00:17:40 “Subversion war dann eben so das Durchatmen nach 10 Jahren” (Tim) #quote
+00:17:59 RCS und CVS konnten nur Text, SVN auch Binaries
+00:18:19 CVS war 10 Jahre lang alleine auf dem Markt
+00:18:41 Commits in CVS waren non-atomic
+00:20:06 Commit <https://en.wikipedia.org/wiki/Commit_%28data_management%29#Revision_control> #glossary
+00:20:29 Subversion hat das Prinzip von CVS vollendet
+00:21:05 Time Machine <https://de.wikipedia.org/wiki/Time_Machine_%28Apple%29> #glossary
+00:21:26 Rollback <https://de.wikipedia.org/wiki/Rollback> #glossary
+00:21:33 SVN ist Internet-aware
+00:21:57 Was macht ein Versionierungssystem? #chapter
+00:22:35 Ursprung der Versionierung
+00:22:44 diff <https://de.wikipedia.org/wiki/Diff> #glossary
+00:23:40 patch <https://de.wikipedia.org/wiki/Patch_%28Unix%29> #glossary
+00:24:20 Fix <https://de.wikipedia.org/wiki/Bugfix> #glossary
+00:24:35 “Ich bin heut voll dabei irgendwie. Ich muss heut einfach mal die Klondike abdecken, aber gleich steig ich aus.” (Tim) #quote
+00:24:48 Branches <https://en.wikipedia.org/wiki/Branching_%28revision_control%29> #glossary
+00:25:15 CVS mit Client-Server-Struktur
+00:25:43 CVS hat zentrales Repository
+00:25:57 Arbeitsablauf bei CVS
+00:26:11 Commit <https://de.wikipedia.org/wiki/Commit#Versionsverwaltung> #glossary
+00:26:25 Arbeitskopie (“working copy”)
+00:27:13 Vorteil von CVS
+00:27:35 Konflikte und Konfliktmanagement
+00:28:56 ein Beispiel zu Konflikten mit Alice und Bob und Larry und Sally
+00:28:57 Alice und Bob <https://de.wikipedia.org/wiki/Alice_und_Bob> #glossary
+00:31:28 Branches <https://en.wikipedia.org/wiki/Branching_%28revision_control%29> #glossary
+00:32:14 “Man muss sich halt einfach Softwareentwicklung vorstellen wie ein Bäumchen und das Bäumchen soll irgendwie wachsen.” (Tim) #quote
+00:33:03 Refactoring <https://de.wikipedia.org/wiki/Refactoring> #glossary
+00:35:24 Merge <https://en.wikipedia.org/wiki/Merge_%28revision_control%29> #glossary
+00:36:14 Kategorie 1/3: Versionskontrollsystem hat keine Probleme beim Mergen
+00:36:29 Trunk <https://en.wikipedia.org/wiki/Trunk_%28software%29> #glossary
+00:36:54 SVN schafft ab und zu einen Merge auch mal alleine
+00:37:12 Library <https://de.wikipedia.org/wiki/Programmbibliothek> #glossary
+00:37:54 Kategorie 2/3: Konflikte aufgrund der Architektur des Versionskontrollsystems
+00:38:15 moderne Versionskontrollsysteme tracken den Inhalt der Dateien anstatt der Dateien selbst
+00:38:53 Probleme von SVN #chapter
+00:39:13 Anekdote: einen Tag lang Merge-Konflikte beheben
+00:40:00 Warum ist Mergen so schmerzhaft?
+00:40:40 Hardlink <https://de.wikipedia.org/wiki/Harter_Link> #glossary
+00:42:00 Linus Torvalds <https://de.wikipedia.org/wiki/Linus_Torvalds> #glossary
+00:42:01 git <https://de.wikipedia.org/wiki/Git> #glossary
+00:42:03 “Branchen – who cares? Das Schwierige ist das Mergen.” (hukl) #quote
+00:42:15 SVN kann nicht so wirklich gut mergen
+00:42:32 Merge Tracking
+00:43:40 Anekdote von Tim
+00:44:39 SVN hatte Probleme mit der Datenstruktur
+00:44:47 Berkeley DB <https://de.wikipedia.org/wiki/Berkeley_DB> #glossary
+00:45:59 Files tracken vs. Content tracken
+00:46:48 zentrale Versionskontrollsysteme haben Kollaboration vereinfacht
+00:47:09 SVN hat seine Kinderkrankheiten hinter sich
+00:47:37 Git #chapter
+00:47:47 Git <https://de.wikipedia.org/wiki/Git> #glossary
+00:47:58 BitKeeper <https://de.wikipedia.org/wiki/BitKeeper> #glossary
+00:48:00 SVK <https://en.wikipedia.org/wiki/SVK> #glossary
+00:48:16 Mercurial <https://de.wikipedia.org/wiki/Mercurial> #glossary
+00:48:17 Bazaar <https://de.wikipedia.org/wiki/Bazaar> #glossary
+00:48:27 GNU arch <https://de.wikipedia.org/wiki/GNU_arch> #glossary
+00:48:36 Monotone <https://de.wikipedia.org/wiki/Monotone> #glossary
+00:48:47 Larry McVoy <https://en.wikipedia.org/wiki/Larry_McVoy> #glossary
+00:49:19 Linux Kernel <https://de.wikipedia.org/wiki/Linux_Kernel> #glossary
+00:49:35 Was kann git denn besser?
+00:49:59 Ruby on Rails <https://de.wikipedia.org/wiki/Ruby_on_Rails> #glossary
+00:50:21 "Es gibt nichts was SVN besser macht als ein dezentrales Repository." (hukl) #quote
+00:50:34 Distributed Version Control <https://en.wikipedia.org/wiki/Distributed_revision_control> #glossary
+00:51:14 Single Point of Failure <https://de.wikipedia.org/wiki/Single_Point_of_Failure> #glossary
+00:51:25 Google Code <http://code.google.com/>
+00:51:38 “In dem Moment, wo die Google-Server abbrennen, ist deine ganze History weg” (hukl) “But Google never fails!” (Tim) #quote
+00:52:20 Geschwindigkeit
+00:52:32 Quantensprung <https://de.wikipedia.org/wiki/Quantensprung> #glossary
+00:52:45 Bei SVN ist für jede Operation eine Verbindung zum zentralen Repository notwendig
+00:53:42 Initialer Checkout von Git dauert länger als SVN
+00:54:37 Git spart Platz und ist nach dem initialen Checkout erheblich schneller
+00:55:19 “Wenn du das einmal erfahren hast, dass alles einfach fast instantan geht, dann willst du da nicht mehr zurück.” (hukl) #quote
+00:55:57 Interne Datenstruktur von Git #chapter
+00:57:20 Ein einziger .git-Ordner im Top-Level-Verzeichnis
+00:57:43 Vier Git Objects <http://git-scm.com/book/en/Git-Internals-Git-Objects> #glossary
+00:57:50 Git Blob (Binary Large OBject)
+00:58:02 gzip <https://de.wikipedia.org/wiki/gzip> #glossary
+00:58:03 bzip <https://de.wikipedia.org/wiki/Bzip2> #glossary
+00:58:15 Dateiname des Blobs ist Hash über Inhalt der Datei
+00:58:16 SHA1-Hash <https://de.wikipedia.org/wiki/Secure_Hash_Algorithm> #glossary
+00:58:48 Git Tree Object
+00:59:23 Git Commit Object
+00:59:40 Jeder Commit referenziert ein Top-Level Tree Object
+01:01:00 ZFS <https://de.wikipedia.org/wiki/ZFS_%28Dateisystem%29> #glossary
+01:02:14 Git Tag Object
+01:02:18 Tags referenzieren Commits
+01:03:06 Durch SHA1 hat man auch gleich Prüfsummen
+01:05:07 Branching: Jeder Commit hat einen Parent Commit
+01:06:32 Aus Merge resultierender Commit hat zwei Parents
+01:07:07 Git und Mercurial können deshalb besser mergen
+01:07:47 Hashfunktion <https://de.wikipedia.org/wiki/Hashfunktion> #glossary
+01:08:23 Tim fasst zusammen
+01:10:31 Auch bei Git gibt es Konflikte, aber weniger unnötige
+01:10:50 Auswirkungen der Datenstruktur #chapter
+01:11:04 Speicherplatzbedarf
+01:12:21 Commit-Rechte
+01:12:37 Fork <https://de.wikipedia.org/wiki/Abspaltung_%28Softwareentwicklung%29> #glossary
+01:12:43 “Wenn man ein Projekt da betreut hat und irgendjemand hat gesagt: ‘Ich mache einen Fork!’” (hukl) “Das war eine Kampfansage.” (Tim) #quote
+01:13:12 “Bei dezentralen Systemen ist forken cool.” (hukl) #quote
+01:13:47 IRC <https://de.wikipedia.org/wiki/Internet_Relay_Chat> #glossary
+01:13:55 GitHub <https://github.com>
+01:14:03 Pull Request <https://help.github.com/articles/using-pull-requests> #glossary
+01:14:33 Tim kann es kaum fassen
+01:15:03 Git Clone <http://git-scm.com/docs/git-clone> #glossary
+01:15:27 Patch <https://de.wikipedia.org/wiki/Patch_%28Software%29> #glossary
+01:16:04 Forken und Mergen sind erwünscht und einfach
+01:18:37 “Distributierte Versionskontrollsysteme könnte man in der Softwarewelt schon fast für den Friedensnobelpreis vorschlagen.” (Tim) #quote
+01:21:13 Bei dezentralen Systemen ist jedes Repository ist technisch gleichberechtigt
+01:21:32 Abandonware <https://de.wikipedia.org/wiki/Abandonware> #glossary
+01:22:08 “Eigentlich ist das so ein bisschen Open Source++.” (Tim) #quote
+01:22:52 Keine Netzwerkverbindung notwendig
+01:25:53 Identifikation von Commits
+01:27:58 Unterschiede zwischen Repositories
+01:29:01 Lokale und Remote Branches
+01:32:24 “Also Mercurial und Git sind sehr sehr sehr sehr ähnlich. Das, was ich über Git sage, ist zu 98,5% auch wahr für Mercurial.” (hukl) #quote
+01:35:25 Git Pull <http://git-scm.com/docs/git-pull> #glossary
+01:36:50 Unterschiede bei Branches zwischen Git und Mercurial
+01:38:11 Unterschiede beim Interface zwischen Git und Mercurial
+01:39:58 Marktanteil Git vs. Mercurial
+01:41:39 Dateinamen ändern
+01:42:59 Bazaar <https://de.wikipedia.org/wiki/Bazaar> #glossary
+01:43:09 Unterschiede zwischen Git, Mercurial, Bazaar?
+01:43:28 Die enormen Vorteile gegenüber SVN sind bei allen dreien gegeben
+01:44:07 Bazaar haben am Anfang Features gefehlt
+01:45:11 Git und Mercurial sind dann zur gleichen Zeit aus der gleichen Motivation heraus entstanden
+01:46:17 Bazaar hat danach aufgeholt
+01:47:01 Eigentlich sind sich jetzt alle sehr ähnlich
+01:47:46 Bitbucket <https://bitbucket.org/>
+01:47:51 Launchpad <https://launchpad.net/>
+01:48:09 Was leisten diese Seiten?
+01:49:18 Zugriffsrechte verwalten
+01:50:05 Soziale Komponente
+01:54:03 Wikipedia <https://de.wikipedia.org/> #glossar
+01:54:26 Wikipedia Dump <https://de.wikipedia.org/wiki/Hilfe:Download>
+01:56:30 “Ein Rausch, der da ausgebrochen ist mit diesem Forken und Mergen und Pushen und Pullen und Messages Senden und Watchen und…” (hukl) #quote
+01:56:53 Hukl meint, es hilft der Software-Qualität
+01:57:35 Der Maintainer kann das Auflösen der Merge-Konflikte an den Contributor delegieren
+01:59:38 Andere Anwendungsfälle #chapter
+02:00:41 Pro Git <http://git-scm.com/book>
+02:01:11 Markdown <https://de.wikipedia.org/wiki/Markdown> #glossary
+02:01:12 Pro Git Repository <https://github.com/progit/progit>
+02:01:51 CMS <https://de.wikipedia.org/wiki/Content-Management-System> #glossary
+02:03:00 GitFS <https://github.com/rossbiro/GitFS>
+02:03:17 Synchronisation und Deployment
+02:05:05 Weitere Features #chapter
+02:05:06 Git’s Pluggable Merge Strategies <http://git-scm.com/docs/git-merge#_merge_strategies> #glossary
+02:05:29 Git’s Octopus Branch Strategy
+02:06:55 Binary Diffs
+02:07:05 JPEG <https://de.wikipedia.org/wiki/JPEG_File_Interchange_Format> #glossary
+02:07:10 MP3 <https://de.wikipedia.org/wiki/MP3> #glossary
+02:07:26 ID3-Tag <https://de.wikipedia.org/wiki/ID3-Tag> #glossary
+02:07:35 History Rewriting
+02:07:56 Commits zusammenfassen
+02:08:51 Commits umordnen
+02:09:10 Commits löschen
+02:10:55 Wie funktioniert der Umzug?
+02:10:58 “Jetzt bin ich irgendwie total überzeugt, distributet ist da shit.” (Tim) #quote
+02:11:34 Fall: Arbeitgeber benutzt SVN und will nicht wechseln
+02:11:46 Git/Mercurial können mit SVN reden
+02:12:25 SVK <https://de.wikipedia.org/wiki/SVK_%28Software%29> #glossary
+02:12:49 Mercurial kann mit Git reden
+02:13:22 Fall: Einzelner Nutzer will nicht wechseln
+02:14:25 Git Daemon <http://git-scm.com/book/en/Git-on-the-Server-Git-Daemon> #glossary
+02:14:30 SVN Import <http://git-scm.com/docs/git-svn> #glossary
+02:15:12 Die eigentliche Hürde ist das Umdenken
+02:16:42 Matrix <https://de.wikipedia.org/wiki/Matrix_%28Film%29> #glossary
+02:17:14 Verteilte Versionskontrolle macht viel mehr Spaß
+02:19:51 InDesign <https://de.wikipedia.org/wiki/Adobe_InDesign> #glossary
+02:19:55 git-init <http://git-scm.com/docs/git-init> #glossary
+02:20:29 Git GUI
+02:21:07 gitk <http://git-scm.com/docs/gitk> #glossary
+02:21:22 IDE <https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung> #glossary
+02:21:24 Eclipse <https://de.wikipedia.org/wiki/Eclipse_%28IDE%29> #glossary
+02:21:42 Mit Git kann man Vieles noch retten
+02:22:30 Blick in die Zukunft #chapter
+02:22:37 Git User Survey 2009 <https://git.wiki.kernel.org/index.php/GitSurvey2009> #glossary
+02:22:46 hukl fällt nichts ein
+02:23:07 File Permissions <https://de.wikipedia.org/wiki/Unix-Dateirechte> #glossary
+02:23:40 Versionskontrolle auf alles anwenden
+02:24:18 SubEthaEdit <https://de.wikipedia.org/wiki/SubEthaEdit> #glossary
+02:24:38 Google Docs <https://docs.google.com>
+02:25:21 Undo <https://de.wikipedia.org/wiki/Undo> #glossary
+02:25:34 Photoshop <https://de.wikipedia.org/wiki/Adobe_Photoshop> #glossary
+02:26:05 Time Machine <https://de.wikipedia.org/wiki/Time_Machine_%28Apple%29> #glossary
+02:28:09 Git Dokumentation #chapter
+02:28:29 Pro Git <http://git-scm.com/book>
+02:28:37 Apress <https://en.wikipedia.org/wiki/Apress> #glossary
+02:28:47 Pro Django <http://prodjango.com/>
+02:29:20 git-scm <http://git-scm.com/>
+02:30:11 Git Community Book <http://alx.github.io/gitbook/>
+02:30:43 Linus Torvalds bei Google <http://www.youtube.com/watch?v=4XpnKHJAok8>
+02:31:50 Buch von O’Reilly <http://shop.oreilly.com/product/9780596520137.do>
+02:32:12 Mercurial Homepage <http://mercurial.selenic.com/>
+02:32:25 Github Documentation <https://help.github.com/>
+02:32:46 gitready.com <http://gitready.com/>
+02:34:01 Why Git is Better Than X <http://www.whygitisbetterthanx.com/>
+02:34:20 Git Community
+02:35:28 Git Version 1.6.3.4 <https://www.kernel.org/pub/software/scm/git/docs/RelNotes-1.6.3.4.txt>
+02:35:40 Git Version 1.6.4 <https://www.kernel.org/pub/software/scm/git/docs/RelNotes-1.6.4.txt>
+02:36:45 OpenBSD <https://de.wikipedia.org/wiki/OpenBSD> #glossary
+02:36:46 FreeBSD <https://de.wikipedia.org/wiki/FreeBSD> #glossary
+02:36:47 NetBSD <https://de.wikipedia.org/wiki/NetBSD> #glossary
+02:37:06 “Da muss man sich echt nicht schämen wenn man Mercurial oder Bazaar jetzt benutzt.” (hukl) “Schämen muss man sich nur, wenn man noch CVS benutzt.” (Tim) #quote
+02:40:01 Abschluss #chapter
+02:40:16 @hukl <http://twitter.com/hukl>
+02:40:18 @timpritlove <http://twitter.com/timpritlove>
+02:40:32 Distributed Version Control <https://de.wikipedia.org/wiki/Verteilte_Versionsverwaltung> #glossary
+02:40:47 Aufruf zum Kommentieren
+02:41:28 CRE Outro
