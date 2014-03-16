@@ -1,0 +1,264 @@
+HEADER
+Podcast: freak-show
+Episode: freak-show-128
+Starttime: Wed Mar 12 2014 20:00:00 GMT+0100 (CET)
+relativeTimestamps: no
+Endtime: Wed Mar 12 2014 20:00:00 GMT+0100 (CET)
+Podcaster: Tim Pritlove (@timpritlove), Denis Ahrens (@denis2342), hukl (@hukl), roddi (@roddi), Clemens Schrimpe (@csch)
+Shownoter: @moe, Michael Erdmann (@Soilman82), mxmerz (<http://mxmerz.de>)
+Chat: <http://webchat.freenode.net/?channels=freakshow>
+Stream: <http://streams.xenim.de/metaebene.mp3>
+Webseite: <http://freakshow.fm>
+Episodepage: <http://freakshow.fm/fs128-zweitausendachtundvierzig>
+/HEADER
+
+
+1394650873 Intro #chapter 
+1394650874 Previously on Freak Show <https://soundcloud.com/david1701/previously-on-freak-show-127> #audio
+1394650948 Intro <http://www.florianerlbeck.de/Florian_Erlbeck/Freakshow_Audio.html> #audio
+1394650975 Tim "vadert"
+1394650980 "Das ist nicht witzig!" (Denis) #q
+1394651015 2^7. Ausgabe
+1394651052 Denis und Tim erklären den letzten Sendungstitel
+1394651086 Clemens ist aus London zurück <http://www.ietf.org/meeting/>
+1394651169 Heute in Stammbesetzung
+1394651265 Roddi war in Jamaika <https://de.wikipedia.org/wiki/Jamaika> #glossary
+1394651432 Tim benötigt wegen Betriebstaubheit einen Ton-Experten in der Metaebene
+
+1394651489 Podcasting #c
+1394651496 Podcast Publisher 1.10 <http://podlove.org/2014/03/09/podlove-publisher-1-10/>
+1394651553 "Das am intensivsten ausgeschwitzte Update, was wir so bisher gehabt haben" (Tim) #q
+1394651604 Auf der Suche nach dem schönsten Podcast Publisher Template <http://docs.podlove.org/guides/understanding-templates/>
+1394651668 Spendenaufruf <http://podlove.org/2014/03/11/we-get-by-with-a-little-help-from-our-friends/>
+1394651697 Eric Teubert <https://twitter.com/ericteubert> #tweet
+1394651769 Messe  CeBIT <https://de.wikipedia.org/wiki/Cebit> #glossary
+1394651878 Tim findet Messen generell gut, um Informationen aus erster Hand der Hersteller zu erhalten
+1394652000 IP-Telefonie <https://de.wikipedia.org/wiki/IP-Telefonie> #glossary
+1394652098 Snom <http://www.snom.com/>
+- Wikipedia <https://en.wikipedia.org/wiki/Snom> #g
+1394652218 ESI U24 XL <http://www.amazon.de/ESI-U24XL-U24-XL/dp/B003MALRRA> #shopping
+1394652300 Opus Audio Codec <https://de.wikipedia.org/wiki/Opus_Codec> #glossary
+
+1394652352 IP-Telefonie #c
+1394652353 Softphone <https://de.wikipedia.org/wiki/Softphone> #g
+1394652367 Raspberry Pi <http://www.raspberrypi.org/> #glossary
+1394652429 R-Taste, Erdtaste, Hook-Flash <https://de.wikipedia.org/wiki/Rückfragetaste> #glossary
+1394652576 Innovaphone IP232 <http://www.innovaphone.com/de/ip-telefonie/ip-telefone/ip232.html>
+1394652620 “Wir können alles, außer Hochdeutsch.” <https://de.wikipedia.org/wiki/Liste_gefl%C3%BCgelter_Worte/W#Wir_k.C3.B6nnen_alles._Au.C3.9Fer_Hochdeutsch.> #glossary
+1394652717 IETF <https://de.wikipedia.org/wiki/IETF> #glossary
+- IEEE <https://de.wikipedia.org/wiki/IEEE> #g
+1394652750 IPv6 <https://de.wikipedia.org/wiki/IPv6> #glossary
+1394652766 Sipgate <https://de.wikipedia.org/wiki/Sipgate> #glossary
+- Peer-to-Peer <https://de.wikipedia.org/wiki/Peer-to-Peer> #g
+1394653006 G.722 <https://de.wikipedia.org/wiki/G.722> #glossary
+1394653858 Skype <https://de.wikipedia.org/wiki/Skype> #g
+- Mumble <https://de.wikipedia.org/wiki/Mumble> #g
+1394653926 PBX <https://de.wikipedia.org/wiki/Telefonanlage#Alternative_Bezeichnungen> #g
+1394653978 API <https://de.wikipedia.org/wiki/Programmierschnittstelle> #g
+1394653006 Opus <https://de.wikipedia.org/wiki/Opus_(Audiocodec)> #g
+1394653030 DECT <https://de.wikipedia.org/wiki/Digital_Enhanced_Cordless_Telecommunications> #g
+1394653112 "IT-Lösungen von A bis F" (Tim) #quote
+1394653135 "Bootest du noch oder druckst du schon" (hukl) #quote
+1394653138 "Während in Villariba noch gebootet wird, wird in Villabajo schon gedruckt" (hukl) #q
+- Villariba und Villabajo <https://de.wikipedia.org/wiki/Villarriba_und_Villabajo> #g
+- Werbung, auf die sich hukl bezieht <http://www.youtube.com/watch?v=B37JGubAcSU> #video
+1394653155 hukl musste schon oft vor bootenden Geldautomaten warten
+1394653262 Groundwire - Business Caliber SIP Phone <http://www.acrobits.cz/11/acrobits-groundwire-for-iphone> #glossary
+1394653389 "Von der Konkurrenz lernen, heißt siegen lernen!" (Clemens) - "Das ist keine Konkurrenz, das sind Mitbewerber!" (Tim) #q
+
+1394653439 Twitter #c
+1394653440 Twitter akzeptiert keine URLs in DMs mehr
+1394653545 App.net Bitcoin <https://bitcoin.app.net/>
+1394653678 Netbot <http://tapbots.com/software/netbot/>
+1394653685 Riposte <http://riposteapp.net/>
+1394653723 Tim verwendet immer noch iOS6
+1394653738 "iOS-sieben-fiziert" (Tim) #q
+1394653762 Echofon <http://www.echofon.com/twitter/mac/>
+1394653929 "Ich guck mir ja auch [..] alle drei Monate facebook an." (Tim) - "So oft?" (Denis) #quote
+1394654138 "KIDS REACT TO ROTARY PHONES" <http://www.youtube.com/watch?v=XkuirEweZvM> #g
+1394654180 Douglas Adams <https://de.wikipedia.org/wiki/Douglas_Adams> #glossary
+- "I've come with a set of rules..." - Zitat von Douglas Adams <http://mostly-harmless.net/dna/writings.php>
+1394654185 "Douglas Adams: Parrots the Universe and Everything" <https://www.youtube.com/watch?v=_ZG8HBuDjgc> #video
+
+1394654232 Bitcoin #c
+1394654231 Dorian Prentice Satoshi Nakamoto <https://de.bitcoin.it/wiki/Satoshi_Nakamoto> #g
+1394654245 Newsweek-Artikel <http://mag.newsweek.com/2014/03/14/bitcoin-satoshi-nakamoto.html>
+1394654277 Lea McGrath Goodman <http://www.newsweek.com/authors/leah-mcgrath-goodman>
+1394654317 "Newsweek has issued a statement about this article" <http://www.newsweek.com/newsweeks-statement-bitcoin-story-231242>
+1394654376 Video bei LA Times <http://www.latimes.com/business/technology/la-fi-tn-watch-dorian-satoshi-nakamoto-did-not-create-bitcoin-20140307,0,3730730.story>
+- "Alleged Bitcoin Creator Dorian Prentice Satoshi Nakamoto Denies Bitcoin Involvement"  <http://www.youtube.com/watch?v=-oRq7e8GMII> #video
+- Artikel bei AP <http://bigstory.ap.org/article/ap-exclusive-man-denies-hes-bitcoin-founder> #article
+1394654447 Forumpost von Satoshi Nakamoto <http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186>
+1394654501 Nick Szabo <http://blog.sethroberts.net/2014/03/11/nick-szabo-is-satoshi-nakamoto-the-inventor-of-bitcoin/>
+1394654610 Crowdfunding für Dorian P. S. Nakamoto <http://www.reddit.com/r/Bitcoin/comments/1ztjmg/andreas_im_fundraising_for_dorian_nakamoto>
+1394654746 Dorian Nakamoto signed Satoshi Nakamotos Bitcoin Key <https://bitcointalk.org/index.php?topic=504778.0;all>
+1394654867 Tonprobleme: Denis ist sehr leise
+1394654944 "Mitm Fahrrad nich in den ersten Wagen!" (Clemens testet den Kompressor) #quote
+1394654957 "Ich hab zurückbleiben gesagt!" (Clemens testet weiter) #quote
+1394654982 Peter R’s Theorie zu mtgox <https://bitcointalk.org/index.php?topic=497289.0>
+1394654984 180.000 BTC moved <http://blockr.io/tx/info/4ee89f7cf824a85ad5f11d52604ffdebe9f01302bcea8ddec0af450f9185ddf1>
+1394655159 Denis hat kürzlich für 0.1 BTC seine Freunde zum Burger-Essen eingeladen
+- Room 77 <http://www.room77.de/>
+- Blockchain.info wallet <https://blockchain.info/de/wallet>
+1394655212 "Vielleicht macht der Hoeneß ja 'ne Bank auf." (Denis kann keinen Bitcoin-Exchange empfehlen) #quote
+1394655216 Bitstamp <https://de.bitstamp.net/>
+1394655273 Coinbase <https://coinbase.com/>
+1394655294 Bitcoin.de <https://www.bitcoin.de/>
+1394655320 hukl mag den "Sparkassengeruch" von bitcoin.de nicht
+1394655386 Kim Schmitz <https://de.wikipedia.org/wiki/Kim_Dotcom> #g
+1394655392 "Megacoin" (Tim kann sich vorstellen, dass Kimble seine eigene Währung erschaffen könnte) #quote
+1394655497 Office Space <http://www.imdb.com/title/tt0151804/> #g
+1394655506 flexcoin <http://www.flexcoin.com/>
+- Artikel zu flexcoin <http://www.euronews.com/2014/03/05/another-bitcoin-bank-bites-the-dust-flexcoin-blames-losses-on-hackers/> #article
+1394655518 Poloniex <https://poloniex.com/>
+1394655567 Bitcoin Client Changelog <https://github.com/bitcoin/bitcoin/>
+
+1394655825 gotofail #chapter
+1394655826 "Wo wir gerade bei skurrilen Open-Source-Librarys sind" (Tim) #quote
+1394655830 GnuTLS bug <http://arstechnica.com/security/2014/03/critical-crypto-bug-leaves-linux-hundreds-of-apps-open-to-eavesdropping/> #article
+1394655837 GnuTLS <https://de.wikipedia.org/wiki/GnuTLS> #glossary
+1394655840 korrigierender Commit für GnuTLS <https://www.gitorious.org/gnutls/gnutls/commit/6aa26f78150ccbdf0aec1878a41c17c41d358a3b>
+1394656099 "Diese ganze zertifikatbasierte Security ist auch ein Problem in sich." (Tim) #quote
+1394656140 Certificate Authority <https://de.wikipedia.org/wiki/Certificate_Authority> #glossary
+1394656245 Zertifikat <https://de.wikipedia.org/wiki/Digitales_Zertifikat> #glossary
+1394656260 Public Key <https://en.wikipedia.org/wiki/Public_key> #glossary
+1394656403 Extended Validation Certificate <https://de.wikipedia.org/wiki/Extended-Validation-Zertifikat> #glossary
+1394656488 ssl-tools.net <http://ssl-tools.net>
+1394656507 Qualys SSL Labs <https://www.ssllabs.com/ssltest/>
+1394656625 Symmetrische Cypher <https://de.wikipedia.org/wiki/Symmetrisches_Kryptosystem>
+1394656666 RC4 <https://de.wikipedia.org/wiki/RC4> #glossary
+1394656669 AES <https://de.wikipedia.org/wiki/Advanced_Encryption_Standard> #glossary
+1394656672 Blowfish <https://de.wikipedia.org/wiki/Blowfish> #glossary
+1394656675 Enigma <https://de.wikipedia.org/wiki/Enigma_%28Maschine%29> #glossary
+1394656688 One-Time-Pad Verfahren <https://de.wikipedia.org/wiki/One-Time-Pad> #glossary
+- vgl. <https://de.wikipedia.org/wiki/Einmalpasswort> #g
+1394656690 Schlüsselaustauschproblem <https://de.wikipedia.org/wiki/Schl%C3%BCsselaustauschproblem> #glossary
+1394656695 Diffie-Hellman-Schlüsselaustauschverfahren <http://de.wikipedia.org/wiki/Diffie-Hellman-Schl%C3%BCsselaustausch> #glossary
+1394656722 "Sagt doch mal ein paar Webseiten eures Vertrauens." (Tim) - "facebook.com" (hukl) - "fefe.de" (hukl) #quote
+- Facebook <https://www.facebook.com>
+- Fefes Blog <https://blog.fefe.de>
+1394656726 test.schrimpe.de <http://test.schrimpe.de>
+1394657008 DANE <https://datatracker.ietf.org/wg/dane/charter/> #glossary
+1394657041 Perfect Forward Secrecy <https://de.wikipedia.org/wiki/Perfect_Forward_Secrecy> #glossar
+1394657051 Elliptic Curve Cryptography <https://de.wikipedia.org/wiki/Elliptic_Curve_Cryptography> #glossar
+1394657203 Facebook: Secure browsing by default <https://www.facebook.com/notes/facebook-engineering/secure-browsing-by-default/10151590414803920>
+1394657271 Github "jetzt alles sicher" <https://github.com/blog/1786-enhanced-oauth-security-for-ssh-keys>
+
+1394657295 IETF Meeting #c
+1394657345 Clemens war beim IETF Meeting in London <http://www.ietf.org/meeting/89/>
+1394657371 "Jeder hat halt so sein Spezialgebiet und meins ist da [..] Telcos anbrüllen." (Clemens) #quote
+1394657444 Clemens Erfahrungen mit chinesischen Hackern
+1394657514 Wireshark <https://de.wikipedia.org/wiki/Wireshark> #glossar
+1394657542 Akamai <https://de.wikipedia.org/wiki/Akamai> #glossar
+1394657600 Probleme mit mobilen Wireless Access Points
+1394657629 Google-Mitarbeiter mit Zucker abfüllen
+1394657655 Teilnehmerzahl: 1300-1400
+1394657687 "Üblicherweise ist das so, dass die Hotelnetze schon zusammenbrechen wenn sich die Leute nur anstellen, um einzuchecken abends" (Clemens) #quote
+1394657791 Carrier-grade NAT <https://de.wikipedia.org/wiki/Carrier-grade_NAT> #glossar
+- NAT64 <https://de.wikipedia.org/wiki/NAT64> #g
+1394657800 Apple-Dienste streiken bei IPv6-only
+1394657927 Kosten für das eigene DSL-Netz
+1394657956 The Internet Peering Playbook <http://drpeering.net/core/buyTheBook.html>
+1394657985 LSD <https://de.wikipedia.org/wiki/LSD> #g
+1394657989 MDMA <https://de.wikipedia.org/wiki/MDMA> #g
+1394658024 Clemens erklärt Peering und Abrechnung
+- Peering <https://de.wikipedia.org/wiki/Peering> #g
+1394658233 Drei (Mobilfunkmarke) <https://de.wikipedia.org/wiki/Drei_%28Mobilfunkmarke%29> #glossar
+1394658430 "SIM, willst du ewig leben?" (Tim) #q
+1394658449 7-Port USB-Switch von Clemens, um ausländische SIM-Karten aktiv zu halten
+1394658527 Die Amis und die SIM-Karten
+1394658550 Kostenloses Data-Roaming von T-Mobile USA
+
+1394658675 2048 Spiel <http://gabrielecirulli.github.io/2048/> #c
+1394658750 AI für das Spiel <http://ov3y.github.io/2048-AI/> <https://news.ycombinator.com/item?id=7379821>
+1394658787 HackerNews-Item zu dem Spiel <https://news.ycombinator.com/item?id=7379821>
+1394658885 hukls Highscore: 5036
+1394658920 Multiplayer-Version <http://emils.github.io/2048-multiplayer/>
+
+1394659150 iOS 7.1 <http://www.apple.com/ios/ios7-update/> #c
+1394659150 "Jetzt ziehen aber auch so Zeiten auf, Tim findet iOS7 plötzlich gut,…" (Roddi) #quote
+1394659210 Tim ist vulnerable mit iOS6 auf seinem iPhone 4
+1394659252 das Team hat Spaß mit 2048
+1394659293 "Double-Merge! M-M-M-Multimerge!" (hukl) #quote
+1394659314 Safari Reader <http://www.apple.com/de/osx/apps/#gallery-safari-reader>
+1394659443 "Mein Augenlicht, das ist so mein bester Sinn." (Tim) #quote
+1394659562 Dank geht an den Schokoladen-Spender
+1394659622 Icons sind "fetter" in iOS 7.1
+1394659644 "Aha, mit deinem Augenlicht ist noch alles okay, aber du schaltest den Accessibility-Modus ein…" (hukl) #quote
+1394659720 Es gibt keine Schokolade
+1394659772 Spiel "Film Alphabets" <https://itunes.apple.com/de/app/film-alphabets/id661150816>
+1394659818 "Fetter Text" bringt fette Icons
+1394659851 Shift-Taste ist seltsam
+
+
+1394659874 "The problem with Apple is that they just have no taste." (Tim) #quote
+1394659892 "Sir Designalot" (hukl) #quote
+1394659958 Buttons kann man wieder anschalten
+1394659960 "Und die Einstellung packen sie jetzt in die Bedienungshilfen nach dem Motte 'Wer das braucht ist behindert'?" (Clemens) #quote
+1394660130 Die gute alte Zeit
+1394660194 "Merke dir: Jede gute alte Zeit war mal eine schlechte neue Zeit." (Clemens) #quote
+1394660236 CarPlay <http://www.apple.com/ios/carplay/>
+1394660502 Was macht CarPlay eigentlich?
+1394660597 CarPlay-Display im Debugger <https://twitter.com/stroughtonsmith/status/443117705894182912>
+1394660698 MPContentItem <https://developer.apple.com/LIBRARY/ios/documentation/MediaPlayer/Reference/MPContentItem_Ref/Reference/Reference.html> #glossar
+1394660800 UUID/iBeacons <https://de.wikipedia.org/wiki/IBeacon> #g
+1394660972 Background Notification für iBeacons
+1394661244 "Du könntest quasi in jedes Teil so'n Beacon reinmachen-" (Tim) "Wenn du sonst nichts zu tun hast…" (hukl) #quote
+1394661277 Seidenstraße <https://events.ccc.de/congress/2013/wiki/Projects:Seidenstrasse>
+
+1394661343 Atom Editor #c
+1394661350 "Ja, es gibt diesen neuen Browser…" (roddi) #quote
+1394661374 "Emacs 2.0" (roddi) #quote
+1394661390 Atom <https://atom.io/>
+1394661391 Github Organisation <https://github.com/atom/>
+1394661407 CoffeeScript <https://de.wikipedia.org/wiki/CoffeeScript> #glossar
+1394661419 "Ist das komplett in CoffeeScript geschrieben?" (roddi) "Soweit ich weß, ja." (Tim) "Ogottogott!" (roddi) "Die Armen!" (hukl) #quote
+1394661532 "Was ist denn jetzt so toll an dem Editor?" (Tim) "Das frage ich mich auch, ehrlich gesagt." (roddi) #quote
+1394661535 vi <https://de.wikipedia.org/wiki/Vi> #glossar
+1394661628 "Ich find das Syntax-Highlighting nicht so besonders, ich find den Filebrowser nicht so besonders, ich find, ehrlich gesagt, überhaupt nichts besonders." (roddi) #quote
+1394661688 config.cson
+1394661723 "Das ist für die hippen Webdeveloperkids gemacht." (hukl) #quote
+1394661760 "SPOD – Spinning Pizza of Death" (denis) #quote
+1394662145 Texttastic <http://www.textasticapp.com/>
+1394662169 "Das ist so ein Editor, über den relativ wenig geredet wird…" (Tim) "Ja, weil ihn keiner aussprechen kann!" (Denis) #quote 
+1394662201 Sublime Text <http://www.sublimetext.com/>
+1394662321 TextMate <https://github.com/textmate/textmate>
+1394662375 Cocoa <https://de.wikipedia.org/wiki/Cocoa_%28API%29> #glossar
+
+1394662384 10.9.3 Beta #c
+1394662410 4K <https://de.wikipedia.org/wiki/4K2K> #glossar
+1394662442 First Person Shooter <https://de.wikipedia.org/wiki/Ego-Shooter> #glossar
+1394662442 Frames Per Second <https://de.wikipedia.org/wiki/Bildfrequenz> #glossar
+1394662544 "I can see dead pixels" (Denis) #quote
+1394662555 netkas Forum <http://forum.netkas.org/>
+1394662623 Improving the State of 4K Display Support Under OS X <http://www.anandtech.com/show/7847/improving-the-state-of-4k-display-support-under-os-x>
+1394662658 Zusammenfassung zum Atom Editor <https://pbs.twimg.com/media/Bhfbnn3CMAA93mg.png:large>
+1394662700 Schokolade fehlt
+
+1394662731 ETA (Estimated Time of Arrival) #c
+- Wikipedia <https://de.wikipedia.org/wiki/Estimated_time_of_arrival> #g
+1394662785 "Voraussagen sind immer schwierig, besonders, wenn sie die Zukunft betreffen!" (Roddi zitiert Karl Valentin) #q
+- Karl Valentin <https://de.wikipedia.org/wiki/Karl_Valentin> #g
+1394662804 FTP <https://de.wikipedia.org/wiki/File_Transfer_Protocol> #glossar
+1394661970 Ladebalken <https://de.wikipedia.org/wiki/Fortschrittsbalken> #glossar
+1394662996 Adobe Flash <https://de.wikipedia.org/wiki/Adobe_Flash> #g
+1394663075 Philosophie des Fortschrittsbalken
+1394663099 "Fluppdizität" (Tim) #q
+1394663150 Man amüsiert sich über XKCD 612 <https://xkcd.com/612/>
+1394663255 "Alles kann länger dauern als gedacht." (Tim) "Tut es auch!" (hukl) #quote
+1394663301 Transmission <http://www.transmissionbt.com/> #app
+1394663343 µTorrent <https://de.wikipedia.org/wiki/%CE%9CTorrent> #app
+1394663431 "Ich seh schon, libeta, jetzt auf github" (roddi) - "Sollen wir mal raten, wann er da ist?" (hukl) #q
+- Github <https://de.wikipedia.org/wiki/GitHub> #g
+1394663512 Hukl erreicht ein lustiger Tweet <https://twitter.com/Bischof_Tebartz/status/443095624654028800>
+1394663571 Voynich-Manuskript
+1394663615 Mail Pilot <http://www.mailpilot.co/> #app
+1394663627 "Auf welchem Betriebssystem läuft der denn?" (Tim)  "Auf unserem" (roddi) #q
+1394663690 Tims Supertweet <https://twitter.com/timpritlove/status/116104926689624064> #tweet
+1394663739 Postbox <http://www.postbox-inc.com/> #app
+1394663802 "Supergeil, Supertweet" (hukl) #quote
+1394663821 Supergeil EDEKA Playlist <http://www.youtube.com/playlist?list=PLgatV9ZQVIdoizWJGomTai5MI9DRKd8A3>
+1394663905 Verabschiedung
+
+1394663940 Outro #c
+- "Der Tourist feat. Friedrich Liechtenstein - Supergeil" <http://www.youtube.com/watch?v=IlN1pZqO8Zo> #video
