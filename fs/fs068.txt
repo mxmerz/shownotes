@@ -1,0 +1,76 @@
+00:00:00 Previously by David: Ranting
+00:00:52 Bumm Zack Return
+00:01:31 Themenfindung
+00:05:25 Mac OS 10.6.8
+00:10:13 Warum TRIM sinnvoll ist
+00:15:42 Opa erzählt von Suchmaschinen
+00:17:50 Zurück zu TRIM
+00:18:50 Soundeffekte
+00:19:12 Tims FreeNAS-Bericht
+00:43:35 ZFS Deduplication
+00:51:00 Acer Aspire easy Store H341
+00:51:55 ZFS Compression
+00:53:11 FreeNAS-Bericht Abschluss
+00:53:35 Intel Produkte
+00:54:45 Webseiten
+00:55:16 iSCSI
+00:57:28 MacBook Pro aufrüsten
+00:58:32 OptiBay
+01:00:25 hardwrk Festplattenadapter
+01:03:25 hukl erzählt vom Schweiß
+01:04:23 Max erzählt vom Takten
+01:05:15 Rechnerschrottstorys
+01:06:15 Neue Time Capsules
+01:07:37 Router
+01:08:47 DSL Modems
+01:14:34 Wunsch-TimeCapsule
+01:15:11 tarsnap
+01:17:22 Chat wird gelobt
+01:17:40 ARC: Automatic Reference Counting
+01:23:25 LLVM
+01:30:46 WWDC Qualität
+01:34:41 Nachtrag zu tarsnap
+01:37:42 Lion: Sandboxing
+01:43:38 MacBook Air
+01:45:45 Artur Bergman on SSDs
+01:46:15 Flash, Samples, Shownotes
+01:47:20 MacBook Air
+01:48:43 Mactracker, EveryMac.com
+01:51:57 MacBook Air
+01:53:40 iOS 5 Maps
+01:55:48 iPhone 5
+01:56:45 Tims Vögelchen
+01:57:32 Agenda
+02:00:15 AppStore Probleme
+02:00:49 Kalender-Test mit Tim
+02:03:36 Ladiocast
+02:05:50 Monster Soup
+02:05:55 Pflanzenbestimmung
+02:08:10 SkinScan
+02:09:20 Technische Probleme
+02:11:01 Alfred
+02:11:36 Monster Soup
+02:12:28 Thinkgeek: iCade
+02:16:39 Der Kracher kommt noch
+02:16:48 iControl
+02:21:17 Bitcoin Buzzword
+02:21:23 Finanzsoftware
+02:23:30 Google Swiffy
+02:25:24 Nokia Snake iOS App
+02:26:23 Nachtrag: iCal
+02:27:24 iCal Rant
+02:39:24 Mediathek
+02:40:00 flattr
+02:44:48 FCPX Diskussion
+03:00:20 What people think time is
+03:01:13 Kalender: Zeitzonen
+03:03:27 Die Rapsöl-Sause
+03:14:49 3 Sätze der Thermodynamik
+03:14:58 Die Rapsöl-Sause
+03:16:14 Screenshotbesprechung (http://yfrog.com/z/kf58mgcj)
+03:19:23 Das Ergebnis
+03:20:19 Bitcoin
+03:24:43 Denis’ Bitcoin Imperium
+03:41:09 Technikproblem
+03:49:34 Thank you for coming
+03:49:39 Bodo Wartke – PCdenzfall

@@ -1,0 +1,111 @@
+00:00:00 Previously by David
+00:05:56 Bumm Zack Return
+00:06:37 Einleitung, Team komplett
+00:08:21 Audioprobleme
+00:09:01 Bitcoin
+00:09:45 Themenfindung
+00:10:06 Lukas F.’ Analyse der WWDC-Predictions
+00:12:07 iOS5: Notifications
+00:14:46 Game Center, Games
+00:17:07 Sendungsplan
+00:17:46 Lion: Installationsprobleme
+00:19:02 Sendungsplan
+00:19:28 Lion: Mouse Pointer HD
+00:20:42 Lion: Zooming
+00:21:14 Lion: Voice Over
+00:22:08 Lion: Geburtstage
+00:23:13 Lion: Kontakte mit Twitter/Facebook
+00:23:20 Lion: iMessage, Facetime, iChat
+00:24:12 Lion: AirDrop
+00:28:32 Lion: AppleScript
+00:28:51 Lion: iTunes 10.5
+00:29:28 Lion: Terminal Resume
+00:29:40 Lion: AirDrop nur mit Air 
+00:32:26 Lion: Autosave
+00:33:10 Diskettensymbol
+00:34:41 Lion: Autosave, Versions
+00:36:49 Windows: "Datei"
+00:38:38 Diskettensymbol
+00:38:54 Zukunftsprognose
+00:41:20 Lion: Automator
+00:42:26 Lion: Distribution
+00:45:22 Lion: Facetime
+00:46:47 Lion: FileVault 2
+00:49:23 Schokolade
+00:49:40 Lion: FileVault 2
+00:51:33 Lion: Finder
+00:57:36 Lion: Gestures
+01:02:11 Beamer wird eingestellt
+01:03:01 Lion: Fullscreen
+01:09:12 Lion: iCal
+01:12:07 Lion: iChat, Adium, Facetime
+01:26:14 Lion: Internet, Restore and Utilities
+01:28:00 Lion: Launchpad
+01:35:33 Lion: Mac App Store
+01:38:30 Lion: Mail, Lutschbonbon 
+01:40:59 Lion: Monochrome Icons
+01:42:38 Lion: Mission Control
+01:42:44 Lion: Multi-Touch Gestures
+01:42:46 Lion: Networking
+01:44:08 Lion: Photobooth
+01:44:23 Lion: Preview
+01:45:11 Lion: Privacy
+01:45:21 Lion: Quicktime Player
+01:48:01 Lion: Resume
+01:48:23 Lion: Safari
+01:48:38 Die Bitsundso-Jungs
+01:49:17 Lion: Safari
+01:53:50 Lion: Screen Sharing
+01:56:46 Lion: Security
+01:59:48 Lion: Spotlight
+02:01:31 Lion: System
+02:03:50 Lion: System Preferences
+02:04:46 Lion: Text
+02:05:31 Lion: TextEdit
+02:05:36 Lion: Time Machine
+02:06:06 Aber nur - Tata
+02:06:08 Lion: Time Machine
+02:09:47 Lion: UNIX
+02:12:06 Lion: Versions
+02:12:10 Lion: Xsan
+02:12:17 Lion: Other Features
+02:13:12 Lion: Fazit
+02:14:21 Überleitung
+02:15:51 Mondfinsternis 
+02:16:26 Pause
+02:17:00 Überleitung
+02:17:30 Steve Jobs
+02:19:27 iOS5
+02:19:52 iOS5: Notifications
+02:24:00 iOS5: iMessage
+02:28:56 iOS5: Newsstand
+02:32:16 iOS5: Reminders, iCloud
+02:36:15 iOS5: Twitter
+02:40:38 iOS5: Camera 
+02:42:53 iOS5: Photos
+02:43:40 iOS5: Safari
+02:45:55 iOS5: PC Free
+02:52:47 Apple Ads
+02:52:02 iOS5: Mail, Calendar
+02:53:12 iOS5: Wi-Fi Sync
+02:53:41 Denis schüttelt sein Haupthaar 
+02:53:58 iOS5: Wi-Fi Sync
+02:56:02 iOS5: Multitasking Gestures for iPad
+02:56:08 iOS5: AirPlay Mirroring for iPad 2
+02:57:48 Sendungsbeendigungsversuch
+02:58:00 iOS5: Split Keyboard
+02:58:30 iOS5: Custom Vibration Patterns
+02:59:21 Nokia
+03:01:10 iOS: Gestures
+03:01:44 iCloud
+03:34:22 Epilog: The Mothership
+03:38:26 Steve
+03:39:35 Hardware/Software 
+03:40:01 ZFS, SSD
+03:40:17 The Mothership
+03:40:51 Sendungsbeendigungsversuch
+03:41:02 Nächste Sendung
+03:41:27 MacBook Air und Lion Lizenz
+03:43:52 Sendungsbeendigung
+03:44:29 Thank you for coming
+03:44:34 WWDC 2011: The Musical

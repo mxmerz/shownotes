@@ -1,0 +1,140 @@
+00:00:00 Previously
+00:01:33 Bumm Zack Return
+00:02:13 Heute mit Tim, Max, Denis
+00:04:01 Dieser andere Podcast da
+00:04:50 Tim geht fremd
+00:05:40 Wie auch immer!
+00:07:47 Max war in Dresden
+00:08:25 Max war im Online Store
+00:09:33 Max stellt sich in die Schlange
+00:11:21 Verhalten der Store-Mitarbeiter
+00:16:47 Max kauft iPad 2
+00:19:09 iPad 2: kein Retina-Display
+00:19:55 iPad 2: SmartCover
+00:24:39 iPad 2: Geschwindigkeit
+00:27:35 Tim war in München
+00:28:57 Europachef war in Dresden
+00:29:55 Jaja, iPad 2…
+00:30:16 iPad 2: Die alte Hülle
+00:30:28 SSD: Intel 510 in Denis’ neuem MacBook Pro
+00:34:08 SSD: Denis ist begeistert
+00:35:57 SSD: Sudden Motion Sensor
+00:37:32 SSD: Denis erklärt Write Amplification
+00:41:48 SSD: Zahlen
+00:43:10 SSDs sind toll!
+00:49:10 Zukunft (SATA3, GarbageCollection, Preis, mSATA)
+00:49:51 mSATA
+00:52:07 TRIM in 10.6.7
+00:56:08 SSDs sind awesome
+01:00:36 Pizza
+01:00:53 Zurück zum Thema
+01:01:18 MacBookAir-SSDs
+01:01:55 Tim will über Final Cut Pro X reden
+01:02:05 Diskussion ums Essen
+01:03:59 Musik: Trance-Gitarre
+01:07:10 Trance-Gitarre
+01:08:42 Essen, Pause, Mate
+01:10:07 Final Cut Pro X
+01:11:12 FCPX: Management Summary, Macromedia
+01:13:14 FCPX: Die Präsentation
+01:15:10 FCPX: Color Sync
+01:16:43 FCPX: Nutzt jetzt alle Cores aus
+01:17:50 FCPX: Rendern im Hintergrund
+01:19:05 FCPX: Material importieren
+01:21:03 FCPX: Spuren
+01:26:07 FCPX: Kreatives Ausprobieren
+01:27:41 FCPX: Material sortieren
+01:29:20 FCPX: Strategisches
+01:34:28 Max’ Xcode 4 Erfahrungen
+01:35:38 Testflight.app
+01:38:18 PhoneGap
+01:38:36 ShareKit
+01:40:11 Denis’ Xcode 4 Erfahrungen
+01:43:00 InstaCast und Testflight.app
+01:44:56 AirPort Express Private Key wurde entdeckt
+01:48:08 shairport
+01:49:11 AirPlay Technologie
+01:51:51 Fazit und Apples Mediastrategie
+01:55:02 AirPlay Video
+01:57:51 WLAN vs. Kabel Experiences	
+02:01:34 Billiggeräte und AirFoil
+02:04:41 Die Zeit: Es ist 10:10 Uhr
+02:05:46 Wie der AppStore zählt (nicht gefundene Antwort im Podcast: via Genius Funktion)
+02:10:42 Lion Preview 2: iCal
+02:11:55 Lion Preview 2: Remote Login
+02:19:44 Lion Preview 2
+02:19:56 Apple hat einen Big Brother Award
+02:22:56 iOS speichert Location-Trails
+02:23:48 Das Team beömmelt sich über die Karten vom iPhone Tracker
+02:35:43 Meinung
+02:41:41 Malte Spitz’ Vorratsdaten
+02:44:49 Die Datenfresser - Constanze Kurz/Frank Rieger
+02:45:29 Shownotes sind verschwunden
+02:46:29 Dropbox Security
+02:47:44 Belanglosigkeiten
+02:48:59 Ansage zu Dropbox
+02:51:56 Tim ist verwirrt
+02:52:08 DropBox-Thema wird abgeschlossen
+02:54:20 Tim regt sich auf
+02:56:32 Max redet über Apps:
+02:56:41 Cut The Rope
+02:57:48 Helsings Fire
+02:58:30 Camera+
+03:02:38 Aufnahmeprobleme
+03:03:02 Weiter mit Camera+
+03:03:40 TweetBot
+03:04:05 Boxcar
+03:05:59 Weiter mit TweetBot
+03:07:55 TweetBot: Sortierung von DMs
+03:09:20 TweetBot: Favourites
+03:09:58 TweetBot: Listen
+03:11:28 TweetBot: Gesten
+03:12:49 TweetBot
+03:13:02 TapBots (CalcBot, ConvertBot,…)
+03:14:06 Apple Quarterly Results
+03:19:42 Photosynth
+03:21:20 Apple Quarterly Results
+03:22:11 Musikmesse ProLight + Sound
+03:23:52 Alesis iPad Dock
+03:26:24 iPad, MIDI und andere Geräte
+03:27:56 Max’ USB-Keyboard
+03:30:20 GarageBand fürs iPad
+03:31:12 HP TouchPad auf der re:publica
+03:38:17 HP war immer die Nr. 1!
+03:40:50 HP SDK
+03:42:35 Tablets: Motorola sucht den Notausgang
+03:42:57 Tablets: Google macht die Türen zu
+03:46:54 Tablets: RIM ist abhängig
+03:48:07 Tims Tablet-Vorhersage
+03:48:19 Tablets: Microsoft wird machen, was Apple macht
+03:55:26 Hardware von Microsoft (XBox, Nokia)
+03:58:28 Motorola, Google, RIM, Microsoft
+03:59:20 "It's been a long time…
+03:59:24 …how have you been?"
+03:59:32 Portal 2
+03:59:59 Portal 1 (Geschichte, Spielprinzip)
+04:02:37 Portal 2
+04:03:37 thinkwithportals.com
+04:04:00 GlaDOS
+04:04:37 the cake is a lie!
+04:05:20 Ellen McLain
+04:05:58 Spiele durchspielen
+04:07:21 Frustration, Youtube-Hilfe, Aha-Effekte
+04:08:28 Tim und Denis blamieren sich
+04:09:25 Max’ Freund spielt DK
+04:10:44 HDMI Mirroring auf dem iPad
+04:13:55 Interlude
+04:14:17 Googles “Snappy“-Kompressionsalgorithmus
+04:18:17 ZFS/Z410
+04:22:30 Nokia: Ovi Maps 3D
+04:30:53 Adobe Flash Server unterstützt iOS
+04:31:25 Max guckt sich Container an
+04:31:49 Weiter mit Adobe Flash Server
+04:34:58 Lion und netatalk
+04:37:04 Lion und Samba
+04:38:57 Max guckt sich Miami an
+04:39:06 Sendungslänge
+04:40:17 Max guckt sich Vergleichsfotos an
+04:40:43 Tschüss Nr. 1
+04:42:00 Tschüss Nr. 2
+04:42:19 Thank you for coming

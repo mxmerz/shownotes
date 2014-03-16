@@ -1,0 +1,91 @@
+00:00:00 Previously by David
+00:01:59 Bumm Zack Return
+00:02:37 Introdiskussion
+00:04:13 Instant Rimshot
+00:04:44 Alle krank, Wetter blöd
+00:05:02 Tim war offline und berichtet
+00:06:22 Begrüßung
+00:07:20 Drei-Stream-Gesellschaft
+00:07:59 Linux 3.0
+00:11:44 Witz über Plan 9
+00:12:21 Mac OS X 10.7 Lion
+00:13:10 Playboy Interview mit Steve Jobs
+00:14:42 Quartalsergebnisse von Nokia
+00:18:12 Quartalsergebnisse von Apple
+00:19:22 Die anstehende “Product Transition”
+00:26:13 Prosumer
+00:27:53 Mac Pro
+00:29:32 Das neue MacBook Air
+00:32:40 Hukl und Tim rappen
+00:33:08 Das neue MacBook Air
+00:34:31 Mikroeinstellung
+00:35:00 Das Thunderbolt Display
+00:40:05 Sonnet Technologies’ Thunderbolt Produkte und die Ankündigungen zur NAB 2011
+00:41:32 Ethernet - damals in Klondike
+00:43:38 USB 3.0 vs. Thunderbolt
+00:50:56 Das neue MacBook Air
+00:51:12 Der neue Mac mini
+00:53:00 hukls Spur geht kaputt
+00:54:38 Wiimotes sind schuld
+00:54:55 Der neue Mac mini
+00:55:55 Die Sendung rockt
+00:56:52 Überleitung zu Lion
+00:57:06 Lion: Scrollbalken
+01:00:23 Lion: Safari, Webkit und Chrome
+01:02:30 Siracusa’s Lion Review
+01:04:00 Lion: Filesystem, FileVault
+01:06:10 Lion: Prozesse, Sandboxing
+01:09:56 Lion: Resolution Independence
+01:10:30 Henne-Ei-Problem
+01:12:47 Lion: Kleinigkeiten
+01:21:07 Lion: Text-to-Speech
+01:22:54 Lion: FileVault mit mehreren Usern
+01:25:29 Lion: Tim irrt über Safari
+01:27:10 AirDrop
+01:33:39 Tim besteht auf Sendungsfortführung
+01:34:18 hukls Backup-Experiences
+01:59:48 Das "NAS-Storage-Problem"
+02:06:42 De-Duplication bei Online-Backup
+02:10:00 Denis Buzzwordalarm
+02:10:45 Ärger mit netatalk
+02:12:40 und sourceforge ist doof
+02:16:08 Lizenzkram
+02:18:29 Tim's FreeNAS ist kaputt
+02:19:49 Geschäftsmodell vom netatalk-Mensch 
+02:20:55 Jaja, Backup…
+02:25:00 Mac OS X 10.8 Liger
+02:25:44 Liger: Filesystem
+02:27:18 Liger: VNC mit Abstrakt
+02:28:26 Remote einloggen in Lion
+02:29:17 Liger: Refinements, TRIM, Sync
+02:30:03 Test: Remote Login
+02:35:08 Tim will sich was wünschen
+02:35:36 Stream ist hinüber
+02:36:00 Tim will ranten
+02:36:05 Tim notiert Themen
+02:36:35 Tim rantet: Audioprogramme
+02:44:15 Tim fängt an zu recherchieren
+02:45:18 Patenttrolle
+02:46:45 BTCMP-Bericht: Denis hat Verluste, aber viel Spaß
+02:51:49 Tim interessiert sich für gar nichts
+02:52:26 Tim ist fertig mit recherchieren und berichtet
+02:54:03 Gelächter (Affe, Autocorrection)
+02:57:32 Tim berichtet weiter und meckert
+03:07:31 Tim träumt von Logic Pro und ruft um Hilfe
+03:10:05 Tim kaufte Software (Flinc, Vector Designer)
+03:16:30 mobileMacs-Statistik
+03:18:21 Quicktime
+03:20:55 Developer Geschichten (ARC und LLVM)
+03:28:30 Es wird nicht über Google+ geredet
+03:40:28 Activity Monitor
+03:41:45 iTunes, Adium, Fefe, iChat, iMessage
+03:43:25 iChat Passwörter
+03:45:51 Delta-Updates
+03:46:08 Tweetbot macht Push
+03:47:10 Die Luft ist raus
+03:49:53 Präsente
+03:51:21 Instant Rimshot
+03:52:31 Paypal und Webseiten
+03:54:18 Terminfindung
+03:55:05 iCal-Gerante (siehe vorherige Folge)
+03:57:21 Verabschiedung

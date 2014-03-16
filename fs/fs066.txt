@@ -1,0 +1,119 @@
+00:00:00 Previously von David
+00:03:08 BZR/MM-Intro 2 von Jörg
+00:03:42 Das Intro, Lost und Myst
+00:05:42 Denis hat Geburtstag
+00:08:01 Themenfindung
+00:08:36 Hörergeschenke
+00:09:25 WWDC
+00:10:05 SK-2500 FW800 Gehäuse
+00:13:14 Migrationsassistent
+00:14:15 Dateitypen-Zuordnungen
+00:15:21 RCDefaultApp
+00:18:05 Twitter-Accounts im Addressbuch
+00:19:15 Uniform Type Identifier
+00:20:53 hukl reißt nen Witz
+00:21:08 Intel SSD Toolbox
+00:22:10 PCs sterben aus
+00:23:07 Bootcamp
+00:23:22 Fazit
+00:24:09 hukl hat ne SSD
+00:24:44 Optische Medien
+00:26:00 hukl hat ne SSD
+00:27:04 AnandTech, Digital Photography Review
+00:29:00 Bitcoin: alles falsch
+00:29:17 Bitcoin: BVDW warnt
+00:30:26 Bitcoin: Fefe regt sich auf
+00:32:39 Themenfindung
+00:33:08 Kindle: Max hat eins
+00:35:19 Kindle: Display
+00:36:24 Kindle: UI
+00:37:54 Kindle: Vertriebsmodell
+00:38:17 Kindle: Tasche mit Lämpchen
+00:38:39 Kindle: Format
+00:39:20 Kindle vs. iPad
+00:43:13 Amazon Verkaufszahlen
+00:44:16 Kindle: Akku
+00:44:49 Kindle: Verpackung
+00:46:17 Tim guckt in die Glaskugel
+00:50:42 Lesen mit iPad/Kindle
+00:52:59 hukls Wunsch-Kindle
+00:53:47 Neue Mate für alle
+00:54:07 SMC-Reset
+00:56:43 SSD Bootzeiten
+00:57:09 Lift-off!
+00:57:38 Opa erzählt vom Krieg
+00:59:41 Dauerthema SSD
+01:00:56 Themenfindung
+01:01:05 Tim rantet über den Markt
+01:07:46 Dell XPS-15Z
+01:10:20 Asus Padfone Präsentation
+01:13:10 Die Debilen und die Nutzlosen
+01:22:56 WWDC = Lion + iOS5 + iCloud
+01:23:08 WWDC: Hardware
+01:25:14 Sendungstermine
+01:25:59 WWDC: iCloud
+01:36:27 iCloud: riak und die Vektoruhr
+01:38:19 WWDC: Lion
+01:41:20 iCloud: Musik
+01:49:05 iCloud: Preis
+01:56:28 iCloud: MobileMe
+01:58:00 iCloud: Name
+01:58:31 iCloud: MobileMe
+02:00:00 iOS5: Services
+02:01:59 Max schafft bei Next Big Thing
+02:03:35 iOS5: Notifications
+02:04:22 Notifications: WhatsApp
+02:05:00 iOS5: Notifications
+02:05:53 Apple-Armbanduhr
+02:08:06 iOS5: eMail-Verschlüsselung
+02:09:00 iOS5: iCloud
+02:09:56 iOS5: Gesten
+02:13:34 iOS5: Fazit
+02:14:36 iCloud: Webinterface
+02:15:45 iOS5: Twitter
+02:17:03 WWDC Keynote
+02:17:55 Facetime und Mobilfunkprovider
+02:19:23 Alle haben Angst vor Apple
+02:20:24 Audio-Kapitelmarken
+02:21:24 Facetime vs. iChat
+02:23:47 WWDC: Themenbeendigung
+02:24:04 RedmineApp
+02:26:17 VPN, blackVPN, Viscosity
+02:34:26 Untertitel in MP4-Dateien
+02:35:43 Subler
+02:36:02 iSubtitle
+02:36:56 Miro 4 und Podcasts mit Android
+02:41:19 iOS5: Safari Extensions
+02:42:24 Klicker
+02:43:00 iStat Menus und smcFanControl
+02:44:43 Klicker: Apple Remote, Remote App
+02:45:44 Kensington Si600 Wireless Presenter
+02:46:39 Logitech R800 Professional Presenter
+02:48:52 Technische Daten
+02:49:21 Logitech Wireless Presenter R400
+02:49:55 greplin
+02:52:43 Das flashfreie Leben
+02:54:10 Browser
+02:58:40 Opa erzählt vom Krieg
+03:02:24 The Hitchhiker's Guide to the Galaxy
+03:03:05 Helge Schneider: Globus Dei
+03:04:48 The Hitchhiker's Guide to the Galaxy
+03:06:45 Themenfindung
+03:07:19 Apple Kernel-Team sucht einen Praktikanten
+03:11:12 Tim sucht Programmierer für Statistikprojekt
+03:12:43 Mumble und Murmur
+03:15:51 Postbox und Sparrow
+03:19:24 Alfred vs. LaunchBar
+03:28:13 Control Shift Eject
+03:31:22 LaunchBar Clipboard History
+03:35:03 Control Shift Eject
+03:40:07 Sendungsbeendigungsversuch
+03:43:00 Disco
+03:43:53 This guy has my MacBook
+03:48:16 Netscape 5 gab es nie
+03:48:32 Hidden, Lion und iCloud
+03:50:13 Control Shift Eject
+03:51:03 Sendungsbeendigung
+03:51:45 Flaschenkonzert in h-moll / Die WWDC-Hymne
+03:51:55 Thank you for coming
+03:52:01 Michael Krebs: Meine Freundin sollte von Apple sein

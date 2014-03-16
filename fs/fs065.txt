@@ -1,0 +1,87 @@
+00:00:00 Previously
+00:02:16 Bumm Zack Return
+00:02:57 Guten Abend
+00:04:13 David - 1701
+00:04:43 Technisches
+00:05:22 Ungerichtet
+00:06:13 Neues bei flattr (David, Dave Flanagan, der Gruber)
+00:13:22 Bitcoin
+00:13:47 Bitcoin wird erklärt
+00:25:34 Bitcoin: Tim fragt nach
+00:28:34 Bitcoin: Bezahlen
+00:34:44 Bitcoin: Mac-App
+00:35:42 Bitmarket.eu
+00:37:10 Bitcoin: Kritische Betrachtung
+00:39:14 Bitcoin Mining Pools
+00:40:40 Bitcoin P2P Currency: The Most Dangerous Project We’ve Ever Seen
+00:41:47 Tim ist müde
+00:42:05 Feedprobleme, Podpress, Wordpress
+00:44:06 Feedback zu MM064
+00:44:58 Festplatten tauschen
+00:54:22 Die Stimme der Jugend
+00:55:12 Bluetooth-Adapter für Serielle Schnittstellen (MAX232)
+00:58:32 hukl fordert Safety Car
+00:58:55 Kaufberatung: Intel 320 Series SSD (120GB*, 160GB*)
+00:59:41 Erfahrungsbericht: SK-2500 FW800 Gehäuse
+01:06:59 SSDs in externen Gehäusen: wie zuverlässig löschen?
+01:09:20 Firewire, Thunderbolt
+01:13:26 Android Datenleck und Themenantrag
+01:13:55 Das 31-Bit-Limit von AIFF und WAV (NSFW, hexdump)
+01:19:17 Formatgeschichten
+01:21:00 jslinux - Linux im Browser
+01:21:29 Kapitelmarken in MP4 setzen mit Subler
+01:25:39 Jugend, Icke und Er, Rebecca Black, Frauenarzt, Hall
+01:26:49 Apple Sonderausstellung im Oldenburger Computer Museum
+01:28:59 Core Audio Format
+01:30:33 HE-AAC
+01:31:21 Tim rantet über Apple Script
+01:32:30 HE-AAC auf der Kommandozeile erzeugen mit afconvert
+01:33:52 Simplenote ist doof
+01:34:13 f.lux ist toll
+01:35:53 Fantastical
+01:39:47 AM/PM
+01:41:55 Linkinus, der IRC-Client
+01:44:06 Themenfindung
+01:45:16 Supporterfahrungen
+01:49:46 Sony ex71
+01:50:11 Klipsch Image S4i
+01:55:29 Sony PSN Fuckup
+01:56:34 Google Android Fuckup
+02:03:14 iPhone WebKit Source Release (Harald Welte)
+02:06:15 Pril und der Rage Guy
+02:08:48 knowyourmeme
+02:09:26 Pril und der Rage Guy
+02:10:38 Themenfindung
+02:11:20 Google I/O is not available in your country
+02:12:56 Fanboytum
+02:13:35 Google I/O
+02:14:14 dict.cc - "club"
+02:16:34 Google I/O
+02:18:58 Chromebooks
+02:28:00 Microsoft kauft Skype
+02:29:05 M+S: Unverständnis
+02:34:02 M+S: Vage Theorie
+02:35:31 M+S: Ballmer
+02:37:31 M+S: Erste Auswirkungen
+02:38:57 Lion Preview 3
+02:44:59 Mac OS X auf ARM?
+02:48:48 eBooks
+03:03:02 Adobe Flash
+03:04:19 Sendungsbeendigungsversuch (gescheitert)
+03:05:04 Per Anhalter durch die Galaxis
+03:05:38 Fortune-Artikel über Apple
+03:14:02 Sendungsbeendigungsversuch (gescheitert)
+03:15:00 Termine
+03:15:38 EuRuKo in Berlin
+03:16:08 Chaos Communication Camp
+03:16:28 Lanyrd social conference directory
+03:17:20 Berlin Buzzwords
+03:18:56 eurucamp
+03:19:10 RailswayCon
+03:19:41 Music/Movie Hack Day Berlin
+03:20:13 Webinale
+03:20:20 Crowd Convention
+03:21:08 Random Hacks of Kindness, 100. deutscher Bibliothekartag
+03:21:23 Lanyrd
+03:22:45 Sendungsbeendigungsversuch (erfolgreich)
+03:23:00 Thank you for coming
