@@ -1,0 +1,516 @@
+00:00:00 Intro #chapter
+00:00:01 Previously on Freak Show <https://soundcloud.com/david1701/previously-on-freak-show-127> #audio
+00:01:15 Intro <http://www.florianerlbeck.de/Florian_Erlbeck/Freakshow_Audio.html> #audio
+00:01:42 Tim "vadert"
+00:01:53 t Ich bin dein Vater!
+00:01:57 t Keiner vadert wie Denis.
+00:01:59 "Das ist nicht witzig!" (Denis) #quote
+00:02:03 h Deine Mutter vadert!
+00:02:12 t Naja, ach komm
+00:02:14 t Geh nicht gleich wieder raus, Denis. Komm, bleib hier, ach komm.
+00:02:19 t So ja nun nich.
+00:02:22 2^7. Ausgabe
+00:02:23 t So, nochmal tief durchatmen. Oh nein, wir sind ja schon live!
+00:02:29 t 2 hoch 7. Ob das unsere letzte Binärpotenz bleiben wird?
+00:02:35 t Schalten Sie auch in 128 Folgen wieder ein, um zu sehen ob wir hier unseren Rhythmus durchhalten!
+00:02:44 t Naja, wie auch immer. Hallo!
+00:02:46 d Wir ham also signed - äh, unsigned nutzen wir, ja?
+00:02:50 d Sonst wär jetzt schon minus, minus… Was wär denn jetzt eigentlich minus?
+00:02:54 h Wieso hieß die Sendung eigentlich, die letzte – wieso hast du die “Die Zahl des Denis” genannt?
+00:02:59 h Das hab ich nicht verstanden.
+00:02:59 Denis und Tim erklären den letzten Sendungstitel
+00:03:00 t Na, weil das in der Sendung vorkam.
+00:03:02 d Weil ich irgendwas erzählt hab, von was bei Pixelpark als Usernummer 333 und 666…
+00:03:08 h Aaah…
+00:03:09 d Aber ich bin mir nicht so sicher, es könnte auch 300 und 600 gewesen sein…
+00:03:10 r The Number of the Denis.
+00:03:12 d Aber auf jeden Fall war es so – die zweite Zahl war doppelt so groß wie die erste.
+00:03:15 t Neue Kategorie: Wir rätseln, warum die letzte Sendung so hieß, wie sie hieß.
+00:03:15 h Mysterium gelöst.
+00:03:21 r Schalten Sie auch das nächste Mal wieder ein,…
+00:03:23 h Weil normalerweise ist das immer relativ klar.
+00:03:26 t Genau.
+00:03:26 d Haste nich aufgepasst.
+00:03:28 t Der kundige Hörer wird schon mitbekommen haben, dass ein Großteil des Teams angetreten ist.
+00:03:33 Clemens ist aus London zurück <http://www.ietf.org/meeting/>
+00:03:33 t Tatsächlich sind wir wieder komplett, denn es gibt ja auch noch Clemens.
+00:03:35 c Jo!
+00:03:36 t Hallo, wieder zurück aus –
+00:03:38 c Aus London.
+00:03:39 t Aus London.
+00:03:40 t Wieder rechts fahren und so.
+00:03:42 c Ja, det ist total krass, jedet Mal die Umstellung.
+00:03:44 c Es ist gut, die Londoner malen det inzwischen auf ihre Bürgersteige druff.
+00:03:47 c An den Ampeln steht immer unten drauf "Look right" oder "Look left" und so, aber es ist schon sehr kritisch.
+00:03:53 c Jedet Mal die ersten zwei Tage, wenn ich da bin so das Mantra:
+00:03:56 c "Der Tod kommt von rechts, der Tod kommt von rechts."
+00:03:57 d Ja, ist nicht easy.
+00:03:59 c Als Fußgänger. Als Autofahrer hab ich da komischerweise nie ein Problem mit, aber als Fußgänger denkste immer so: "Hä?"
+00:04:05 d Ja als Fußgänger ist man halt so unkonzentriert und latscht so um, als Autofahrer ist man ein bisschen konzentrierter.
+00:04:10 r Ja vor allen Dingen: In London schreiben sie’s dran!
+00:04:13 c Ja müssen sie auch, weil die haben–
+00:04:15 r In den andere englischen Städten schreiben sie’s nicht dran.
+00:04:17 c Die stehen voll auf Einbahnstraßenzoos.
+00:04:20 c Und da is et auch angebracht, da mal des dranzuschreiben, von wo denn der Tod kommt.
+00:04:24 t In London sind sie auch daran gewohnt, dass Kontinentaleuropäer und andere Menschen aus fernen Ländern tatsächlich dahin kommen,
+00:04:30 t Während sich glaubich so in der englischen Pampa jetzt nicht so viele verlieren.
+00:04:35 t Oder?
+00:04:36 h Und alle anderen Städte in England sind Pampa?
+00:04:36 r Nein.
+00:04:39 c Schon deutlich internationaler, ich war auch mal ein Nachmittag im Kensington Garden,
+00:04:43 c hab mich da mal rumgetrieben, weil da schönes Wetter war und da hab ich auch mehr Deutsch, Französisch und Spanisch gehört als alles andere.
+00:04:49 t Wie im Prenzlauer Berg!
+00:04:52 c Ne, Friedrichshain. Aber soviel zum Thema Kontinentaleuropäer erobern die Insel.
+00:04:56 Heute in Stammbesetzung
+00:04:59 t Verstehe. Na gut, ansonsten alle da, Denis ist da, ne?
+00:05:03 t Tief durchatmen!
+00:05:04 t Hukl.
+00:05:05 h Hallo!
+00:05:05 t Und Roddi.
+00:05:06 r Hallo.
+00:05:07 t Im schönen Jamaika-Shirt. Was los, willste Bobfahrer werden?
+00:05:12 r Nee, ich glaub das ist nichts für mich.
+00:05:15 d Das ist für die FDP-Grünen-Koalition.
+00:05:18 c Schwarz-Gelb-Grün…
+00:05:20 r Das hab ich aus Jamaika mitgebracht, das Shirt!
+00:05:23 h Okay, Street Credibility granted, okay, er war auf Jamaika, dann ist es okay dass du son T-Shirt trägst.
+00:05:32 h Du hast gewonnen.
+00:05:33 r Ja, mein Schwager wohnt da schon seit 15 Jahren.
+00:05:36 h Wat?
+00:05:36 t Wirklich?
+00:05:37 r Ja.
+00:05:38 h Macht n der da?
+00:05:39 t Na was macht man schon in Jamaika?
+00:05:39 d Nix.
+00:05:42 r Ähh, ich weiß es nicht, vor allem: Wie hält der das aus?
+00:05:42 t Bobfahren!
+00:05:46 r Wieso, wie schlimm ist es denn da?
+00:05:48 r Es ist relativ unorganisiert.
+00:05:50 d Ach, no shit.
+00:05:52 t Unorganisiert?
+00:05:54 h Wie konnte das passieren.
+00:05:55 t Äh ich meine, ist nicht die Wahrnehmung–
+00:05:56 t Ich meine, wenn man aus Deutschland kommt, dann ist doch sowieso die ganze Welt unorganisiert, mit Ausnahme der Schweiz.
+00:06:01 r Ähh… ja.
+00:06:03 t Na. Also.
+00:06:04 r Ja, aber wie soll ich sagen… Die Fallhöhe ist bei Jamaika besonders groß.
+00:06:10 t Weil?
+00:06:12 d Besonders unorganisiert ist.
+00:06:14 r Ja, also…
+00:06:15 t Na aber ich meine, wie äußert sich das jetzt? Musste mit soner Anekdote um die Ecke kommen!
+00:06:26 c Och det können sie in England ooch.
+00:06:30 r Und es regnet soviel dass die Autos alle so rostig sind dass sie sie alle drei Monate schweißen.
+00:06:32 Roddi war in Jamaika <https://de.wikipedia.org/wiki/Jamaika> #glossary
+00:06:35 c Det können sie in England ooch.
+00:06:39 h Da gibts doch verzinkte Karrosserien bestimmt mittlerweile.
+00:06:42 r Ähm. Ja, ich weiß nicht, ich will die jetzt auch nicht bashen oder so.
+00:06:46 r Aber es ist so, mich würde das auf die Dauer wahnsinnig machen.
+00:06:50 r Auch dieses Klima, das ist so –
+00:06:52 r Du steigst aus dem Flugzeug und läuft in sone Wand, in sone schwül-warme Wand.
+00:06:58 c Det können se in England nich.
+00:07:04 r Zumindest nicht schwül-warm, ne?
+00:07:05 r Also ähm, also äh, es ist da halt so Mitte 30° bei 100% Luftfeuchtigkeit und du schwitzt fünf Wochen lang bis du wieder im Flugzeug bist.
+00:07:16 t Ach so ein Land ist das…
+00:07:17 r Es sei denn du schaust bei der örtlichen Filiale des Mobilfunkbetreibers vorbei und willst dir eine SIM-Karte kaufen,
+00:07:28 r Dann kommst du rein und frierst.
+00:07:29 t Air condition.
+00:07:30 r Weil die Air condition ist halt sonstwo, damit die da im Anzug sitzen können.
+00:07:36 r Und dann dauert das irgendwie fünf Minuten und dann hat man sich auch dran gewöhnt und dann ist das auch ganz angenehm…
+00:07:41 r Man hat so seinen Pulli ausgepackt und so
+00:07:43 r Und dann gehst du wieder raus und dann kriegst du einen auf die Ömme.
+00:07:44 c BANG!
+00:07:46 d Bäng!
+00:07:48 r Einfach von diesem Klima.
+00:07:51 t Ja so schwüles Klima, das ist immer so das Erste was man so merkt, wenn man in sonem fernen Land ist, wo das herrscht.
+00:07:59 t Sind doch ne ganze Menge eigentlich.
+00:08:00 r Das Ding ist, der wohnt da auch am Nordufer ganz im Osten, da wo die ganzen Regenwolken ankommen.
+00:08:10 t Ah. Und die Hurricanes.
+00:08:14 r Und die Hurricanes, ja, die auch.
+00:08:17 h Das hat er ja ganz geschickt eingefädelt.
+00:08:18 r Ja dieser Hurricane, der so viel Aufregung in New York verursacht hat der ist ja auch bei ihm direkt übers Haus gezogen.
+00:08:26 r Und er konnte dann ungefähr eine Viertelstunde in das ruhige Auge des Hurricane reingucken.
+00:08:34 r Also vorher halt irgendwie Wind von der einen Seite.
+00:08:37 r Er meinte es fühlt sich so an als würde man hinter einem Jet-Triebwerk stehen wenn da grade jemand irgendwie nen Staudamm reinkippt.
+00:08:51 Naja und dann war halt ne Viertelstunde war Ruhe, und dann gings von der anderen Seite wieder los.
+00:08:57 r Weil das Ding dreht sich ja.
+00:08:58 t Ja, oh Mann.
+00:08:59 r Also du hast das erst aus der einen und dann aus der anderen Seite.
+00:09:01 r Danach hatte er nur noch ein halbes Dach und vor allem keine Bäume mehr im Garten.
+00:09:06 r Äh. Ja, also. Ich weiß nicht, für mich wärs nix.
+00:09:10 t Ja. Kann ich verstehen, kann ich verstehen.
+00:09:14 r Muss mal deinen Kompressor nen bisschen runterdrehen.
+00:09:16 h Du bist zu kompressioniert!
+00:09:18 r Ich bin zu kompressioniert?
+00:09:19 t Ja ich bräuchte hier auch mal irgendwie mal son Audioexperten, der das alles mal so gegenhört.
+00:09:19 Tim benötigt wegen Betriebstaubheit einen Ton-Experten in der Metaebene
+00:09:25 t Ich hab irgendwie, ich bin mittlerweile betriebsblind.
+00:09:28 c Taub.
+00:09:29 t Ja, betriebstaub. Also ich kann das alles gar nicht mehr richtig raushören ob das alles noch stimmt oder nicht.
+00:09:36 h Ja die Dynamik, ne? Naja also, –
+00:09:38 t Ja die Dynamik, du bist doch hier Experte!
+00:09:40 h Als ich diesen Podcast hier, den 300Hz Podcast angefangen hab, ne, da hat der Gregor Sedlak, dein Hausphilosoph?
+00:09:46 h Hat mich angesprochen und hat gesagt:
+00:09:46 t Ja?
+00:09:48 h "Ach, endlich mal wieder son Podcast wo nicht alles so zu Tode kompressioniert und so weiter ist, sondern alles noch ganz dynamisch und lebendig klingt".
+00:09:59 h Nja.
+00:09:59 t Hm.
+00:10:00 t Ich komprimier jetzt gar nicht so viel.
+00:10:04 t Aber ich weiß nicht, ich hab hier glaub ich einfach nicht das richtige Verhältnis gefunden.
+00:10:07 t Aber das ist n anderes Thema.
+00:10:09 h Hm. Für später.
+00:10:11 t Genau. Äh, für später.
+00:10:13 t Was haben wir denn jetzt so für Themen für jetzt?
+
+00:10:16 Podcasting #chapter
+00:10:17 t Wir müssen… Äh, vielleicht. Weiß nicht.
+00:10:19 t Wollen wir das Podcast-Thema vielleicht vornewegschieben, dann haben wirs hinter uns?
+00:10:22 d Ja mach mal.
+00:10:24 t Äh, ja Hausnews:
+00:10:27 t Es gab grade ein – für die Podcaster unter euch, das sind jetzt nicht die meisten, aber irgendwie habt ihr alle was von.
+00:10:35 Podcast Publisher 1.10 <http://podlove.org/2014/03/09/podlove-publisher-1-10/>
+00:10:35 t Wir habens jetzt echt geschaft, son neues Publisher-Update rauszuhauen, die tolle 1.10.
+00:10:42 t Und das ist wieder son Stück Software, wo man, weiß nicht.
+00:10:48 t Wo man sich so die Feature-Liste durchliest und denkt, es ist ja gar nichts passiert.
+00:10:52 h Was, die war doch ewig lang?
+00:10:54 h Also zumindest das Changelog.
+00:10:55 t Ja gut, ich mein jetzt nicht so nur in Anzahl der Zeilen, sondern so: "Was bedeutet das jetzt für mich?"
+00:11:01 h Achso.
+00:11:02 t Ja, manchmal haste ja so ein Feature und alle drehen total durch.
+00:11:05 t Manchmal gibts auch so Sachen, das ist so Maintenance, Maintenance, Inner workings, Rewrite, Stabilität…
+00:11:11 h Naja.
+00:11:12 h Overall improved performance and reliability.
+00:11:15 t Genau, so.
+00:11:16 t Aber ich würd sagen, das war bisher einfach das am intensivsten ausgeschwitzte Update, was wir so bisher gehabt haben.
+00:11:20 "Das am intensivsten ausgeschwitzte Update, was wir so bisher gehabt haben" (Tim) #quote
+00:11:24 t Also ist echt königlich.
+00:11:26 t Das Projekt hat gerade einen totalen Beteiligungspeak weil sich jetzt gerade so vier Leute so richtig um Code bemühen.
+00:11:32 t Das find ich schon ganz schön bemerkenswert.
+00:11:34 h Cool.
+00:11:36 t Genau, und da gibts jetzt auch ein paar Schönheiten, die sich hier noch nicht alle auf der Freakshow-Webseite niedergeschlagen haben, aber hoffentlich in Zukunft werden…
+00:11:45 t So, man kann jetzt Übersichten und Listen und allen Kram jetzt irgendwie richtig schön selber programmieren, wenn man das kann.
+00:11:53 t Und weiß nicht, falls unter euch son paar findige Leute sind, die so mit so Template Hackereien gut klar kommen:
+00:12:00 t Es gibt da sone Template-Programmiersprache und wir sind da son bisschen auf der Suche nach dem schönsten Template.
+00:12:06 t Da darf jetzt der Wettbewerb bisschen losgehen und ich erwarte dann so regen Austausch zwischen Podcastern.
+00:12:11 t Dass man so: "Ah, das aber schick bei dir, darf ich das auch haben?"
+00:12:11 Auf der Suche nach dem schönsten Podcast Publisher Template <http://docs.podlove.org/guides/understanding-templates/>
+00:12:16 h "NEIN, das kostet extra!"
+00:12:19 t Genau, wir sollten vielleicht sonen Store aufmachen, sonen Theme-Store.
+00:12:23 h Wie für diese komischen Bildchen bei den Instant-Messengern.
+00:12:26 t Sticker jetzt auch für Podcasts.
+00:12:29 t Wobei uns ja in den Kommentaren wieder nahegelegt wurde, dass wir keine Ahnung haben.
+00:12:33 t Was übrigens stimmt.
+00:12:34 h Echt, gabs Sticker-Experten, die sich falsch verstanden gefühlt haben?
+00:12:38 t Es gibt zu jedem unserer Themen die wir hier besprechen Experten, die das alles noch viel umfassender behandelt haben.
+00:12:45 t Das ist ja auch vollkommen normal, weil wir machen das ja eigentlich gar nicht.
+00:12:47 c Liebe Kollegen, ist euch noch nicht aufgefallen? Wir leben alle in Deutschland, das Land der Experten.
+00:12:53 t Das ist das Land der Experten?
+00:12:55 c Der selbsternannten Experten.
+00:12:57 r 40 Millionen Fußball-Experten!
+00:12:59 c Zum Beispiel.
+00:13:00 t Das stimmt.
+00:13:01 t Genau, und mindestens fünf Experten allein in diesem Podcast, das ist doch auch schonmal nicht schlecht.
+00:13:06 r Wenn nicht sechs oder sieben.
+00:13:08 t Genau, so und in dieser ganzen Pocast-Begeisterung, der aktuellen, die ja auch kein Ende finden wird, weil wir machen da ja weiter.
+00:13:15 Spendenaufruf <http://podlove.org/2014/03/11/we-get-by-with-a-little-help-from-our-friends/>
+00:13:16 t Achja und nebenbei, wir rufen auch grade mal wieder auf, zum Geld spenden.
+00:13:20 Das ist immer so böse, ich weiß.
+00:13:24 t Alles ist so hörergetragen, da tuts irgendwie immer son bisschen weh wenn man immer wieder nachhakt, aber wir brauchen jetzt für dieses Jahr mal wieder ein bisschen Watte.
+00:13:35 t Damit vor allem der Eric irgendwie fleißig weiterprogrammieren kann, der jetzt gerade durch Indien pflügt.
+00:13:41 t Das ist auch so, würd ich sagen: Der machts richtig.
+00:13:44 Eric Teubert <https://twitter.com/ericteubert> #tweet
+00:13:45 t Also der ist jetzt so bis Ende des Jahres… in Asien.
+00:13:49 h In Indien.
+00:13:50 t Na, nicht nur in Indien, mal gucken wie weit er so kommt, ne?
+00:13:54 t Da gibts dann halt nur so Strand, Kultur…
+00:13:58 h Und Curry.
+00:14:00 r Und Hacken.
+00:14:01 t Und Hacken, genau.
+00:14:02 h Hecken?
+00:14:03 t So, ja. Hacken.
+00:14:06 h Wie Hecken? Die haben viele Hecken?
+00:14:10 h Achso.
+00:14:12 t Bitte?
+00:14:12 r Oh Gott.
+00:14:17 t Haste wieder Hecke geraucht, was?
+00:14:18 r Hecken und Gehölze, sag ich dir.
+00:14:23 h Ja ich überleg auch tatsächlich ob ich lieber die Mate statt dem Bier trinken sollte, weil ich muss sagen, heut hab ich nicht so ganz so gut geschlafen.
+00:14:30 t Oh, seh schon.
+00:14:32 h Ja, deswegen Hecken, ich war gerade schon Irland bei den Schäfchen und…
+00:14:39 c Meehehe…
+00:14:40 t Na dann stell ich mal auf n paar schöne Assoziationen ein, die du heute noch so austragen willst…
+00:14:46 h Assoziationskettensägenmassaker.
+00:14:47 Also falls sich jemand noch in der Lage sieht, das Podlove Projekt zu unterstützen, da gibts dann alles ausführlich auf podlove.org.
+00:14:53 t Jetzt halt ich aber auch schon das Maul.
+00:14:54 t Aber noch zum Thema Podcast, ich war ja gestern auf der CeBIT.
+00:14:56 Messe  CeBIT <https://de.wikipedia.org/wiki/Cebit> #glossary
+00:14:59 h Ja das hab ich auch gesehen.
+00:15:00 t Und dann werdet ihr sagen, CeBIT, Tim? Ist die CeBIT nicht schon seit Jahren total out, das ist doch voll langweilig und nur Schlipse und so?
+00:15:09 c Du wolltest doch bestimmt bloß nur wieder Verwandtschaft besuchen oder so.
+00:15:12 t Verwandtschaft?
+00:15:13 c Haste nicht noch Verwandtschaft in Hannover?
+00:15:15 t Ne.
+00:15:16 c Nich? Okay.
+00:15:18 t Naa also es ist halt so…
+00:15:21 r Ganz Hannover ist Verwandtschaft für Tim!
+00:15:23 t Naja ich, also die CeBIT ist son bisschen auch sone Art Verwandtschaft weil ich da ja unweit von viele Jahre gelebt habe und als kleiner Junge war das ja mein Zugang zur großen IT-Welt.
+00:15:38 t Die dann mehr oder weniger vor meiner Hautür parkte, regelmäßig einmal im Jahr.
+00:15:43 t Und man konnte ja damals dann noch irgendwie elegant durch Zäune schlüpfen und sich dann das Eintrittsgeld ersparen.
+00:15:51 t Heutzutage klickt man sich irgendwelche gesponserten Tickets online und zahlt auch nichts.
+00:15:56 t Bitte?
+00:15:57 c Damals haben sie auch noch echt Standpersonal mit Ahnung dagehabt.
+00:16:00 c Aber seit zehn, fünfzehn Jahren haben sie ja nur noch Vertriebsleute da und ein paar Boothbunnies und danke. Das war es dann auch.
+00:16:06 t Ja aber die Ausnahmen gibt es halt auch noch, und ich hatte auch eigentlich nen ganz guten Lauf diesmal.
+00:16:12 t Also vielleicht, was man zur CeBIT nochsagen kann, stimmt natürlich alles, ist halt so Messe.
+00:16:18 t Weiß nicht wie viel Zeit ihr so auf Messen schon verbracht habt in eurem Leben?
+00:16:24 c Viel zu viel.
+00:16:25 t Zu viel, ne?
+00:16:25 h In jedem Fall zuviel.
+00:16:28 r Ah gar nicht soviel, ich stand mal an der CeBIT am Stand, aber… als Messepersonal.
+00:16:35 c Ja, hab ja jahrelang auch auf- und abgebaut und all so Zeugs gemacht…
+00:16:40 t Das kann man auch noch alles aushalten.
+00:16:43 t Aber manchmal – also ich find Messen insofern schon ganz gut, weil du bei manchen Firmen kannst du dann einfach mal hingehen und ein Paket an Fragen fragen, was du von Webseiten jetzt so auch nicht immer beantwortet bekommst.
+00:16:45 Tim findet Messen generell gut, um Informationen aus erster Hand der Hersteller zu erhalten
+00:16:57 t Also ist ja eh sone Frage, wo holt man sich seine Informationen her?
+00:17:00 t Und seitdem Webseiten und das Web an sich so the deliverer of the information geworden ist, hat natürlich sone CeBIT auch ne andere Aufgabe bekommen.
+00:17:10 t Nämlich eigentlich die, die es auch nämlich früher hatte. Nämlich Salesdroids zusammenbringen, damit die sich da austauschen.
+00:17:18 h Also wenn ich, also letztes Mal haben wir ja über Foren gelästert, aber wenn ich jetzt um ne Frage mir beantworten zu lassen jetzt direkt noch zur CeBIT gehen muss, das ist ja der nächste Rückschritt dann…
+00:17:30 t Ja aber manchmal erlebst du das auch, dass das Standpersonal jetzt durchaus auch –
+00:17:36 t  Also du beklagst jetzt so den Mangel an Experten, aber das ist jetzt auch nicht unbedingt immer so.
+00:17:40 c Es war halt früher anders.
+00:17:42 t Es war auch mal anders, aber es ist jetzt auch nicht unbedingt überall immer an jedem Stand so schlimm, dass es alles gar nicht mehr zu ertragen wäre.
+00:17:49 t Also ich meine die Stände, wo wirklich nichts zu holen ist die erkennt man ja meistens auch schon von außen.
+00:17:56 t Den Eindruck hab ich zumindest so.
+00:17:57 t Naja, zumindest bei den deutschen Unternehmen mit IT-Nähe kann man dann manchmal schon auch noch ein paar andere Ergebnisse erzielen.
+00:18:04 t Also AVM hatte da zum Beispiel einen großen Stand, so.
+00:18:08 c Und, Leute da die mal man ausquetschen kann wann sie so bestimmte Features bringen?
+00:18:14 t Jaa, schon, also zu Roadmaps hab ich jetzt nicht abgefragt…
+00:18:19 t Weil ich war dann, also ich hatte das zwar gar nicht so auf dem Zeiger, aber ich trabte da so rein.
+00:18:24 t Halle 13 dann war das gleich so die erste Halle wenn man da von dem Bahnhof kommt und dann standen da überall IP-Telefone rum.
+00:18:31 t Und da dachte ich mir so “Hmm, IP-Telefone, da hattste doch mal sone Idee!”
+00:18:37 t Und das letzte Mal als ich nämlich geforscht hatte, was schon ne Weile her war, war ich son bisschen auf der Suche –
+00:18:43 t Wir hatten das ja hier schon ein paarmal, dieses Thema.
+00:18:45 t Wie bindet man Leute remote über Telekommunikationsnetze in solche Sendungen ein?
+00:18:47 IP-Telefonie <https://de.wikipedia.org/wiki/IP-Telefonie> #glossary
+00:18:52 t Also so live Audio und so weiter.
+00:18:53 c Wenn man auch noch Tim Pritlove heißt.
+00:18:55 t Na generell ist das die Frage!
+00:18:56 c Das heißt mit einem Spezialsetup, mit Kanalproblemen und überhaupt und so weiter und so fort.
+00:19:03 c Den Tim-Pritlove-Constraint musst du schon noch mit dazugeben, sonst ist es nämlich einfach.
+00:19:07 t Nein, das Problem hat einfach jeder!
+00:19:09 t Und ich meine, IP-Telefonie ist sone große Verheißung: Man hat sowieso Internet, die Bandbreiten sind irgendwie eigentlich theoretisch ausreichend, alle benutzen irgendwie Skype und sind nicht glücklich…
+00:19:19 c Ja, aber sie machens halt einfach.
+00:19:20 t Ja sie machens, aber du hast dann halt auch diese Skype-Probleme, mit dass du halt dann bei Skype manchmal wieder ein bisschen schneller reden musst, weil…
+00:19:28 c TCP.
+00:19:30 h Besser noch als Facetime. Immerhin.
+00:19:33 t Ja, besser noch als Facetime, aber so richtig befriedigend ist das nicht und überhaupt:
+00:19:36 t Softphones, also so Software, die Telefon spielt suckt einfach, ist einfach furchtbar.
+00:19:42 t Allein schon weil sie keine ordentlichen User-Interfaces haben.
+00:19:45 c Oh ja.
+00:19:45 t Entweder haben sie gar keine, dann sind sie noch halbwegs brauchbar, oder sie haben halt welche und versuchen irgendein schlechtes Asia-Telefen zu simulieren, ja wo einem auch schlecht wird und dann ist es meistens auch noch Java.
+00:19:57 t Also es rockt irgendwie alles gar nicht.
+00:20:00 t Und ich steh ja schon so auf dedizierte Devices und ich dachte mir so: "IP-Telefon? Hm."
+00:20:05 t Und was aber irgendwie kein Telefon hatte bisher, waren einfach richtige Audio-Ein- und -Ausgänge.
+00:20:25 Snom <http://www.snom.com/>
+00:22:25 ESI U24 XL <http://www.amazon.de/ESI-U24XL-U24-XL/dp/B003MALRRA> #shopping
+00:23:47 Opus Audio Codec <https://de.wikipedia.org/wiki/Opus_Codec> #glossary
+
+00:24:39 IP-Telefonie #chapter
+00:24:40 Softphone <https://de.wikipedia.org/wiki/Softphone> #glossary
+00:24:54 Raspberry Pi <http://www.raspberrypi.org/> #glossary
+00:25:56 R-Taste, Erdtaste, Hook-Flash <https://de.wikipedia.org/wiki/Rückfragetaste> #glossary
+00:28:23 Innovaphone IP232 <http://www.innovaphone.com/de/ip-telefonie/ip-telefone/ip232.html>
+00:29:07 “Wir können alles, außer Hochdeutsch.” <https://de.wikipedia.org/wiki/Liste_gefl%C3%BCgelter_Worte/W#Wir_k.C3.B6nnen_alles._Au.C3.9Fer_Hochdeutsch.> #glossary
+00:30:44 IETF <https://de.wikipedia.org/wiki/IETF> #glossary
+00:31:17 IPv6 <https://de.wikipedia.org/wiki/IPv6> #glossary
+00:31:33 Sipgate <https://de.wikipedia.org/wiki/Sipgate> #glossary
+00:35:33 G.722 <https://de.wikipedia.org/wiki/G.722> #glossary
+00:35:33 Opus <https://de.wikipedia.org/wiki/Opus_(Audiocodec)> #glossary
+00:35:57 DECT <https://de.wikipedia.org/wiki/Digital_Enhanced_Cordless_Telecommunications> #glossary
+00:37:19 "IT-Lösungen von A bis F" (Tim) #quote
+00:37:42 "Bootest du noch oder druckst du schon" (hukl) #quote
+00:37:45 "Während in Villariba noch gebootet wird, wird in Villabajo schon gedruckt" (hukl) #quote
+00:38:02 hukl musste schon oft vor bootenden Geldautomaten warten
+00:39:49 Groundwire - Business Caliber SIP Phone <http://www.acrobits.cz/11/acrobits-groundwire-for-iphone> #glossary
+00:41:56 "Von der Konkurrenz lernen, heißt siegen lernen!" (Clemens) - "Das ist keine Konkurrenz, das sind Mitbewerber!" (Tim) #quote
+
+00:42:46 Twitter #chapter
+00:42:47 Twitter akzeptiert keine URLs in DMs mehr
+00:44:32 App.net Bitcoin <https://bitcoin.app.net/>
+00:46:45 Netbot <http://tapbots.com/software/netbot/>
+00:46:52 Riposte <http://riposteapp.net/>
+00:47:30 Tim verwendet immer noch iOS6
+00:47:45 "iOS-sieben-fiziert" (Tim) #quote
+00:48:09 Echofon <http://www.echofon.com/twitter/mac/>
+00:49:45 Skype <https://de.wikipedia.org/wiki/Skype> #glossary
+00:50:53 PBX <https://de.wikipedia.org/wiki/Telefonanlage#Alternative_Bezeichnungen> #glossary
+00:50:56 "Ich guck mir ja auch [..] alle drei Monate facebook an." (Tim) - "So oft?" (Denis) #quote
+00:51:45 API <https://de.wikipedia.org/wiki/Programmierschnittstelle> #glossary
+00:54:25 "KIDS REACT TO ROTARY PHONES" <http://www.youtube.com/watch?v=XkuirEweZvM> #glossary
+00:55:07 Douglas Adams <https://de.wikipedia.org/wiki/Douglas_Adams> #glossary
+00:55:12 "Douglas Adams: Parrots the Universe and Everything" <https://www.youtube.com/watch?v=_ZG8HBuDjgc> #video
+00:55:58 Dorian Prentice Satoshi Nakamoto <https://de.bitcoin.it/wiki/Satoshi_Nakamoto> #glossary
+
+00:55:59 Bitcoin #chapter
+00:56:12 Newsweek-Artikel <http://mag.newsweek.com/2014/03/14/bitcoin-satoshi-nakamoto.html>
+00:56:44 Lea McGrath Goodman <http://www.newsweek.com/authors/leah-mcgrath-goodman>
+00:57:24 "Newsweek has issued a statement about this article" <http://www.newsweek.com/newsweeks-statement-bitcoin-story-231242>
+00:58:23 Video bei LA Times <http://www.latimes.com/business/technology/la-fi-tn-watch-dorian-satoshi-nakamoto-did-not-create-bitcoin-20140307,0,3730730.story>
+00:59:34 Forumpost von Satoshi Nakamoto <http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186>
+01:00:28 Nick Szabo <http://blog.sethroberts.net/2014/03/11/nick-szabo-is-satoshi-nakamoto-the-inventor-of-bitcoin/>
+01:02:17 Crowdfunding für Dorian P. S. Nakamoto <http://www.reddit.com/r/Bitcoin/comments/1ztjmg/andreas_im_fundraising_for_dorian_nakamoto>
+01:04:33 Dorian Nakamoto signed Satoshi Nakamotos Bitcoin Key <https://bitcointalk.org/index.php?topic=504778.0;all>
+01:06:34 Tonprobleme: Denis ist sehr leise
+01:07:51 "Mitm Fahrrad nich in den ersten Wagen!" (Clemens testet den Kompressor) #quote
+01:08:04 "Ich hab zurückbleiben gesagt!" (Clemens testet weiter) #quote
+01:08:29 Peter R’s Theorie zu mtgox <https://bitcointalk.org/index.php?topic=497289.0>
+01:08:31 180.000 BTC moved <http://blockr.io/tx/info/4ee89f7cf824a85ad5f11d52604ffdebe9f01302bcea8ddec0af450f9185ddf1>
+01:11:26 Denis hat kürzlich für 0.1 BTC seine Freunde zum Burger-Essen eingeladen
+01:12:19 "Vielleicht macht der Hoeneß ja 'ne Bank auf." (Denis kann keinen Bitcoin-Exchange empfehlen) #quote
+01:12:23 Bitstamp <https://de.bitstamp.net/>
+01:13:20 Coinbase <https://coinbase.com/>
+01:13:41 Bitcoin.de <https://www.bitcoin.de/>
+01:14:07 hukl mag den "Sparkassengeruch" von bitcoin.de nicht
+01:15:13 Kim Schmitz <https://de.wikipedia.org/wiki/Kim_Dotcom> #glossary
+01:15:19 "Megacoin" (Tim kann sich vorstellen, dass Kimble seine eigene Währung erschaffen könnte) #quote
+01:17:04 Office Space <http://www.imdb.com/title/tt0151804/> #glossary
+01:17:13 flexcoin <http://www.flexcoin.com/>
+01:17:25 Poloniex <https://poloniex.com/>
+01:18:14 Bitcoin Client Changelog <https://github.com/bitcoin/bitcoin/>
+
+01:22:32 gotofail #chapter
+01:22:33 "Wo wir gerade bei skurrilen Open-Source-Librarys sind" (Tim) #quote
+01:22:37 GnuTLS bug <http://arstechnica.com/security/2014/03/critical-crypto-bug-leaves-linux-hundreds-of-apps-open-to-eavesdropping/> #article
+01:22:44 GnuTLS <https://de.wikipedia.org/wiki/GnuTLS> #glossary
+01:22:47 korrigierender Commit für GnuTLS <https://www.gitorious.org/gnutls/gnutls/commit/6aa26f78150ccbdf0aec1878a41c17c41d358a3b>
+01:27:06 "Diese ganze zertifikatbasierte Security ist auch ein Problem in sich." (Tim) #quote
+01:27:47 Certificate Authority <https://de.wikipedia.org/wiki/Certificate_Authority> #glossary
+01:29:32 Zertifikat <https://de.wikipedia.org/wiki/Digitales_Zertifikat> #glossary
+01:29:47 Public Key <https://en.wikipedia.org/wiki/Public_key> #glossary
+01:32:10 Extended Validation Certificate <https://de.wikipedia.org/wiki/Extended-Validation-Zertifikat> #glossary
+01:33:35 ssl-tools.net <http://ssl-tools.net>
+01:33:54 Qualys SSL Labs <https://www.ssllabs.com/ssltest/>
+01:35:52 Symmetrische Cypher <https://de.wikipedia.org/wiki/Symmetrisches_Kryptosystem>
+01:36:33 RC4 <https://de.wikipedia.org/wiki/RC4> #glossary
+01:36:36 AES <https://de.wikipedia.org/wiki/Advanced_Encryption_Standard> #glossary
+01:36:39 Blowfish <https://de.wikipedia.org/wiki/Blowfish> #glossary
+01:36:42 Enigma <https://de.wikipedia.org/wiki/Enigma_%28Maschine%29> #glossary
+01:36:55 One-Time-Pad Verfahren <https://de.wikipedia.org/wiki/One-Time-Pad> #glossary
+01:36:57 Schlüsselaustauschproblem <https://de.wikipedia.org/wiki/Schl%C3%BCsselaustauschproblem> #glossary
+01:37:02 Diffie-Hellman-Schlüsselaustauschverfahren <http://de.wikipedia.org/wiki/Diffie-Hellman-Schl%C3%BCsselaustausch> #glossary
+01:37:29 "Sagt doch mal ein paar Webseiten eures Vertrauens." (Tim) - "facebook.com" (hukl) - "fefe.de" (hukl) #quote
+01:37:33 test.schrimpe.de <http://test.schrimpe.de>
+01:42:15 DANE <https://datatracker.ietf.org/wg/dane/charter/> #glossary
+01:42:48 Perfect Forward Secrecy <https://de.wikipedia.org/wiki/Perfect_Forward_Secrecy> #glossar
+01:42:58 Elliptic Curve Cryptography <https://de.wikipedia.org/wiki/Elliptic_Curve_Cryptography> #glossar
+01:45:30 Facebook: Secure browsing by default <https://www.facebook.com/notes/facebook-engineering/secure-browsing-by-default/10151590414803920>
+01:46:38 Github "jetzt alles sicher" <https://github.com/blog/1786-enhanced-oauth-security-for-ssh-keys>
+
+01:47:02 IETF Meeting #chapter
+01:47:52 Clemens war beim IETF Meeting in London <http://www.ietf.org/meeting/89/>
+01:48:18 "Jeder hat halt so sein Spezialgebiet und meins ist da [..] Telcos anbrüllen." (Clemens) #quote
+01:49:31 Clemens Erfahrungen mit chinesischen Hackern
+01:50:41 Wireshark <https://de.wikipedia.org/wiki/Wireshark> #glossar
+01:51:09 Akamai <https://de.wikipedia.org/wiki/Akamai> #glossar
+01:52:07 Probleme mit mobilen Wireless Access Points
+01:52:36 Google-Mitarbeiter mit Zucker abfüllen
+01:53:02 Teilnehmerzahl: 1300-1400
+01:53:34 "Üblicherweise ist das so, dass die Hotelnetze schon zusammenbrechen wenn die Leute erst in der Schlange stehen um einzuchecken." (Clemens) #quote
+01:55:18 Carrier-grade NAT <https://de.wikipedia.org/wiki/Carrier-grade_NAT> #glossar
+01:55:27 Apple-Dienste streiken bei IPv6-only
+01:57:34 Kosten für das eigene DSL-Netz
+01:58:03 The Internet Peering Playbook <http://drpeering.net/core/buyTheBook.html>
+01:58:32 LSD <https://de.wikipedia.org/wiki/LSD>
+01:58:36 MDMA <https://de.wikipedia.org/wiki/MDMA>
+01:59:11 Wie geht das mit dem Peering
+02:02:40 Drei (Mobilfunkmarke) <https://de.wikipedia.org/wiki/Drei_%28Mobilfunkmarke%29> #glossar
+02:06:16 7-Port USB-Switch von Clemens, um ausländische SIM-Karten aktiv zu halten
+02:07:34 die Amis und die SIM-Karten
+02:07:57 Kostenloses Data-Roaming von T-Mobile USA
+
+02:10:02 2048 Spiel <http://gabrielecirulli.github.io/2048/> #chapter
+02:11:17 AI für das Spiel <https://news.ycombinator.com/item?id=7379821>
+02:11:54 HackerNews-Item zu dem Spiel <https://news.ycombinator.com/item?id=7379821>
+02:13:32 hukls Highscore: 5036
+02:14:07 Multiplayer-Version <http://emils.github.io/2048-multiplayer/>
+02:17:57 "Jetzt ziehen aber auch so Zeiten auf, Tim findet iOS7 plötzlich gut,…" (Roddi) #quote
+
+02:17:57 iOS 7.1 <http://www.apple.com/ios/ios7-update/> #chapter
+02:18:57 Tim ist vulnerable mit iOS6 auf seinem iPhone 4
+02:19:39 das Team hat Spaß mit 2048
+02:20:20 "Double-Merge! M-M-M-Multimerge!" (hukl) #quote
+02:20:41 Safari Reader
+02:22:50 "Mein Augenlicht, das ist so mein bester Sinn." (Tim) #quote
+02:24:49 Dank geht an den Schokoladen-Spender
+02:25:49 Icons sind “fetter” in iOS 7.1
+02:26:11 "Aha, deine Augen sind noch okay, aber du schaltest den Accessibility-Modus ein…" (hukl) #quote
+02:27:27 Es gibt keine Schokolade
+02:28:19 Film-Alphabet Spiel <https://itunes.apple.com/de/app/film-alphabets/id661150816?l=en&mt=8>
+02:29:05 "Fetter Text" bringt fette Icons
+02:29:38 Shift-Taste
+02:30:01 "The problem with Apple is that they just have no taste." (Tim) #quote
+02:30:19 "Sir Designalot" (hukl) #quote
+02:31:25 Buttons kann man wieder anschalten
+02:31:27 "Und die Einstellung packen sie jetzt in die Bedienungshilfen nach dem Motte 'Wer das braucht ist behindert'?" (Clemens) #quote
+02:34:17 Die gute alte Zeit
+02:35:21 "Merke dir: Jede gute alte Zeit war mal eine schlechte neue Zeit." (Clemens) #quote
+02:36:03 CarPlay <http://www.apple.com/ios/carplay/>
+02:40:29 Was macht CarPlay eigentlich?
+02:42:04 CarPlay-Display im Debugger <https://twitter.com/stroughtonsmith/status/443117705894182912>
+02:43:45 MPContentItem <https://developer.apple.com/LIBRARY/ios/documentation/MediaPlayer/Reference/MPContentItem_Ref/Reference/Reference.html> #glossar
+02:45:27 UUID/iBeacons <https://de.wikipedia.org/wiki/IBeacon> #glossary
+02:48:19 Background Notification für iBeacons
+02:52:51 "Du könntest quasi in jedes Teil so'n Beacon reinmachen-" (Tim) "Wenn du sonst nichts zu tun hast…" (hukl) #quote
+02:53:24 Seidenstraße <https://events.ccc.de/congress/2013/wiki/Projects:Seidenstrasse>
+
+02:54:30 Atom Editor #chapter
+02:54:37 "Ja, es gibt diesen neuen Browser…" (roddi) #quote
+02:55:01 "Emacs 2.0" (roddi) #quote
+02:55:17 Atom <https://atom.io/>
+02:55:18 Github Organisation <https://github.com/atom/>
+02:55:34 CoffeScript <https://de.wikipedia.org/wiki/CoffeeScript> #glossar
+02:55:46 "Ist das komplett in CoffeeScript geschrieben?" (roddi) "Soweit ich weß, ja." (Tim) "Ogottogott!" (roddi) "Die Armen!" (hukl) #quote
+02:57:39 "Was ist denn jetzt so toll an dem Editor?" (Tim) "Das frage ich mich auch, ehrlich gesagt." (roddi) #quote
+02:57:42 vi <https://de.wikipedia.org/wiki/Vi> #glossar
+02:59:15 "Ich find das Syntax-Highlighting nicht so besonders, ich find den Filebrowser nicht so besonders, ich find, ehrlich gesagt, überhaupt nichts besonders." (roddi) #quote
+03:00:15 config.cson
+03:00:50 "Das ist für die hippen Webdeveloperkids gemacht." (hukl) #quote
+03:01:27 "SPOD – Spinning Pizza of Death" (denis) #quote
+03:04:57 Ladebalken <https://de.wikipedia.org/wiki/Fortschrittsbalken> #glossar
+03:07:52 Texttastic <http://www.textasticapp.com/>
+03:08:16 "Das ist so ein Editor, über den relativ wenig geredet wird…" (Tim) "Ja, weil ihn keiner aussprechen kann!" (Denis) #quote
+03:08:48 Sublime Text <http://www.sublimetext.com/>
+03:10:48 TextMate <https://github.com/textmate/textmate>
+03:11:42 Cocoa <https://de.wikipedia.org/wiki/Cocoa_%28API%29> #glossar
+
+03:11:51 10.9.3 Beta #chapter
+03:12:17 4K <https://de.wikipedia.org/wiki/4K2K> #glossar
+03:12:49 First Person Shooter <https://de.wikipedia.org/wiki/Ego-Shooter> #glossar
+03:12:49 Frames Per Second <https://de.wikipedia.org/wiki/Bildfrequenz> #glossar
+03:14:31 "I can see dead pixels" (Denis) #quote
+03:14:42 netkas Forum <http://forum.netkas.org/>
+03:15:50 Improving the State of 4K Display Support Under OS X <http://www.anandtech.com/show/7847/improving-the-state-of-4k-display-support-under-os-x>
+03:16:25 Zusammenfassung zum Atom Editor <https://pbs.twimg.com/media/Bhfbnn3CMAA93mg.png:large>
+03:17:07 Schokolade fehlt
+
+03:17:38 ETA (Estimated Time of Arrival) #chapter
+03:18:32 "Voraussagen sind immer schwierig, besonders, wenn sie die Zukunft betreffen!" (Roddi zitiert Karl Valentin) #quote
+03:18:51 FTP <https://de.wikipedia.org/wiki/File_Transfer_Protocol> #glossar
+03:22:03 Adobe Flash <https://de.wikipedia.org/wiki/Adobe_Flash> #glossary
+03:23:22 Philosophie des Fortschrittsbalken
+03:23:46 "Fluppdizität" (Tim) #quote
+03:24:37 Man amüsiert sich über XKCD 612 <https://xkcd.com/612/>
+03:26:22 "Alles kann länger dauern als gedacht." (Tim) "Tut es auch!" (hukl) #quote
+03:27:08 Transmission <http://www.transmissionbt.com/> #app
+03:27:50 µTorrent <https://de.wikipedia.org/wiki/%CE%9CTorrent> #app
+03:29:18 "Ich seh schon, libeta, jetzt auf github" (roddi) - "Sollen wir mal raten, wann er da ist?" (hukl) #quote
+03:30:39 Hukl erreicht ein lustiger Tweet <https://twitter.com/Bischof_Tebartz/status/443095624654028800>
+03:31:38 Voynich-Manuskript
+03:32:22 Mail Pilot <http://www.mailpilot.co/> #app
+03:32:34 "Auf welchem Betriebssystem läuft der denn?" (Tim)  "Auf unserem" (roddi) #quote
+03:33:37 Tims Supertweet <https://twitter.com/timpritlove/status/116104926689624064> #tweet
+03:34:26 Postbox <http://www.postbox-inc.com/> #app
+03:35:29 "Supergeil, Supertweet" (hukl) #quote
+03:35:48 Supergeil EDEKA Playlist <http://www.youtube.com/playlist?list=PLgatV9ZQVIdoizWJGomTai5MI9DRKd8A3>
+03:37:12 Verabschiedung
+
+03:37:47 Outro #chapter
