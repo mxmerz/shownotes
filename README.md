@@ -1,4 +1,4 @@
 shownotes
 =========
 
-Shownotes fü Podcasts
+Shownotes für Podcasts.
