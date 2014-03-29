@@ -1,0 +1,235 @@
+00:00:00 Intro #chapter
+00:00:01 Statler & Waldorf: Meh <https://www.youtube.com/watch?v=zSDj7bjAv2s> #video
+00:00:15 CRE Intro
+00:00:43 Begrüßung #chapter
+00:00:50 Blinkenlights Toronto <http://de.wikipedia.org/wiki/Projekt_Blinkenlights>
+00:01:40 Frank Michlick <http://i.m.fm/> #chapter
+00:01:41 @fmichlick <https://twitter.com/fmichlick>
+00:01:54 “Wir kennen uns ja noch aus Berlin, so damals aus den goldenen Zeiten, als wir alle Internetexperten waren weil wir wussten, wie man einen Computer einschaltet und eine IP-Adresse eingibt.” (Tim) #quote
+00:02:13 CCC <http://ccc.de>
+00:02:29 CyberTeam GbR
+00:02:33 Pixelpark <http://de.wikipedia.org/wiki/Pixelpark> #glossary
+00:02:56 Netsurf
+00:02:58 MAZ Internet
+00:03:14 Ottawa <http://de.wikipedia.org/wiki/Ottawa> #glossary
+00:03:21 Easyon
+00:03:25 Dotcom-Blase <http://de.wikipedia.org/wiki/Dotcom-Blase> #glossary
+00:03:49 TUCOWS <http://www.tucows.com/>
+00:03:50 Tucows <http://de.wikipedia.org/wiki/Tucows> #glossary
+00:04:16 Winsock <http://de.wikipedia.org/wiki/Winsock> #glossary
+00:05:15 Domain Name System #chapter
+00:05:24 DNS <http://de.wikipedia.org/wiki/Domain_Name_System> #glossary
+00:05:59 Learning by Doing <http://de.wikipedia.org/wiki/Learning_by_Doing> #glossary
+00:06:18 Einleitung
+00:07:40 Geschichte #chapter
+00:07:50 Geschichte des Internet <http://de.wikipedia.org/wiki/Geschichte_des_Internets> #glossary
+00:07:58 Arpanet <http://de.wikipedia.org/wiki/Arpanet> #glossary
+00:08:02 Usenet <http://de.wikipedia.org/wiki/Usenet> #glossary
+00:08:23 IPv4 Adressen <http://de.wikipedia.org/wiki/IP-Adresse> #glossary
+00:08:28 IPv4 <http://de.wikipedia.org/wiki/IPv4> #glossary
+00:08:38 Gopher <http://de.wikipedia.org/wiki/Gopher> #glossary
+00:08:39 E-Mail <http://de.wikipedia.org/wiki/E-Mail> #glossary
+00:08:49 Hosts-Datei <http://de.wikipedia.org/wiki/Hosts-Datei> #glossary
+00:10:21 “Die Menschen sind halt eher Namen zugänglich als Nummern.” (Frank) #quote
+00:10:52 FOLDOC: Bang Path <http://foldoc.org/Bang+Path>
+00:11:22 C64 <http://de.wikipedia.org/wiki/Commodore_64> #glossary
+00:11:30 Webbrowser <http://de.wikipedia.org/wiki/Webbrowser> #glossary
+00:13:05 Technik #chapter
+00:13:11 DNS ist ein Netzwerk von Servern die Namen in IP-Adressen übersetzen
+00:13:36 13 Root-Server <http://de.wikipedia.org/wiki/Root-Nameserver> #glossary
+00:14:05 Domainnamen werden von rechts nach links gelesen
+00:14:12 Domainnamen fangen mit einem Punkt an
+00:15:06 example.com <http://example.com>
+00:15:17 IANA-managed Reserved Domains <http://www.iana.org/domains/reserved>
+00:15:23 Ablauf einer Abfrage #chapter
+00:15:30 .com <http://de.wikipedia.org/wiki/.com> #glossary
+00:15:51 Internet Service Provider <http://de.wikipedia.org/wiki/Internetdienstanbieter> #glossary
+00:16:01 Hostname
+00:16:04 Fubar <http://de.wikipedia.org/wiki/Fubar> #glossary
+00:16:15 foobar.example.com
+00:16:34 FTP <http://de.wikipedia.org/wiki/File_Transfer_Protocol> #glossary
+00:16:35 WWW <http://de.wikipedia.org/wiki/World_Wide_Web> #glossary
+00:17:10 Router <http://de.wikipedia.org/wiki/Router> #glossary
+00:17:14 DSL <http://de.wikipedia.org/wiki/Digital_Subscriber_Line> #glossary
+00:17:16 Nutzer tippt Adresse ein
+00:17:23 Rechner schickt Adresse an Nameserver des ISP
+00:17:30 Nameserver <http://de.wikipedia.org/wiki/Nameserver> #glossary
+00:17:37 IP-Adresse des Nameserver wird dem Rechner vom Router zugeteilt
+00:17:51 DHCP <http://de.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol> #glossary
+00:17:56 PPPoE <http://de.wikipedia.org/wiki/PPP_over_Ethernet> #glossary
+00:18:46 Arbeitsweise des Nameserver
+00:18:57 Cache <http://de.wikipedia.org/wiki/Cache> #glossary
+00:19:16 Nameserver leitet Anfrage gegebenenfalls an Root-Server weiter
+00:19:50 Root-Server fragt den für example.com zuständigen Nameserver
+00:20:12 Nameserver schickt IP-Adresse zurück
+00:20:37 IP-Adressen werden zwischengespeichert
+00:20:44 TTL <http://de.wikipedia.org/wiki/Time_to_Live> #glossary
+00:21:33 Zusammenfassung
+00:22:19 Traffic bei Root-Nameservern
+00:22:29 VeriSign <http://de.wikipedia.org/wiki/VeriSign> #glossary
+00:23:41 Nameserver für TLDs
+00:24:06 Glue Records <http://de.wikipedia.org/wiki/NS_Resource_Record> #glossary
+00:25:04 .net <http://de.wikipedia.org/wiki/.net> #glossary
+00:25:05 .edu <http://de.wikipedia.org/wiki/.edu> #glossary
+00:25:06 .org <http://de.wikipedia.org/wiki/.org> #glossary
+00:25:07 Top Level Domains <http://de.wikipedia.org/wiki/Top-Level-Domain> #glossary
+00:25:14 .aero <http://de.wikipedia.org/wiki/.aero> #glossary
+00:25:17 .museum <http://de.wikipedia.org/wiki/.museum> #glossary
+00:25:18 .info <http://de.wikipedia.org/wiki/.info> #glossary
+00:25:30 ccTLDs <http://de.wikipedia.org/wiki/Liste_l%C3%A4nderspezifischer_Top-Level-Domains> #glossary
+00:25:31 .de <http://de.wikipedia.org/wiki/.de> #glossary
+00:25:39 DENIC <http://de.wikipedia.org/wiki/DENIC> #glossary
+00:26:10 .mobi <http://de.wikipedia.org/wiki/.mobi> #glossary
+00:26:40 Root-Nameserver <http://de.wikipedia.org/wiki/Root-Nameserver> #chapter
+00:27:12 VeriSign <http://de.wikipedia.org/wiki/VeriSign> #glossary
+00:27:31 Network Solutions <http://de.wikipedia.org/wiki/Network_Solutions> #glossary
+00:27:38 US-Wirtschaftsministerium <http://de.wikipedia.org/wiki/Handelsministerium_der_Vereinigten_Staaten> #glossary
+00:27:53 ICANN <http://de.wikipedia.org/wiki/Internet_Corporation_for_Assigned_Names_and_Numbers> #glossary
+00:27:56 Non-Profit-Organisation <http://de.wikipedia.org/wiki/Non-Profit-Organisation> #glossary
+00:28:05 Domain Name Registry <http://de.wikipedia.org/wiki/Network_Information_Center> #glossary
+00:30:03 Politik #chapter
+00:30:35 Technik der Abfrage hat sich nicht verändert im Laufe der Jahre
+00:31:03 A Resource Record <http://de.wikipedia.org/wiki/A_Resource_Record> #glossary
+00:31:29 SRV Resource Record <http://de.wikipedia.org/wiki/SRV_Resource_Record> #glossary
+00:31:53 ICANN <http://de.wikipedia.org/wiki/Internet_Corporation_for_Assigned_Names_and_Numbers> #glossary
+00:32:10 “Auch gerne ICANT genannt.” (Frank) #quote
+00:33:28 Worum kümmert sich die ICANN?
+00:33:35 Aufgabe ist es, die Funktion des Internets sicherzustellen
+00:34:42 “Die haben dann pro Jahr drei oder vier Meetings – wir sagen immer, in den Gegenden wo die Leute immer gerne mal hinwollten, die bei ICANN arbeiten.” (Frank) #quote
+00:34:45 List of ICANN Meetings <http://en.wikipedia.org/wiki/List_of_ICANN_meetings> #glossary
+00:35:01 ICANN-Meeting Vancouver <http://archive.icann.org/en/meetings/vancouver/>
+00:35:25 Andy Müller-Maguhn <http://de.wikipedia.org/wiki/Andy_M%C3%BCller-Maguhn> #glossary
+00:36:09 Tim kündigt einen CRE über ICANN an
+00:36:51 ICANN will es einfacher machen, neue TLDs einzuführen
+00:38:40 .xxx <http://de.wikipedia.org/wiki/.xxx> #glossary
+00:40:24 .name <http://de.wikipedia.org/wiki/.name> #glossary
+00:40:26 .travel <http://de.wikipedia.org/wiki/.travel> #glossary
+00:41:00 “Ein windiges Business, dieses DNS-Business.” (Tim) #quote
+00:41:07 Die fünf Rs: Regulator, Registry, Registrar, Resellers, Registrants
+00:42:20 Regulator #chapter
+00:42:35 DENIC <http://de.wikipedia.org/wiki/DENIC> #glossary
+00:42:56 CIRA <http://en.wikipedia.org/wiki/Canadian_Internet_Registration_Authority> #glossary
+00:43:25 NIC <http://de.wikipedia.org/wiki/Network_Information_Center> #glossary
+00:43:47 Registry <http://en.wikipedia.org/wiki/Domain_name_registry> #glossary #chapter
+00:43:54 Registry ist Betreiber der TLD
+00:44:00 .uk <http://de.wikipedia.org/wiki/.uk> #glossary
+00:44:09 .de <http://de.wikipedia.org/wiki/.de> #glossary
+00:44:11 .ca <http://de.wikipedia.org/wiki/.ca> #glossary
+00:44:12 .us <http://de.wikipedia.org/wiki/.us> #glossary
+00:44:30 Public Interest Registry <http://de.wikipedia.org/wiki/Public_Interest_Registry> #glossary
+00:44:36 Afilias <http://de.wikipedia.org/wiki/Afilias> #glossary
+00:44:43 .biz <http://de.wikipedia.org/wiki/.biz> #glossary
+00:44:45 NeuLevel und NeuStar <http://de.wikipedia.org/wiki/NeuStar> #glossary
+00:45:15 Eine Registry muss die Funktionalität der TLD sicherstellen
+00:45:52 “Das Gesetz bleibt schwammig, Näheres definieren wir später.” (Tim) #quote
+00:46:11 Site Finder <http://en.wikipedia.org/wiki/Site_Finder> #glossary
+00:48:10 BoingBoing <http://boingboing.net/>
+00:48:17 del.icio.us <http://del.icio.us/>
+00:48:34 flickr <http://flickr.com>
+00:49:32 Verizon <http://de.wikipedia.org/wiki/Verizon_Communications> #glossary
+00:49:32 Comcast <http://de.wikipedia.org/wiki/Comcast> #glossary
+00:52:45 Registrar <http://de.wikipedia.org/wiki/Domain_Name_Registrar> #glossary #chapter
+00:52:58 Registrar darf Domains einer TLD verkaufen
+00:53:40 Domain Name Snapping
+00:53:50 Vertrag mit der ICANN
+00:55:43 Domain-Transfer <http://de.wikipedia.org/wiki/Domain-Transfer> #glossary
+00:55:47 KK-Antrag <http://de.wikipedia.org/wiki/Konnektivit%C3%A4tskoordination> #glossary
+00:56:13 Wie meldet der Registrar die Registrierung an die Registry?
+00:56:16 Domain-Registrierung <http://de.wikipedia.org/wiki/Domain-Registrierung> #glossary
+00:56:46 EPP <http://de.wikipedia.org/wiki/Extensible_Provisioning_Protocol> #glossary
+00:56:56 NSI Registry Registrar Protocol (RRP) <http://tools.ietf.org/html/rfc2832>
+00:56:57 VeriSign Registry Registrar Protocol (RRP) <http://tools.ietf.org/html/rfc3632>
+00:57:04 ERP
+00:57:09 Wie funktioniert EPP?
+00:57:34 whois <http://de.wikipedia.org/wiki/Whois> #glossary
+00:58:40 Grace Period
+00:58:51 Domaintasting <http://de.wikipedia.org/wiki/Domaintasting> #glossary
+01:00:02 Gelöschte Namen neu registrieren
+01:00:10 Hubble-Weltraumteleskop <http://de.wikipedia.org/wiki/Hubble-Weltraumteleskop> #glossary
+01:01:08 Yahoo <http://de.wikipedia.org/wiki/Yahoo> #glossary
+01:01:50 Direct Navigation <http://en.wikipedia.org/wiki/Direct_navigation> #glossary
+01:02:37 Adressleiste <http://en.wikipedia.org/wiki/Address_bar> #glossary
+01:02:46 Google Chrome <http://de.wikipedia.org/wiki/Google_Chrome> #glossary
+01:04:23 Domainparking <http://de.wikipedia.org/wiki/Domainparking> #glossary
+01:06:34 Go Daddy <http://en.wikipedia.org/wiki/Go_Daddy> #glossary
+01:07:00 1&1 <http://de.wikipedia.org/wiki/1%261_Internet_AG> #glossary
+01:07:20 Registrierungsdaten
+01:08:30 whois <http://de.wikipedia.org/wiki/Whois> #glossary
+01:09:26 Port <http://de.wikipedia.org/wiki/Port_(Protokoll)> #glossary
+01:11:10 Registrar Data Escrow Program <http://www.icann.org/en/resources/registrars/data-escrow/registrar-escrow-08nov01-en.htm>
+01:11:24 RegisterFly <http://en.wikipedia.org/wiki/RegisterFly> #glossary
+01:12:07 Iron Mountain <http://en.wikipedia.org/wiki/Iron_Mountain_Incorporated> #glossary
+01:12:40 Whois Privatsphäre
+01:16:01 Reseller #chapter
+01:16:13 Network Solutions <http://de.wikipedia.org/wiki/Network_Solutions> #glossary
+01:16:15 eNom <http://en.wikipedia.org/wiki/ENom> #glossary
+01:16:19 Wild West Domains
+01:16:32 Hosting <http://de.wikipedia.org/wiki/Hosting> #glossary
+01:17:47 Domain-Transfer ist meistens das Schwierigste beim Anbieterwechsel
+01:18:37 Registrant #chapter
+01:18:41 Domaininhaber <http://de.wikipedia.org/wiki/Domaininhaber> #glossary
+01:18:45 Impressum <http://de.wikipedia.org/wiki/Impressum> #glossary
+01:19:01 Admin-C <http://de.wikipedia.org/wiki/Admin-C> #glossary
+01:19:19 iwhois.com <http://iwhois.com>
+01:19:46 Tech-C <http://de.wikipedia.org/wiki/Tech-C> #glossary
+01:19:50 Billing-C für Abrechnung
+01:20:35 Registrant ID
+01:20:45 Nick Handle
+01:20:51 RIPE Handle
+01:23:07 Hotmail <http://de.wikipedia.org/wiki/Hotmail> #glossary
+01:23:34 Ablauf einer Registrierung
+01:24:27 Liste der akkreditierten Registrare <http://www.icann.org/registrar-reports/accredited-list.html>
+01:24:46 DomainTools.com <http://en.wikipedia.org/wiki/DomainTools.com> #glossary
+01:25:54 Handelsmarke <http://de.wikipedia.org/wiki/Handelsmarke> #glossary
+01:26:14 Augen auf beim Domainbesitz
+01:27:48 Whois Data Reminder Policy <http://www.icann.org/en/resources/registrars/consensus-policies/wdrp>
+01:28:52 Domain Transfer #chapter
+01:29:07 Konnektivitätskoordination <http://de.wikipedia.org/wiki/Konnektivit%C3%A4tskoordination> #glossary
+01:29:18 DENIC <http://de.wikipedia.org/wiki/DENIC> #glossary
+01:29:56 Providerwechsel
+01:30:39 Eigentümerwechsel
+01:32:06 Es gibt kein einheitliches Prozedere
+01:34:42 Domain Hijacking <http://en.wikipedia.org/wiki/Domain_hijacking> #glossary
+01:35:22 Kulturelle Probleme des DNS #chapter
+01:35:29 Domainparking <http://de.wikipedia.org/wiki/Domainparking> #glossary
+01:35:31 Site Finder <http://en.wikipedia.org/wiki/Site_Finder> #glossary
+01:35:38 Domaintasting <http://de.wikipedia.org/wiki/Domaintasting> #glossary
+01:35:54 Domaingrabbing <http://de.wikipedia.org/wiki/Domaingrabbing> #glossary
+01:36:08 UDRP <http://de.wikipedia.org/wiki/UDRP> #glossary
+01:37:13 nissan.com <http://nissan.com>
+01:37:16 Nissan Motors vs. Nissan Computer <http://en.wikipedia.org/wiki/Nissan_Motors_vs._Nissan_Computer> #glossary
+01:37:49 Trademark <http://de.wikipedia.org/wiki/Trademark> #glossary
+01:40:23 chicago2016.com <http://chicago2016.com>
+01:40:30 Domain Name Dispute over chicago2016.com <http://en.wikipedia.org/wiki/Chicago_bid_for_the_2016_Summer_Olympics#Domain_name_dispute> #glossary
+01:41:12 Technische Probleme des DNS #chapter
+01:41:44 Fehler im DNS <http://de.wikipedia.org/wiki/Dan_Kaminsky#Fehler_im_Domain_Name_System> #glossary
+01:41:45 Dan Kaminsky <http://de.wikipedia.org/wiki/Dan_Kaminsky> #glossary
+01:41:54 BIND <http://de.wikipedia.org/wiki/BIND> #glossary
+01:42:18 djbdns <http://de.wikipedia.org/wiki/Djbdns> #glossary
+01:42:20 PowerDNS <http://de.wikipedia.org/wiki/PowerDNS> #glossary
+01:42:37 DNS-Spoofing bzw. Cache Poisoning <http://de.wikipedia.org/wiki/Cache_Poisoning> #glossary
+01:44:12 DNSSEC <http://de.wikipedia.org/wiki/Domain_Name_System_Security_Extensions> #glossary
+01:44:42 Root Zone File <http://en.wikipedia.org/wiki/Root_zone_file> #glossary
+01:45:04 IPv6 <http://de.wikipedia.org/wiki/IPv6> #glossary
+01:45:05 CRE 197: IPv6 <http://cre.fm/cre197-ipv6>
+01:46:23 Social Engineering <http://de.wikipedia.org/wiki/Social_Engineering_(Sicherheit)> #glossary
+01:46:47 “Komplette Sicherheit gibt’s nicht, das ist ganz klar.” (Frank) “Der Standardsatz, den haben wir jetzt auch gebracht.” (Tim) #quote
+01:47:00 DynDNS <http://de.wikipedia.org/wiki/Dynamisches_DNS> #glossar #chapter
+01:48:32 IANA <http://de.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority> #glossary
+01:48:41 ARIN <http://de.wikipedia.org/wiki/American_Registry_for_Internet_Numbers> #glossary
+01:48:46 RIPE <http://de.wikipedia.org/wiki/RIPE_Network_Coordination_Centre> #glossary
+01:48:51 APNIC <http://de.wikipedia.org/wiki/Asia-Pacific_Network_Information_Centre> #glossary
+01:49:08 IPv4-Adressen werden knapp
+01:52:36 DynDNS Protokolle
+01:52:51 RFC <http://de.wikipedia.org/wiki/Request_for_Comments> #glossary
+01:53:25 API <http://de.wikipedia.org/wiki/Programmierschnittstelle> #glossary
+01:53:32 Domain Aftermarket #chapter
+01:53:54 Hedge-Fonds <http://de.wikipedia.org/wiki/Hedgefonds> #glossary
+01:54:34 Markt soll 2 Milliarden USD groß sein
+01:56:49 Internationalisierte Domainnamen <http://de.wikipedia.org/wiki/Internationalisierter_Domainname> #glossary #chapter
+01:57:08 China hat drei “interne” TLDs
+01:57:51 RealNames <http://en.wikipedia.org/wiki/RealNames> #glossary
+01:59:41 Abschluss #chapter
+01:59:50 Danke an Frank
+02:00:02 CRE 100: Das Internet und die Hacker <http://cre.fm/cre100-das-internet-und-die-hacker>
+02:00:25 CRE Outro
