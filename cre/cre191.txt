@@ -1,0 +1,514 @@
+00:00:00 Intro #chapter
+00:00:01 Computer Networks - The Heralds Of Resource Sharing <https://archive.org/details/ComputerNetworks_TheHeraldsOfResourceSharing> #video
+00:01:00 CRE Intro
+00:01:33 Begrüßung #chapter
+00:01:58 Thema heute: Internetversorgung
+00:02:16 Clemens Schrimpe #chapter
+00:02:20 @csch42 <https://twitter.com/csch42>
+00:02:34 Wie ist Clemens in den Topf gefallen?
+00:03:01 Kommunikation
+00:03:37 Akustikkoppler <http://de.wikipedia.org/wiki/Akustikkoppler> #glossary
+00:04:08 Bildschirmtext (BTX) <http://de.wikipedia.org/wiki/Bildschirmtext> #glossary
+00:04:14 Baud <http://de.wikipedia.org/wiki/Baud> #glossary
+00:04:52 Deutsche Bundespost <http://de.wikipedia.org/wiki/Deutsche_Bundespost> #glossary
+00:05:09 Modem <http://de.wikipedia.org/wiki/Modem> #glossary
+00:05:14 V.32 <http://www.itu.int/rec/T-REC-V.32/_page.print>
+00:05:24 V.34 <http://www.itu.int/rec/T-REC-V.34/_page.print>
+00:05:40 ISDN <http://de.wikipedia.org/wiki/Integrated_Services_Digital_Network> #glossary
+00:05:41 “ISDN, die Offenbarung: 64kbits!” (Clemens) #quote
+00:05:43 DFÜ in den 80ern #chapter
+00:05:47 Bildschirmtext (BTX) <http://de.wikipedia.org/wiki/Bildschirmtext> #glossary
+00:06:21 Webbrowser <http://de.wikipedia.org/wiki/Webbrowser> #glossary
+00:06:49 Minitel <http://de.wikipedia.org/wiki/Minitel> #glossary
+00:07:21 Grafiken bei BTX
+00:07:30 Font <http://de.wikipedia.org/wiki/Font_(Informationstechnik)> #glossary
+00:07:54 BTX-Hack <http://de.wikipedia.org/wiki/BTX-Hack> #glossary
+00:08:50 Datenfernübertragung (DFÜ) <http://de.wikipedia.org/wiki/Datenfern%C3%BCbertragung> #glossary
+00:09:03 Mailbox <http://de.wikipedia.org/wiki/Mailbox_(Computer)> #glossary
+00:09:22 FidoNet <http://de.wikipedia.org/wiki/FidoNet> #glossary
+00:09:30 Unix to Unix Copy Protocol (UUCP) <http://de.wikipedia.org/wiki/Unix_to_Unix_Copy> #glossary
+00:09:33 Unix <http://de.wikipedia.org/wiki/Unix> #glossary
+00:09:36 E-Mail <http://de.wikipedia.org/wiki/E-Mail> #glossary
+00:09:38 RFC 822 <http://tools.ietf.org/html/rfc822>
+00:09:43 CRE100 Das Internet und die Hacker <http://cre.fm/cre100-das-internet-und-die-hacker>
+00:09:54 Hans Hübner <http://de.wikipedia.org/wiki/Hans_Heinrich_H%C3%BCbner> #glossary
+00:10:18 “Modem war ja im Prinzip so ein bisschen diese dynamische Wackeltechnologie.” (Tim) #quote
+00:10:48 X.25 <http://de.wikipedia.org/wiki/X.25> #chapter #glossary
+00:10:55 CCITT <http://de.wikipedia.org/wiki/Comit%C3%A9_Consultatif_International_T%C3%A9l%C3%A9phonique_et_T%C3%A9l%C3%A9graphique> #glossary
+00:11:04 Paketvermittlung <http://de.wikipedia.org/wiki/Paketvermittlung> #glossary
+00:11:19 IBM <http://de.wikipedia.org/wiki/IBM> #glossary
+00:11:20 SNA <http://de.wikipedia.org/wiki/Systems_Network_Architecture> #glossary
+00:11:41 Übermittlungsschicht <http://de.wikipedia.org/wiki/Vermittlungsschicht> #glossary
+00:11:45 SDLC <http://de.wikipedia.org/wiki/Synchronous_Data_Link_Control> #glossary
+00:11:48 HDLC <http://de.wikipedia.org/wiki/High-Level_Data_Link_Control> #glossary
+00:11:59 Datex-P <http://de.wikipedia.org/wiki/Datex-P> #glossary
+00:12:02 Telepak
+00:12:03 DATAPAC <http://en.wikipedia.org/wiki/DATAPAC> #glossary
+00:12:04 Transpac <http://fr.wikipedia.org/wiki/Transpac> #glossary
+00:12:47 Datex-P 20
+00:12:49 Datex-P 20 H
+00:12:55 Datex-P 10 H
+00:13:23 Datex-P 20 F
+00:13:50 Reverse Charging, R-Gespräch <http://de.wikipedia.org/wiki/R-Gespr%C3%A4ch> #glossary
+00:14:10 Network User Identification (NUI)
+00:15:02 CompuServe <http://de.wikipedia.org/wiki/CompuServe> #glossary
+00:15:13 ASCII <http://de.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange> #glossary
+00:15:28 Washington Post <http://de.wikipedia.org/wiki/The_Washington_Post> #glossary
+00:15:43 Datex-P 10 H
+00:16:00 H wie “Hauptanschluss”
+00:16:34 Deutsche Telekom <http://de.wikipedia.org/wiki/Deutsche_Telekom> #glossary
+00:16:40 Netzanschaltgerät
+00:16:50 Multiplexer <http://de.wikipedia.org/wiki/Multiplexer> #glossary
+00:16:51 Vermittlungsstelle <http://de.wikipedia.org/wiki/Vermittlungsstelle> #glossary
+00:16:57 Datex-P 10 H hat 250 DM gekostet
+00:17:11 bis zu 255 Kanäle
+00:17:32 Pakete und Verbindungen
+00:18:14 Virtuelle Verbindung <http://de.wikipedia.org/wiki/Virtuelle_Verbindung> #glossary
+00:18:25 TCP <http://de.wikipedia.org/wiki/Transmission_Control_Protocol> #glossary
+00:18:27 HTTP <http://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol> #glossary
+00:19:03 Permanent Virtual Circuits (PVC) und Switched Virtual Circuits (SVC)
+00:22:20 Tarife nach Mondphase
+00:23:16 IP <http://de.wikipedia.org/wiki/Internet_Protocol> #glossary
+00:23:23 Clemens hat Tim das WWW gezeigt
+00:23:25 World Wide Web <http://de.wikipedia.org/wiki/World_Wide_Web> #glossary
+00:23:32 NCSA Mosaic <http://de.wikipedia.org/wiki/NCSA_Mosaic> #glossary
+00:23:43 Quellorte des deutschen Internets #chapter
+00:23:56 Uni Dortmund <http://de.wikipedia.org/wiki/Technische_Universit%C3%A4t_Dortmund> #glossary
+00:24:05 Rüdiger Volk
+00:24:19 Daniel Karrenberg <http://internethalloffame.org/inductees/daniel-karrenberg>
+00:24:22 RIPE <http://de.wikipedia.org/wiki/R%C3%A9seaux_IP_Europ%C3%A9ens> #glossary
+00:24:23 RIPE NCC <http://de.wikipedia.org/wiki/RIPE_Network_Coordination_Centre> #glossary
+00:24:35 9.6er Verbindung
+00:24:50 Karlsruher Institut für Technologie <http://de.wikipedia.org/wiki/Karlsruher_Institut_f%C3%BCr_Technologie> #glossary
+00:24:52 Arnold Nipper <http://de.wikipedia.org/wiki/Arnold_Nipper> #glossary
+00:25:23 EUnet <http://de.wikipedia.org/wiki/EUnet> #glossary
+00:25:40 Blase 1.0
+00:25:53 “Es sind ja hier Leute durch Europa gezogen – ernsthaft, ich hab einen von denen gesehen – mit einem Koffer voll Geld.” (Clemens) #quote
+00:26:53 netmbx
+00:27:23 MicroVAX <http://en.wikipedia.org/wiki/MicroVAX> #glossary
+00:27:24 VAX <http://de.wikipedia.org/wiki/Virtual_Address_eXtension> #glossary
+00:27:28 NETMBX (may create network device)
+00:27:33 VMS <http://de.wikipedia.org/wiki/Virtual_Memory_System> #glossary
+00:27:36 TMPMBX (may create temporary mailbox)
+00:28:40 Standardfestverbindung <http://de.wikipedia.org/wiki/Standleitung> #glossary
+00:28:43 ISDN <http://de.wikipedia.org/wiki/Integrated_Services_Digital_Network> #glossary
+00:29:10 FTZ 1 TR 6 <http://de.wikipedia.org/wiki/FTZ_1_TR_6> #glossary
+00:29:45 Usenet <http://de.wikipedia.org/wiki/Usenet> #glossary
+00:29:47 Newsgroup <http://de.wikipedia.org/wiki/Newsgroup> #glossary
+00:30:01 UUCP <http://de.wikipedia.org/wiki/Unix_to_Unix_Copy> #glossary
+00:30:20 Adobe Flash <http://de.wikipedia.org/wiki/Adobe_Flash> #glossary
+00:31:02 Offline-Reading kommt wieder
+00:31:29 Zusammenfassung
+00:31:43 CompuServe <http://de.wikipedia.org/wiki/CompuServe> #glossary
+00:32:13 Verbindungen waren gut abrechenbar
+00:33:07 Alice <http://de.wikipedia.org/wiki/HanseNet#Marke_Alice> #glossary
+00:34:07 Netzinfrastruktur Deutschland
+00:34:50 Universaldienst
+00:35:01 “Du kannst halt eben irgendwie deine Hütte auf die Zugspitze setzen und anrufen und sagen ‘Hallo, hier ist deutsches Staatsgebiet – habenwill’, und dann klettert da einer mit einer Kabeltrommel hoch.” (Clemens) #quote
+00:35:28 FDP <http://de.wikipedia.org/wiki/Freie_Demokratische_Partei> #glossary
+00:35:42 Staatsbetriebe vs. Privatunternehmen
+00:35:59 Netzsituation in Skandinavien
+00:36:50 “Die haben am Arsch der Welt sieben Megabit!” (Clemens) #quote
+00:37:31 EDGE <http://de.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution> #glossary
+00:37:34 UMTS <http://de.wikipedia.org/wiki/Universal_Mobile_Telecommunications_System> #glossary
+00:37:39 LTE <http://de.wikipedia.org/wiki/Long_Term_Evolution> #glossary
+00:37:44 ISDN <http://de.wikipedia.org/wiki/Integrated_Services_Digital_Network> #glossary #chapter
+00:37:50 X.25- und Telefon-Infrastruktur waren getrennt
+00:38:12 Vision “Alles über ein Netz”
+00:38:18 Verkaufsargument Videobildtelefonie
+00:38:34 “Was hätte Deutschland für eine Internetrevolution erlebt, hätte es Anfang der 90er Jahre einfach diese ISDN-Verbindung für brauchbares Geld als Flatrate gegeben. […] Wir würden in einem anderen Bildungsstaat leben jetzt.” (Tim) #quote
+00:39:08 Firmenpolitik und deutsche Sturheit
+00:40:11 Wissenschaftsnetz <http://de.wikipedia.org/wiki/Deutsches_Wissenschaftsnetz> #glossary
+00:40:20 OSI-Schichtenmodell <http://de.wikipedia.org/wiki/OSI-Modell> #glossary
+00:40:37 X.400 <http://de.wikipedia.org/wiki/X.400> #glossary
+00:40:54 ISO <http://de.wikipedia.org/wiki/Internationale_Organisation_f%C3%BCr_Normung> #glossary
+00:40:58 IETF <http://de.wikipedia.org/wiki/Internet_Engineering_Task_Force> #glossary
+00:41:05 RFC <http://de.wikipedia.org/wiki/Request_for_Comments> #glossary
+00:41:20 Rüdiger Volk
+00:41:53 Digitales Netz
+00:42:25 Multiplexer <http://de.wikipedia.org/wiki/Multiplexer> #glossary
+00:43:15 ISDN-Karte <http://de.wikipedia.org/wiki/ISDN-Karte> #glossary
+00:43:28 Zeittarife <http://de.wikipedia.org/wiki/Zeittarif> #glossary
+00:43:54 “Früher war das so, das war ein heiliger Akt. Da hat sich fast die ganze Familie fein angezogen, sich vor dem PC aufgebaut und dann wurde sich hochoffiziell eingewählt und dann wurde mal eine Seite aufgerufen.” (Clemens) #quote
+00:44:39 Flatrate <http://de.wikipedia.org/wiki/Flatrate> #glossary
+00:44:44 “Das war so: ‘Ich geh jetzt ins Netz.’” (Clemens) #quote
+00:44:54 “Wenn Leute einen so zur Internetnutzung befragen: ‘Ja, wieviele Stunden am Tag verbringen Sie denn im Internet?’” (Tim) “24.” (Clemens) #quote
+00:45:10 Zeittarife auch bei ISDN
+00:45:23 Arcor <http://de.wikipedia.org/wiki/Vodafone_AG> #glossary
+00:46:05 Einführung von ISDN in Deutschland #topic
+00:46:21 kompletter Umbau der Telefon-Netzwerkinfrastruktur
+00:46:30 Vermittlungsstelle <http://de.wikipedia.org/wiki/Vermittlungsstelle> #glossary
+00:46:47 BTX per ISDN
+00:47:10 Optische Anschlussleitungen
+00:47:21 Breitband-ISDN <http://de.wikipedia.org/wiki/Breitband-ISDN> #glossary
+00:47:26 Glasfaserkabel <http://de.wikipedia.org/wiki/Lichtwellenleiter> #glossary
+00:47:27 Einführung von ISDN fiel zusammen mit der Wiedervereinigung #topic
+00:47:35 Deutsche Wiedervereinigung <http://de.wikipedia.org/wiki/Deutsche_Wiedervereinigung> #glossary
+00:47:37 “In Westdeutschland und Westberlin wurde ISDN glaube ich 1989 offiziell eingeführt und dann ein halbes Jahr später wussten sie, okay, wir haben da noch ein bisschen Fläche mitzuversorgen.” (Clemens) #quote
+00:47:57 “Da müssen wir jetzt eh ein neues Telefonnetz aufbauen, dann machen wir es auch gleich richtig.” (Clemens) #quote
+00:48:14 5300 Vermittlungsstellen in Deutschland
+00:48:32 Wählscheibe <http://de.wikipedia.org/wiki/Nummernschalter> #glossary
+00:48:40 Übergang mit Fernanschaltung
+00:49:03 Aufbau Ost <http://de.wikipedia.org/wiki/Aufbau_Ost> #glossary
+00:49:06 Deutsche Telekom <http://de.wikipedia.org/wiki/Deutsche_Telekom> #glossary
+00:49:14 Veitstanz <http://de.wikipedia.org/wiki/Tanzwut> #glossary
+00:49:50 DSL <http://de.wikipedia.org/wiki/Digital_Subscriber_Line> #glossary #chapter
+00:49:59 DSL in den USA
+00:50:42 Mehr Download als Upload
+00:50:52 Frequenzerkenntnis
+00:50:56 Analoges Netz hatte Ausnutzung von 0.3 kHz bis 3.4 kHz
+00:51:04 Alexander Graham Bell <http://de.wikipedia.org/wiki/Alexander_Graham_Bell> #glossary
+00:51:38 ADSL hat Bandbreite von 1.1 MHz
+00:51:41 ADSL <http://de.wikipedia.org/wiki/Asymmetric_Digital_Subscriber_Line> #glossary
+00:51:50 ADSL2+ erhöht auf 2.2 MHz Bandbreite
+00:51:54 ADSL2/2+ <http://de.wikipedia.org/wiki/Asymmetric_Digital_Subscriber_Line_2>
+00:52:07 VDSL <http://de.wikipedia.org/wiki/Very_High_Speed_Digital_Subscriber_Line> #glossary
+00:53:00 Wähltechnik musste ersetzt werden
+00:53:29 Alte Kabel für neue Datenraten
+00:53:38 Aluminium-Kabel in der DDR
+00:53:40 Adolf Hitler <http://de.wikipedia.org/wiki/Adolf_Hitler> #glossary
+00:53:51 Übergangsphase “Die Zukunft ist optisch”
+00:54:19 OPAL-Ghetto Berlin-Friedrichshain
+00:54:27 OPAL (Optische Anschlussleitung) <http://de.wikipedia.org/wiki/Optische_Anschlussleitung> #glossary
+00:54:50 Schaltschrankkunde
+00:54:59 Postkasten (Kabelverzweiger)
+00:55:27 Kabelverzweiger <http://de.wikipedia.org/wiki/Kabelverzweiger> #glossary
+00:55:35 DSLAM <http://de.wikipedia.org/wiki/Digital_Subscriber_Line_Access_Multiplexer> #glossary
+00:56:29 Netzwerkinfrastruktur vor DSL #chapter
+00:56:46 Vermittlungsstelle <http://de.wikipedia.org/wiki/Vermittlungsstelle> #glossary
+00:56:55 Vorwahl <http://de.wikipedia.org/wiki/Telefonvorwahl> #glossary
+00:57:32 Rufnummernportabilität <http://de.wikipedia.org/wiki/Rufnummernmitnahme> #glossary
+00:57:42 Kabelverzweiger <http://de.wikipedia.org/wiki/Kabelverzweiger> #glossary
+00:57:52 Hauptverteiler (HVt) <http://de.wikipedia.org/wiki/Hauptverteiler> #glossary
+00:58:05 Hausanschluss <http://de.wikipedia.org/wiki/Hausanschluss> #glossary
+00:58:27 Zusammenfassung
+00:59:05 Netzwerkinfrastruktur nach DSL #chapter
+00:59:19 Telefonanschluss und DSL auf der selben Kupferader
+00:59:48 Aufteilung des nutzbaren Frequenzbereiches
+00:59:54 niederfrequenter Teil (für die alte Telefonie)
+00:59:59 hochfrequenter Teil (für DSL, ab 138 kHz)
+01:00:16 DSL-Splitter <http://de.wikipedia.org/wiki/DSL-Weiche> #glossary
+01:00:22 Frequenzweiche <http://de.wikipedia.org/wiki/Frequenzweiche> #glossary
+01:00:55 Clemens vermutet, dass der Splitter eigentlich gar nicht notwendig wäre
+01:01:29 DSL-Modem <http://de.wikipedia.org/wiki/DSL-Modem> #glossary
+01:01:40 DSL-Modem hat mehr Bandbreite zur Verfügung
+01:01:44 Gegenstück zum DSL-Modem steht in der Vermittlungsstelle
+01:02:13 DSL: Protokollschichten #chapter
+01:02:23 IP <http://de.wikipedia.org/wiki/Internet_Protocol> #glossary
+01:02:30 “Das ist richtig hanebüchen. Da sind mehrere Protokollschichten dazwischen, die da eigentlich gar nicht hingehören, also die man eigentlich gar nicht braucht.” (Clemens) #quote
+01:02:38 Ethernet <http://de.wikipedia.org/wiki/Ethernet> #glossary
+01:02:41 ATM <http://de.wikipedia.org/wiki/Asynchronous_Transfer_Mode> #glossary
+01:02:42 “Um es genau zu sagen, wenn du hier ein IP-Paket losschickst, dann ist das IP over PPPoE over Ethernet over ATM.” (Clemens) #quote
+01:02:48 PPPoE <http://de.wikipedia.org/wiki/PPP_over_Ethernet> #glossary
+01:02:50 Das bringt klar definierte Nutzungszeiten
+01:03:47 Clemens beklagt sich nochmal über das Monopol der Telekom
+01:04:52 ATM <http://de.wikipedia.org/wiki/Asynchronous_Transfer_Mode> #glossary #chapter
+01:05:06 Bei ISDN war das Netz digital, aber leitungsvermittelt
+01:05:15 Leitungsvermittlung <http://de.wikipedia.org/wiki/Leitungsvermittlung> #glossary
+01:05:25 B-Kanal <http://de.wikipedia.org/wiki/B-Kanal> #glossary
+01:05:50 Plesiochrone Digitale Hierarchie (PDH) <http://de.wikipedia.org/wiki/Plesiochrone_Digitale_Hierarchie> #glossary
+01:06:04 Kanäle bündeln durch Zeitmultiplex
+01:06:12 Ebene 1: 31 Kanäle in 2 MBit/s
+01:06:25 Operations and Maintenance (OAM) <http://de.wikipedia.org/wiki/Operation_and_Maintenance> #glossary
+01:06:33 Clock <http://de.wikipedia.org/wiki/Taktsignal> #glossary
+01:06:42 Ebene 2: 16-mal E1 in 34Mbit/s
+01:07:00 Synchrone Digitale Hierarchie (SDH) <http://de.wikipedia.org/wiki/Synchrone_Digitale_Hierarchie> #glossary
+01:07:03 Leitungsvermittlung trotzdem weniger effektiv als Paketvermittlung
+01:07:40 Auch OPAL wurde leitungsvermittelt
+01:07:41 OPAL <http://de.wikipedia.org/wiki/Optische_Anschlussleitung> #glossary
+01:08:40 Rufnummernplan <http://de.wikipedia.org/wiki/Telefonvorwahl_(Deutschland)> #glossary
+01:09:15 Mikronesien <http://de.wikipedia.org/wiki/Mikronesien> #glossary
+01:09:37 Nahtarif <http://de.wikipedia.org/wiki/Ortsgespr%C3%A4ch> #glossary
+01:10:14 ATM kombiniert Paketvermittlung und Leitungsvermittlung
+01:11:52 Wie funktioniert ATM?
+01:11:56 ATM-Pakete bestehen immer aus 5 Byte Header und 48 Byte Nutzdaten
+01:12:06 Oktett <http://de.wikipedia.org/wiki/Oktett_(Informatik)> #glossary
+01:12:22 Für synchrone Dienste wird jedes n-te Paket reserviert
+01:13:20 Die Daten aus asynchronen Diensten werden zwischen die reservierten Pakete verteilt
+01:14:32 Latenz <http://de.wikipedia.org/wiki/Verz%C3%B6gerung_(Telekommunikation)> #glossary
+01:14:48 TCP ACK <http://de.wikipedia.org/wiki/Transmission_Control_Protocol#Verbindungsaufbau> #glossary
+01:14:50 Ping <http://de.wikipedia.org/wiki/Ping_(Daten%C3%BCbertragung)> #glossary
+01:15:11 “Es ist sogar noch viel schlimmer, wenn du aus deinem ADSL-Anschluss ein IP-Paket rausschickst, ist es IP über PPPoE über Ethernet über AAL5 über ATM.” (Clemens) #quote
+01:15:18 AAL5 <http://de.wikipedia.org/wiki/ATM_Adaptation_Layer> #glossary
+01:15:48 ATM liegt heutzutage auf allen möglichen Kanälen der digitalen Übertragung zugrunde
+01:16:15 Warum 53 Byte Paketgröße bei ATM?
+01:16:53 Warum “Asynchronous”?
+01:17:27 “Ist schön, dass wir es jetzt erwähnt haben, aber eigentlich können wir das vergessen.” (Clemens) #quote
+01:17:31 ATM ist verhältnismäßig aufwendig und teuer
+01:17:42 Gigabit-Ethernet <http://de.wikipedia.org/wiki/Gigabit-Ethernet> #glossary #chapter
+01:17:46 “Gigabit-Ethernet ist jetzt das, was so Amerikaner gerne ‘commodity’ nennen, also was, was du auch in der Drogerie nebenan kaufen kannst oder im Baumarkt.” (Clemens) #quote
+01:18:39 “ATM ging ja auch nicht durch Gedankenübertragung.” (Clemens) #quote
+01:18:58 Gigabit zwischen Wohnung und Vermittlungsstelle?
+01:19:15 Digital Subscriber Line Access Multiplexer (DSLAM) <http://de.wikipedia.org/wiki/Digital_Subscriber_Line_Access_Multiplexer> #glossary
+01:19:31 DSLAM ist das Gegenstück zum DSL-Modem zuhause
+01:19:52 DSLAM <http://de.wikipedia.org/wiki/Digital_Subscriber_Line_Access_Multiplexer> #glossary #chapter
+01:20:42 Für VDSL zieht der DSLAM in den Kabelverzweiger
+01:20:48 VDSL <http://de.wikipedia.org/wiki/Very_High_Speed_Digital_Subscriber_Line> #glossary
+01:20:55 Verbindungslängen üblicherweise im Kilometerbereich
+01:21:14 Leitungsdämpfung
+01:21:23 Möglichkeiten zur Abhilfe: bessere Modulationstechnik, größeres Frequenzband oder DSLAM näher zum Kunden bringen
+01:22:10 DSLAM mit aktiver Technik im Kabelverzweiger kostet Geld
+01:23:02 DSLAM hat Portgruppen in 16er-Schritten
+01:24:00 Micro-DSLAMs
+01:24:53 Politik und Firmenpolitik (Teil 1) #chapter
+01:25:08 Digitale Agenda
+01:25:21 Für Telekom-Konkurrenz lohnt es sich nicht, Gebiete mit DSL zu erschließen
+01:27:33 Telekom will alte Telefontechnologie loswerden
+01:28:20 EWSD <http://de.wikipedia.org/wiki/EWSD> #glossary
+01:28:29 Siemens <http://de.wikipedia.org/wiki/Siemens> #glossary
+01:28:30 Ericsson <http://de.wikipedia.org/wiki/Ericsson> #glossary
+01:28:47 Voice over IP <http://de.wikipedia.org/wiki/IP-Telefonie> #glossary
+01:29:02 Clemens prophezeit das Vermarktungs-Ende von ISDN bis 2014
+01:29:21 Clemens prophezeit die Zukunft der Universaldienstleistung
+01:29:45 “Es war jetzt am Ende wirklich nur noch die FDP und naja, nach der nächsten Bundestagswahl hat sich das auch erledigt.” (Clemens) #quote
+01:30:09 DSL: Upstream vs. Downstream #chapter
+01:30:15 Das “Standard”-DSL ist ADSL
+01:30:23 ADSL <http://de.wikipedia.org/wiki/Asymmetric_Digital_Subscriber_Line> #glossary
+01:30:26 ADSL2/2+ <http://de.wikipedia.org/wiki/Asymmetric_Digital_Subscriber_Line_2> #glossary
+01:30:33 ADSL2 gibt es in Deutschland gar nicht
+01:30:43 ADSL2+ bringt neue Modulationstechniken und mehr Bandbreite
+01:31:20 Differenz zwischen dem technisch Möglichen und dem Angebot
+01:31:37 Asymmetrie im DSL (Upstream vs. Downstream)
+01:32:48 Telekom verwendet nur G.992.1 Annex B
+01:33:06 G.992.1 <http://de.wikipedia.org/wiki/G.992.1> #glossary
+01:35:53 Entbündeltes DSL <http://de.wikipedia.org/wiki/Entb%C3%BCndeltes_DSL> #glossary
+01:36:58 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #glossary
+01:38:01 Mögliche Leitungskapazität bei ADSL2+ ohne Telefondienst
+01:40:44 Aufteilung in Upstream und Downstream basiert auf Profilen
+01:42:36 Bei VDSL wechseln sich Frequenzbänder für Upstream und Downstream ab
+01:43:03 SDSL <http://de.wikipedia.org/wiki/Symmetric_Digital_Subscriber_Line> #glossary
+01:44:30 Clemens hat mal mit Long Reach Ethernet herumgespielt
+01:44:36 Long Reach Ethernet <http://de.wikipedia.org/wiki/Long_Reach_Ethernet> #glossary
+01:44:38 Cisco Systems <http://de.wikipedia.org/wiki/Cisco_Systems> #glossary
+01:45:11 Möglichkeit: Je ein Adernpaar für Upstream und Downstream
+01:45:50 Verwaltung als Innovationsbremse bei Providern
+01:45:58 IPv6 <http://de.wikipedia.org/wiki/IPv6> #glossary
+01:46:11 Router <http://de.wikipedia.org/wiki/Router> #glossary
+01:46:12 Backbone <http://de.wikipedia.org/wiki/Backbone_(Telekommunikation)> #glossary
+01:46:20 IPv4 <http://de.wikipedia.org/wiki/IPv4> #glossary
+01:47:12 DSL: Feste Bandbreitenberechnung bei der Telekom #chapter
+01:47:32 Netzplan <http://de.wikipedia.org/wiki/Topologie_(Rechnernetz)> #glossary
+01:48:39 Shitstorm <http://de.wikipedia.org/wiki/Shitstorm> #glossary
+01:49:12 DSL: Untervermietung der Infrastruktur #chapter
+01:49:48 Telefónica <http://de.wikipedia.org/wiki/Telef%C3%B3nica_Germany> #glossary
+01:49:50 Arcor <http://de.wikipedia.org/wiki/Arcor> #glossary
+01:49:51 Vodafone <http://de.wikipedia.org/wiki/Vodafone> #glossary
+01:49:54 QSC <http://de.wikipedia.org/wiki/QSC> #glossary
+01:50:00 Colocation <http://de.wikipedia.org/wiki/Serverhousing> #glossary
+01:50:13 Teilnehmeranschlussleitung <http://de.wikipedia.org/wiki/Teilnehmeranschlussleitung> #glossary
+01:50:46 Hauptverteiler (HVt) <http://de.wikipedia.org/wiki/Hauptverteiler> #glossary
+01:51:07 Telefónica als Provider-Provider
+01:51:44 freenet AG <http://de.wikipedia.org/wiki/Freenet_AG> #glossary
+01:52:20 1&1 Internet AG <http://de.wikipedia.org/wiki/1%261_Internet_AG> #glossary
+01:52:41 1&1 nutzt teilweise auch den IP-Backbone der Telekom
+01:53:20 VDSL <http://de.wikipedia.org/wiki/Very_High_Speed_Digital_Subscriber_Line> #glossary #chapter
+01:53:34 VDSL1 wurde in Deutschland nie verwendet
+01:53:41 VDSL-Geschwindigkeiten wären auch mit “normalem” DSL erreichbar
+01:54:01 Bei VDSL ist der DSLAM näher am Kunden und das Frequenzband ist breiter
+01:55:00 Frequenzbereiche für Upstream und Downstream
+01:55:30 VDSL-Splitter
+01:55:52 Hochpass <http://de.wikipedia.org/wiki/Hochpass> #glossary
+01:55:53 Tiefpass <http://de.wikipedia.org/wiki/Tiefpass> #glossary
+01:55:54 Interferenzen mit Amateurfunkern
+01:56:41 DMT <http://de.wikipedia.org/wiki/Discrete_Multitone> #glossary
+01:56:44 DSL-Training und Kupferleitungs-Infrastruktur #chapter
+01:56:47 Frequenzband wird in 4 kHz breite Kanäle aufgeteilt
+01:56:57 DSL-Modem misst beim Start alle Kanäle einzeln aus
+01:57:46 Störsignal <http://de.wikipedia.org/wiki/St%C3%B6rsignal> #glossary
+01:58:11 Tim entdeckt seine Leitungskapazität
+01:58:38 Auch beim einfachen Hausanschluss in Altbauten liegen mindestens zwei Doppeladern Kupfer in der Erde
+02:00:08 Telekom verkauft lieber Businessprodukt
+02:00:40 Es bräuchte Konkurrenz
+02:00:53 Kabel Deutschland <http://de.wikipedia.org/wiki/Kabel_Deutschland> #glossary
+02:01:03 Hipster <http://de.wikipedia.org/wiki/Hipster_(21._Jahrhundert)> #glossary
+02:01:08 BitTorrent <http://de.wikipedia.org/wiki/BitTorrent> #glossary
+02:01:31 Provider müssen mit LTE erst das Land erschließen, bevor sie in die Städte dürfen
+02:01:35 LTE <http://de.wikipedia.org/wiki/Long_Term_Evolution> #glossary
+02:02:06 LTE könnte Konkurrenz in den Städten schaffen
+02:02:51 Ein hypothetischer DSL-Provider mit eigener Technik könnte andere Profile aktivieren
+02:04:35 Glasfasernetz <http://de.wikipedia.org/wiki/Glasfasernetz> #glossary #chapter
+02:05:30 Wegerecht <http://de.wikipedia.org/wiki/Wegerecht_(Sachenrecht)> #glossary
+02:05:34 Glasfaserkabel in U-Bahn-Schächten
+02:05:35 BVG <http://de.wikipedia.org/wiki/Berliner_Verkehrsbetriebe> #glossary
+02:06:05 Glasfaserkabel in Berliner Kanälen
+02:06:08 Landwehrkanal <http://de.wikipedia.org/wiki/Landwehrkanal> #glossary
+02:06:40 Deutsche Bahn z.B. hatte auch Wegerechte
+02:06:52 DB Telematik <http://de.wikipedia.org/wiki/DB_Systel> #glossary
+02:07:04 In Berlin liegt eine ganze Menge Glas im Boden
+02:07:17 Schachtdeckel <http://de.wikipedia.org/wiki/Schachtdeckel> #glossary
+02:07:24 Colt Group <http://de.wikipedia.org/wiki/Colt_Group> #glossary
+02:07:27 Versatel <http://de.wikipedia.org/wiki/Versatel> #glossary
+02:07:29 Level 3 <http://de.wikipedia.org/wiki/Level_3_Communications> #glossary
+02:08:02 Fall der Mauer <https://de.wikipedia.org/wiki/Fall_der_Mauer> #glossary
+02:08:03 Eiserner Vorhang <http://de.wikipedia.org/wiki/Eiserner_Vorhang> #glossary
+02:08:37 Indefeasible rights of use (IRU) <http://en.wikipedia.org/wiki/Indefeasible_rights_of_use> #glossary
+02:09:06 Politik und Firmenpolitik (Teil 2) #chapter
+02:09:21 Die Marge ist zu gering, der Konkurrenzdruck zu hoch
+02:09:30 Wenn Konkurrenz kommt, dreht die Telekom eben die Bandbreite hoch
+02:09:41 Deregulierung <http://de.wikipedia.org/wiki/Deregulierung> #glossary
+02:10:09 Bundesnetzagentur <http://de.wikipedia.org/wiki/Bundesnetzagentur> #glossary
+02:10:28 Preis für eine Teilnehmeranschlussleitung
+02:10:31 Teilnehmeranschlussleitung <http://de.wikipedia.org/wiki/Teilnehmeranschlussleitung> #glossary
+02:11:50 Normalnutzer braucht soviel Bandbreite gar nicht
+02:11:58 iTunes Store <http://de.wikipedia.org/wiki/ITunes_Store> #glossary
+02:12:19 T-Home <http://de.wikipedia.org/wiki/T-Home> #glossary
+02:12:33 Tim hätte gerne einen Nerd-Tarif
+02:13:00 Tim berichtet von einer Diskussionsveranstaltung #topic
+02:13:22 “Ich hab mich dann irgendwann lautstark gemeldet und einfach mal symmetrische Leitungen gefordert und überhaupt schnelle Leitungen für alle und die schauten mich alle vollkommen entgeistert an und dann so: ‘Wozu sollte man denn solche schnellen Leitungen ins Internet gebrauchen?’” (Tim) #quote
+02:14:03 Backup in der Cloud <http://de.wikipedia.org/wiki/Online-Datensicherung> #glossary
+02:14:06 Technisch geht noch was, es ist ein politisches Problem
+02:14:21 Das “Sweden” UMTS-Netz #topic
+02:15:28 Roaming <http://de.wikipedia.org/wiki/Roaming> #glossary
+02:15:38 Dieses Modell ist in Deutschland nicht möglich
+02:15:43 Kartellbehörde <http://de.wikipedia.org/wiki/Wettbewerbsbeh%C3%B6rde> #glossary
+02:15:55 Entlang der Autobahn gibt es Abdeckung, entlang der Bahnlinien nicht
+02:16:23 Kartell <http://de.wikipedia.org/wiki/Wirtschaftskartell> #glossary
+02:16:56 20 MBit/s über UMTS
+02:17:45 “‘Naja, aber es sind doch viel weniger Leute.’ Ich sag: ‘Jetzt denk doch mal bitte drüber nach: Das Land ist viel größer und es sind viel weniger Leute und sie kriegen es trotzdem gebacken.’” (Clemens) #quote
+02:18:05 Die Glasfaserschleife durch ganz Schweden #topic
+02:18:19 Kiirunavaara <http://de.wikipedia.org/wiki/Kiirunavaara> #glossary
+02:19:22 ADAC für Datenautobahnen #topic
+02:19:45 ADAC <http://de.wikipedia.org/wiki/ADAC> #glossary
+02:19:46 Lobbyismus <http://de.wikipedia.org/wiki/Lobbyismus> #glossary
+02:19:56 ÖPNV <http://de.wikipedia.org/wiki/%C3%96ffentlicher_Personennahverkehr> #glossary
+02:19:58 BITKOM <http://de.wikipedia.org/wiki/Bundesverband_Informationswirtschaft,_Telekommunikation_und_neue_Medien> #glossary
+02:20:25 Wir sind Einzelfall | Data from anecdotes. Power from the people. <http://wir-sind-einzelfall.de/>
+02:20:30 Verein <http://de.wikipedia.org/wiki/Verein> #glossary
+02:20:33 Genossenschaft <http://de.wikipedia.org/wiki/Genossenschaft> #glossary
+02:21:23 Sinnhaftigkeit von schnellem Internet ist noch nicht in den Köpfen angekommen #topic
+02:21:30 Piratenpartei Berlin <http://de.wikipedia.org/wiki/Piratenpartei_Berlin> #glossary
+02:21:31 Abgeordnetenhaus von Berlin <http://de.wikipedia.org/wiki/Abgeordnetenhaus_von_Berlin> #glossary
+02:21:39 Mercedes-Benz <http://de.wikipedia.org/wiki/Mercedes-Benz> #glossary
+02:21:46 Volkswirtschaft <http://de.wikipedia.org/wiki/Volkswirtschaft> #glossary
+02:22:13 “Hier wird das Internet gesehen als das böse Ein- und Ausfallstor für Hacker, Kinderpornographen und sonst irgendwas.” (Clemens) #quote
+02:22:33 Neoliberalismus <http://de.wikipedia.org/wiki/Neoliberalismus> #glossary
+02:22:37 “Deutschland sucht das Gigabit.” (Tim) #quote
+02:22:51 Deregulierung und Regulierung #topic
+02:23:57 Lex Telekom
+02:24:17 Telekommunikationsgesetz <http://de.wikipedia.org/wiki/Telekommunikationsgesetz_(Deutschland)> #glossary
+02:25:05 Kabelinternet <http://de.wikipedia.org/wiki/Kabelinternet> #glossary #chapter
+02:25:11 Kabel Deutschland <http://de.wikipedia.org/wiki/Kabel_Deutschland> #glossary
+02:25:14 Kabelnetzbetreiber <http://de.wikipedia.org/wiki/Kabelnetzbetreiber> #glossary
+02:25:26 Technik hinter dem Kabelinternet
+02:25:30 DOCSIS <http://de.wikipedia.org/wiki/Data_Over_Cable_Service_Interface_Specification> #glossary
+02:26:54 Koaxialkabel <http://de.wikipedia.org/wiki/Koaxialkabel> #glossary
+02:26:55 Kabelverbindung steht nicht exklusiv einem Kunden zur Verfügung
+02:27:26 DMT <http://de.wikipedia.org/wiki/Discrete_Multitone> #glossary
+02:28:13 DVB-C <http://de.wikipedia.org/wiki/DVB-C> #glossary
+02:28:14 MPEG <http://de.wikipedia.org/wiki/Moving_Picture_Experts_Group> #glossary
+02:28:15 Containerformat <http://de.wikipedia.org/wiki/Containerdatei> #glossary
+02:28:36 FRITZ!Box mit Koaxialanschluss statt RJ-45
+02:28:41 RJ-Steckverbindung <http://de.wikipedia.org/wiki/RJ-Steckverbindung> #glossary
+02:29:30 WLAN <http://de.wikipedia.org/wiki/Wireless_Local_Area_Network> #glossary
+02:29:43 LTE als Ergänzung des Festnetzes #chapter
+02:29:44 LTE <http://de.wikipedia.org/wiki/Long_Term_Evolution> #glossary
+02:29:55 LTE wird in Deutschland ortsgebunden vertrieben und vermarktet
+02:30:10 SIM-Karte <http://de.wikipedia.org/wiki/SIM-Karte> #glossary
+02:30:24 USB <http://de.wikipedia.org/wiki/Universal_Serial_Bus> #glossary
+02:30:29 Clemens arbeitet nicht bei AVM
+02:30:30 AVM <http://de.wikipedia.org/wiki/AVM_GmbH> #glossary
+02:30:36 LTE-Produkte von AVM <http://de.wikipedia.org/wiki/AVM_GmbH#LTE-Produkte> #glossary
+02:31:17 Carrier-grade NAT und Dienstgüte #chapter
+02:31:47 Skype <http://de.wikipedia.org/wiki/Skype> #glossary
+02:31:58 Evil bit <http://en.wikipedia.org/wiki/Evil_bit> #glossary
+02:31:59 RFC 3514 <http://tools.ietf.org/html/rfc3514>
+02:32:04 Wie wird LTE als Festnetzersatz behandelt?
+02:32:15 Vergleich zu Skandinavien
+02:32:30 NAT <http://de.wikipedia.org/wiki/Network_Address_Translation> #glossary
+02:32:36 Firewall <http://de.wikipedia.org/wiki/Firewall> #glossary
+02:32:40 DynDNS <http://de.wikipedia.org/wiki/Dynamisches_DNS> #glossary
+02:32:44 RFC 1918 <https://tools.ietf.org/html/rfc1918>
+02:33:04 Grundrauschen
+02:33:28 Botnet <http://de.wikipedia.org/wiki/Botnet> #glossary
+02:33:33 Trojaner <http://de.wikipedia.org/wiki/Trojanisches_Pferd_(Computerprogramm)> #glossary
+02:33:34 Viren <http://de.wikipedia.org/wiki/Computervirus> #glossary
+02:33:36 Portscanner <http://de.wikipedia.org/wiki/Portscanner> #glossary
+02:33:43 Ports <http://de.wikipedia.org/wiki/Port_(Protokoll)> #glossary
+02:33:45 SMTP-Relay <http://de.wikipedia.org/wiki/SMTP-Relay-Server> #glossary
+02:33:46 Spam <http://de.wikipedia.org/wiki/Spam> #glossary
+02:33:50 DNS <http://de.wikipedia.org/wiki/Domain_Name_System> #glossary
+02:33:59 Netzklassen <http://de.wikipedia.org/wiki/Netzklasse> #glossary
+02:34:23 Volumentarif <http://de.wikipedia.org/wiki/Volumentarif> #glossary
+02:34:35 In Schweden gibt es kein NAT im Mobilfunknetz
+02:35:56 Andere Methoden des Hijackings
+02:36:02 DNS-Hijacking <http://de.wikipedia.org/wiki/DNS-Hijacking> #glossary
+02:36:22 Certificate Authority (CA) <http://de.wikipedia.org/wiki/Zertifizierungsstelle> #glossary
+02:36:25 SSL <http://de.wikipedia.org/wiki/Transport_Layer_Security> #glossary
+02:36:57 VPN <http://de.wikipedia.org/wiki/Virtual_Private_Network> #glossary
+02:37:21 “Da kann man sich mal ein gutes Beispiel an Skype nehmen. Skype bohrt sich fast überall raus, es ist unglaublich.” (Clemens) #quote
+02:37:54 Gerücht, dass Apple eventuell ein LTE-iPad vorstellt
+02:38:04 iPad (dritte Generation) <http://de.wikipedia.org/wiki/IPad_3#iPad_.28dritte_Generation.29> #glossary
+02:38:22 O2 <http://de.wikipedia.org/wiki/Telef%C3%B3nica_Europe> #glossary
+02:38:27 E-Plus <http://de.wikipedia.org/wiki/E-Plus> #glossary
+02:38:36 “Man bräuchte so einen Verband der Einzelfälle Deutschland e.V.” (Tim) #quote
+02:39:02 Sammelklage <http://de.wikipedia.org/wiki/Streitgenossenschaft> #glossary
+02:39:56 Clemens hat im Auto immer eine alte FRITZ!Box rumliegen
+02:40:28 Netzneutralität und der Eingriff in den Datenstrom #chapter
+02:40:29 Netzneutralität <http://de.wikipedia.org/wiki/Netzneutralit%C3%A4t> #glossary
+02:41:25 HTML <http://de.wikipedia.org/wiki/Hypertext_Markup_Language> #glossary
+02:41:42 GPRS <http://de.wikipedia.org/wiki/General_Packet_Radio_Service> #glossary
+02:41:46 Speed Proxy von Ericsson
+02:41:51 Proxy <http://de.wikipedia.org/wiki/Proxy_(Rechnernetz)> #glossary
+02:41:59 Whitespace <http://de.wikipedia.org/wiki/Leerraum> #glossary
+02:42:05 Spaces <http://de.wikipedia.org/wiki/Leerzeichen> #glossary
+02:42:06 Tabs <http://de.wikipedia.org/wiki/Tabulatortaste> #glossary
+02:42:09 HTML Tags
+02:42:14 JPEG <http://de.wikipedia.org/wiki/JPEG> #glossary
+02:42:25 Artefakte <http://de.wikipedia.org/wiki/Kompressionsartefakt> #glossary
+02:42:40 Nokia <http://de.wikipedia.org/wiki/Nokia> #glossary
+02:42:46 Retina-Display <http://de.wikipedia.org/wiki/Retina-Display> #glossary
+02:43:20 Apple “bewahrt” einen vor zu großen App-Downloads
+02:44:27 Tethering <http://de.wikipedia.org/wiki/Tethering> #glossary
+02:45:28 “Das ist das Tolle daran: Wenn du den ganzen Tag eh verkackst, dann regt sich auch keiner mehr darüber auf.” (Clemens) #quote
+02:45:34 “Wir könnten alleine eine Sendung machen, die würde zwei Tage am Stück gehen wenn ich dir die ganzen Anekdoten der letzten 25 Jahre erzähle, was ich alles mit der Telekom erlebt habe.” (Clemens) #quote
+02:45:48 Anekdote: Rufnummernübertragung
+02:46:32 “Heute kannst du anrufen bei einer Hotline wo du willst, der Durchschnitts-IQ liegt dort bei weit unter 70, anders kann man sich das nicht erklären.” (Clemens) #quote
+02:46:53 Eingriffe in den Datenstrom #topic
+02:47:30 Providerseitiges NAT bei DSL <http://de.wikipedia.org/wiki/Carrier-grade_NAT> #glossary #topic
+02:47:40 IPv4-Adressraum ist knapp
+02:48:12 IPv6 <http://de.wikipedia.org/wiki/IPv6> #glossary
+02:48:17 NAT <http://de.wikipedia.org/wiki/Network_Address_Translation> #glossary
+02:48:58 In manchen Ländern wird Port 25 (SMTP) gesperrt #topic
+02:49:15 SMTP <http://de.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol> #glossary
+02:49:30 “Und Port 25 ist im Prinzip in den ADSL-Netzen zu 102% mit Spam belegt.” (Clemens) #quote
+02:49:59 Comcast <http://de.wikipedia.org/wiki/Comcast> #glossary
+02:50:11 Abwägung “Free Speech” vs. Infrastruktur
+02:51:40 YouPorn <http://de.wikipedia.org/wiki/YouPorn> #glossary
+02:51:52 Youtube-Probleme bei Telekom
+02:52:46 Beeinflussung von BitTorrent #topic
+02:52:52 BitTorrent <http://de.wikipedia.org/wiki/BitTorrent> #glossary
+02:53:15 Das Signal-Rausch-Verhältnis ist deutlich auf der Rauschseite
+02:53:18 Signal-Rausch-Verhältnis <http://de.wikipedia.org/wiki/Signal-Rausch-Verh%C3%A4ltnis> #glossary
+02:53:47 Urheberrecht <http://de.wikipedia.org/wiki/Urheberrecht> #glossary
+02:54:03 Filesharing <http://de.wikipedia.org/wiki/Filesharing> #glossary
+02:54:24 Wo findet Störung und Filterung von BitTorrent statt?
+02:55:12 Störung ist schwer zu messen
+02:55:25 Comcast macht das
+02:56:01 Ziel: Extra abkassieren für BitTorrent
+02:56:23 Amazon Web Services <http://de.wikipedia.org/wiki/Amazon_Web_Services> #glossary
+02:56:51 Bezahlte Bevorzugung einzelner Datendienste oder Anbieter
+02:57:39 Kleinere Anbieter werden dadurch benachteiligt
+02:59:36 Great Firewall of China <http://de.wikipedia.org/wiki/Internetzensur_in_der_Volksrepublik_China> #glossary
+02:59:45 Lösungen für die Netzneutralität-Problematik #topic
+02:59:50 Politisches Anerkennen des Internets als Grundversorgung
+03:01:02 FRA-Gesetz in Schweden <http://de.wikipedia.org/wiki/FRA-Gesetz> #glossary
+03:01:22 heise online: Niederlande schreiben Netzneutralität im Mobilfunk vor <http://www.heise.de/newsticker/meldung/Niederlande-schreiben-Netzneutralitaet-im-Mobilfunk-vor-1266347.html>
+03:01:31 Netzneutralität in den USA
+03:01:40 “Von den USA lernen heißt siegen lernen.” (Clemens) #quote
+03:02:10 Auslöser für Netzneutralität in den Niederlanden war Benachteiligung von WhatsApp
+03:02:20 KPN <http://de.wikipedia.org/wiki/KPN_(Unternehmen)> #glossary
+03:02:31 WhatsApp <http://www.whatsapp.com/>
+03:02:35 SMS <http://de.wikipedia.org/wiki/Short_Message_Service> #glossary
+03:02:43 Deep Packet Inspection <http://de.wikipedia.org/wiki/Deep_Packet_Inspection> #glossary
+03:03:22 Anekdoten von der Hotline
+03:03:57 Dieter Nuhr <http://de.wikipedia.org/wiki/Dieter_Nuhr> #glossary
+03:04:45 Abschluss #chapter
+03:04:50 Podcast hat Rekordlänge erreicht
+03:04:55 “Kann man ja zusammenschneiden.” (Clemens) #quote
+03:05:04 “Du sparst dir jetzt die Traditionsfrage, ob wir noch was vergessen haben?” (Clemens) #quote
+03:05:33 Backbones <http://de.wikipedia.org/wiki/Backbone_(Telekommunikation)> #glossary
+03:05:41 Seekabel <http://de.wikipedia.org/wiki/Seekabel> #glossary
+03:05:44 Haie, die an Seekabeln hängen
+03:05:48 Aufruf zum Abstimmen mit Füßen und Kommentaren
+03:06:08 CRE Webseite <http://cre.fm>
+03:06:30 Outro #chapter
