@@ -240,6 +240,7 @@
 01:20:45 Prüfsumme musste nach jedem Hop neu berechnet werden
 01:21:15 IPv4 Header Options
 01:22:00 IPv6 macht dem Router das Leben leichter
+01:23:59 Fragmentierung und MTU-Discovery #chapter
 01:24:00 IP-Fragmentierung <http://de.wikipedia.org/wiki/IP-Fragmentierung> #glossary #topic
 01:25:07 Probleme mit der Fragmentierung
 01:25:14 DSL <http://de.wikipedia.org/wiki/Digital_Subscriber_Line> #glossary
@@ -375,10 +376,11 @@
 02:24:37 Vergleich zum Handy
 02:25:04 Identifikation über Netzpräfix #topic
 02:25:32 Netzpräfix kann sich natürlich auch ändern
-02:26:14 Hinzufügen und Entfernen von Netzpräfixen zur Laufzeit
+02:26:14 IPv6: Mehrere Nutzer gleichzeitig nutzen #chapter
+02:26:15 Hinzufügen und Entfernen von Netzpräfixen zur Laufzeit
 02:26:42 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #glossary
 02:29:26 Anwendungsfall Firmennetzwerk
-02:30:41 IPv6: Address Selection #chapter
+02:30:41 Address Selection #topic
 02:31:26 Router kann sagen: “priorisiere mich”
 02:32:19 Router kann sagen: “benutz mich lieber nicht”
 02:33:30 IPv6 macht diese Verhaltensweisen zur Pflicht
@@ -391,9 +393,10 @@
 02:35:10 Kernel <http://de.wikipedia.org/wiki/Kernel_(Betriebssystem)> #glossary
 02:35:23 Unique local address (ULA) <http://en.wikipedia.org/wiki/Unique_local_address> #glossary
 02:35:33 IP-Tunnel
-02:36:16 Entscheidung IPv4 vs. IPv6
+02:36:16 IPv4 und IPv6 im Parallelbetrieb #chapter
+02:36:17 Entscheidung IPv4 vs. IPv6
 02:36:42 Apple macht das dynamisch
-02:39:27 Multicast #chapter
+02:39:27 Multicast, Broadcast und Neighbor Discovery im Ethernet #chapter
 02:40:10 Wie funktioniert Ethernet?
 02:40:17 48 Bit Adressen
 02:40:24 Früher war Ethernet immer ein Kabel
@@ -421,12 +424,11 @@
 02:49:10 Switch lernt durch Antwortpakete, welches Gerät an welchem Port steckt
 02:50:42 Funktionsweise von ARP bei IPv4 #topic
 02:50:58 IPv6 definiert Multicast-Adressen für gesuchte MAC-Adresse
-02:52:11 IPv6 aus der Dose #chapter
-02:52:13 ISPs mit IPv6
+02:52:11 IPv6 Provider #chapter
 02:52:38 NetCologne
 02:52:47 Adressneuvergabe alle 24h ist politisches Problem
 02:54:36 Clemens Vermutung zum stockenden IPv6-Deployment
-02:56:39 IP-Tunnel #chapter
+02:56:39 IP-Tunnel & Transition Strategies #chapter
 02:56:51 Grundidee bei Tunnel
 02:56:58 Token Ring <http://de.wikipedia.org/wiki/Token_Ring> #glossary
 02:57:02 IP over Avian Carriers <http://de.wikipedia.org/wiki/Internet_Protocol_over_Avian_Carriers> #glossary
@@ -468,12 +470,12 @@
 03:23:30 Geräte ohne IPv4 finden sich erst nach einer Weile damit ab
 03:25:36 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #glossary
 03:26:30 Wieviel Internet ist über IPv6 erreichbar?
-03:26:52 ping6
 03:28:42 ipv6.google.com
 03:29:57 Metaebene <http://metaebene.me>
 03:30:38 meta.metaebene.me <http://meta.metaebene.me>
 03:30:40 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #glossary
-03:30:52 Was muss eine Applikation tun um IPv6 zu unterstützen? (Spoiler: Meistens nichts.)
+03:30:52 IPv6: Unterstützung von Anwendungen #chapter
+03:30:53 Was muss eine Applikation tun um IPv6 zu unterstützen? (Spoiler: Meistens nichts.)
 03:33:44 Adressnotation <https://de.wikipedia.org/wiki/IP-Adresse> #glossary
 03:33:54 IPv4-Adressen (4 Gruppen a 8 Bit, Trenner “.”)
 03:34:11 IPv6-Adressen (8 Gruppen a 16 Bit, Trenner “:”)
@@ -482,11 +484,13 @@
 03:36:36 2001:1560:42::61 <http://[2001:1560:42::61]/>
 03:36:49 In der URL stehen IPv6-Adressen in eckigen Klammern
 03:37:19 Buchstaben werden klein geschrieben, führende Nullen weggelassen
+03:37:29 DHCPv6 #chapter
 03:37:30 DNS unter IPv6
 03:37:48 DHCPv6 <https://de.wikipedia.org/wiki/DHCPv6> #glossary
 03:38:18 DHCPv6: Prefix Delegation
 03:39:35 IPv6CP (IPv6 Control Protocol) #glossary
 03:39:52 “Das ist sozusagen der feuchte Traum eines Admins für ein Firmennetz in der Größe von sagen wir mal Siemens, dass du das alles schön etabliert hast, nimmst dein Ethernet-Kabel und steckst es bei Provider A rein und plötzlich macht es WAPAPAPAPAPAP und durch deine ganze Organisation durch kriegen alle Leute plötzlich IP-Adressen. So, und jetzt nimmst du dein zweites Kabel, steckst es bei Provider B rein und DATATATATATA geht es wieder durch. Das kannst du bauen.” (Clemens) #quote
+03:40:28 Ankommen in der IPv6-Welt #chapter
 03:41:05 The KAME Project <http://www.kame.net>
 03:42:22 “Wenn man lame ist, kann man zum Beispiel auch einfach www.ripe.net aufrufen.” (Clemens) #quote
 03:42:35 IPv6: Cui bono? #chapter
