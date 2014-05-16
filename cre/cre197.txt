@@ -1,0 +1,502 @@
+00:00:00 Intro #chapter
+00:00:01 The new, larger version of the Internet: IPv6 <https://www.youtube.com/watch?v=-Uwjt32NvVA> #video
+00:00:02 Vinton G. Cerf <http://de.wikipedia.org/wiki/Vinton_G._Cerf>
+00:00:45 CRE Intro
+00:01:20 Begrüßung #chapter
+00:01:27 Heute mal wieder Technik
+00:01:49 Clemens Schrimpe
+00:01:52 CRE191 Internet im Festnetz <http://cre.fm/cre191-internet-im-festnetz>
+00:02:06 CRE194 Bier <http://cre.fm/cre194-bier>
+00:02:08 Andreas Bogk <http://blog.andreas.org/>
+00:02:11 “Das Bier-Thema hat auf jeden Fall auch eine Menge bewirkt, aber ich glaube der Leidensdruck war da nicht so groß.” (Tim) #quote
+00:03:02 Einführung #chapter
+00:03:03 Thema IPv6 steht schon seit Ewigkeiten auf der Liste
+00:03:18 Tims Vortrag auf dem Congress über IPv6 #revision
+00:03:42 IPv4 <http://de.wikipedia.org/wiki/IPv4> #glossary
+00:03:55 IPv6 hieß mal IPnG (Internet Protocol next Generation)
+00:04:06 IPv6 <http://de.wikipedia.org/wiki/IPv6> #glossary
+00:04:09 Internet Protocol (IP) <http://de.wikipedia.org/wiki/Internet_Protocol> #glossary
+00:04:27 CRE141 IPv4 <http://cre.fm/cre141-ipv4>
+00:04:55 Fabian Yamaguchi <http://codeexploration.blogspot.de/>
+00:05:01 Internet-Protokollstack <http://de.wikipedia.org/wiki/Internetprotokollfamilie> #glossary
+00:05:03 TCP <http://de.wikipedia.org/wiki/Transmission_Control_Protocol> #glossary
+00:05:04 UDP <http://de.wikipedia.org/wiki/User_Datagram_Protocol> #glossary
+00:05:25 Clemens Schrimpe #chapter
+00:05:28 Warum ist Clemens überhaupt berechtigt, für das Internet zu sprechen?
+00:05:42 Modem <http://de.wikipedia.org/wiki/Modem> #glossary
+00:06:00 Kommunikation
+00:06:08 Paketvermittlung <http://de.wikipedia.org/wiki/Paketvermittlung> #glossary
+00:06:22 Phil Karn <http://de.wikipedia.org/wiki/Phil_Karn> #glossary
+00:06:26 KA9Q <http://en.wikipedia.org/wiki/KA9Q> #glossary
+00:06:29 Amateurfunk <http://de.wikipedia.org/wiki/Amateurfunkdienst> #glossary
+00:06:41 Datex-P <http://de.wikipedia.org/wiki/Datex-P> #glossary
+00:06:45 DOS <http://de.wikipedia.org/wiki/Disk_Operating_System> #glossary
+00:06:48 C <http://de.wikipedia.org/wiki/C_(Programmiersprache)> #glossary
+00:07:00 Protocol stack <http://en.wikipedia.org/wiki/Protocol_stack> #glossary
+00:07:03 Userland <http://en.wikipedia.org/wiki/User_space> #glossary
+00:07:06 Telnet <http://de.wikipedia.org/wiki/Telnet> #glossary
+00:07:08 FTP <http://de.wikipedia.org/wiki/File_Transfer_Protocol> #glossary
+00:07:23 Uni Dortmund
+00:07:29 Amsterdam Internet Exchange <http://de.wikipedia.org/wiki/AMS-IX> #glossary
+00:08:06 DNS <http://de.wikipedia.org/wiki/Domain_Name_System> #glossary
+00:08:12 /etc/hosts <http://de.wikipedia.org/wiki/Hosts-Datei> #glossary
+00:08:21 Clemens hat sich damals einen IPv4-Adressraum zuteilen lassen
+00:08:37 RIPE <http://de.wikipedia.org/wiki/RIPE_Network_Coordination_Centre> #glossary
+00:08:50 Angeblich hatte China vor 8, 9 Jahren weniger Adressen als Clemens
+00:08:55 Volksrepublik China <http://de.wikipedia.org/wiki/Volksrepublik_China> #glossary
+00:09:17 Clemens war Mitglied des Interop-Netzwerks
+00:09:20 Interop <http://en.wikipedia.org/wiki/Interop> #glossary
+00:09:53 FDDI <http://de.wikipedia.org/wiki/Fiber_Distributed_Data_Interface> #glossary
+00:09:58 Fast Ethernet <http://en.wikipedia.org/wiki/Fast_Ethernet> #glossary
+00:10:02 Gigabit Ethernet <http://en.wikipedia.org/wiki/Gigabit_Ethernet> #glossary
+00:10:04 ATM <http://de.wikipedia.org/wiki/Asynchronous_Transfer_Mode> #glossary
+00:10:23 IETF <http://de.wikipedia.org/wiki/Internet_Engineering_Task_Force> #glossary
+00:10:31 Clemens hat auch Internet nach Berlin geholt
+00:10:40 Internet Service Provider <http://de.wikipedia.org/wiki/Internetdienstanbieter> #glossary
+00:10:47 Mailbox <http://de.wikipedia.org/wiki/Mailbox_(Computer)> #glossary
+00:11:01 Semipermanente ISDN-Verbindung <http://de.wikipedia.org/wiki/FTZ_1_TR_6#Semipermanente_Verbindung> #glossary
+00:11:13 Die komplette Berliner Internetszene wurde mit 64kbit/s versorgt
+00:11:31 GPRS <http://de.wikipedia.org/wiki/General_Packet_Radio_Service> #glossary
+00:11:32 EDGE <http://de.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution> #glossary
+00:11:46 Clemens war die ganze Zeit mit Internet beschäftigt
+00:12:06 Router <http://de.wikipedia.org/wiki/Router> #glossary
+00:12:07 ISDN <http://de.wikipedia.org/wiki/Integrated_Services_Digital_Network> #glossary
+00:12:11 Internet Protocol (IP) #chapter
+00:12:19 Terminologie
+00:12:23 IPv4 <http://de.wikipedia.org/wiki/IPv4> #glossary
+00:12:24 IPv6 <http://de.wikipedia.org/wiki/IPv6> #glossary
+00:12:31 Das Internet wurde mit IPv4 geboren
+00:12:38 IP <http://de.wikipedia.org/wiki/Internet_Protocol> #glossary
+00:12:50 Protokoll <http://de.wikipedia.org/wiki/Kommunikationsprotokoll> #glossary
+00:12:55 TCP <http://de.wikipedia.org/wiki/Transmission_Control_Protocol> #glossary
+00:12:56 UDP <http://de.wikipedia.org/wiki/User_Datagram_Protocol> #glossary
+00:12:59 HTTP <http://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol> #glossary
+00:13:00 FTP <http://de.wikipedia.org/wiki/File_Transfer_Protocol> #glossary
+00:13:01 etc. pp. <http://de.wiktionary.org/wiki/etc._pp.> #glossary
+00:13:16 IPv4 hat gut funktioniert und funktioniert auch heute noch
+00:13:30 Am IPv6 Day haben einige Content-Anbieter IPv6 angeschaltet
+00:13:35 World IPv6 Day und World IPv6 Launch Day <http://de.wikipedia.org/wiki/World_IPv6_Day_und_World_IPv6_Launch_Day> #glossary
+00:13:55 Facebook <http://de.wikipedia.org/wiki/Facebook> #glossary
+00:13:56 Google <http://de.wikipedia.org/wiki/Google> #glossary
+00:14:19 Betatest <http://de.wikipedia.org/wiki/Betatest> #glossary
+00:14:35 “Man hat jetzt echte User – also nicht nur Nerds auf irgendwelchen Kongressen oder an irgendwelchen Unis, sondern echte User die halt echte Userdienste benutzen.” (Clemens) #quote
+00:14:49 Warum heißt es IPv6 und nicht IPv5?
+00:15:14 “Niemand weiß das so genau.” (Clemens) #quote
+00:15:37 Es gab nie ein IPv5
+00:15:49 Man könnte noch bis IPv15 hochzählen
+00:15:59 Gerücht: Chinesen bauen sich eine eigene IP-Version
+00:16:34 IPv4: Probleme #chapter
+00:16:58 IPv6 hieß anfangs “IP next Generation”
+00:17:11 IPv4 Adressraum
+00:17:20 Hauptaufgabe IP ist es, Pakete von A nach B zu vermitteln
+00:17:35 Vergleich zu einem Postkartendienst
+00:17:37 Postkarte <http://de.wikipedia.org/wiki/Postkarte> #glossary
+00:18:13 Adressen
+00:18:15 Empfängeradresse
+00:18:22 Absenderadresse
+00:18:44 Adressen sind Zahlen
+00:19:00 IPv4 hat 32 Bit lange Adressen
+00:19:37 Router <http://de.wikipedia.org/wiki/Router> #glossary
+00:19:48 32 Bit entsprechen über 4 Milliarden Adressen
+00:20:05 “Damals waren ja eh Computer irgendwie so hausfüllend und dass jemand mit so einem Ding in der Tasche herumrennt oder mit zweien oder dreien davon, das hat man nicht gesehen.” (Clemens) #quote
+00:20:26 "640kB ought to be enough for anybody." <http://en.wikiquote.org/wiki/Bill_Gates#Misattributed> #glossary
+00:20:40 Rückblick erklärt, warum der IPv6-Adressraum so exzessiv groß ist
+00:21:02 Für das Routing ist Struktur in der Adressverteilung sinnvoll
+00:21:35 Verzeichnisdienst <http://de.wikipedia.org/wiki/Verzeichnisdienst> #glossary
+00:21:39 Telefonnummer <http://de.wikipedia.org/wiki/Rufnummer> #glossary
+00:21:47 Rufnummernmitnahme <http://de.wikipedia.org/wiki/Rufnummernmitnahme> #glossary
+00:22:07 Landesvorwahl <http://de.wikipedia.org/wiki/Internationale_Telefonvorwahl> #glossary
+00:22:09 Stadtvorwahl <http://de.wikipedia.org/wiki/Telefonvorwahl> #glossary
+00:23:06 Fixed Numbering Plan
+00:23:19 Flexibler Rufnummernplan
+00:24:05 Man braucht Platz im Adressraum für Struktur
+00:24:29 Die meisten Router gucken sich nur die “Vorwahl” an
+00:25:01 IPv4: Netzklassen #chapter
+00:25:13 Netzklasse <http://de.wikipedia.org/wiki/Netzklasse> #glossary
+00:25:30 Vorwahl Berlin: 30 <http://de.wikipedia.org/wiki/Berlin> #glossary
+00:25:36 Vorwahl Menz: 33082 <http://de.wikipedia.org/wiki/Menz_(Stechlin)> #glossary
+00:25:50 Netzklassen bei IPv4
+00:26:02 Class A (8 Bit “Vorwahl”, 24 Bit “Rufnummer”)
+00:26:17 Class B (16 Bit “Vorwahl”, 16 Bit “Rufnummer”)
+00:26:24 Class C (24 Bit “Vorwahl”, 8 Bit “Rufnummer”)
+00:26:31 Class D (Multicast)
+00:26:39 Class E (reserved)
+00:27:25 Apple hat ein Class-A-Netz (17.0.0.0/8)
+00:27:41 “Haben sie sich zuteilen lassen, haben gesagt: ‘Wir sind groß genug, wir sind geil genug, wir wollen gerne mal so ein Class-A-Netz.’” (Clemens) #quote
+00:27:59 Das starre ABC-Modell ist unpraktisch
+00:28:46 Classless Inter-Domain Routing (CIDR) <http://de.wikipedia.org/wiki/Classless_Inter-Domain_Routing> #glossary
+00:28:51 Bei CIDR kann man den Trenner zwischen “Vorwahl” und “Rufnummer” beliebig einstellen
+00:29:10 “/24” bedeutet 24 Bit “Vorwahl”
+00:30:10 Geschäftskunden bekommen z.B. ein /28-Netz
+00:30:41 Durchwahl <http://de.wikipedia.org/wiki/Durchwahl> #glossary
+00:31:07 Clemens mag die CIDR-Notation lieber
+00:31:35 CIDR wurde hinterher auf IPv4 draufgestrickt
+00:31:58 Vor CIDR war die Netzklasse an der Adresse selbst ablesbar
+00:33:09 Seit CIDR muss die Netzklasse explizit dazugeschrieben werden
+00:33:45 Netzmaske <http://de.wikipedia.org/wiki/Netzmaske> #glossary
+00:33:59 “Es gab nämlich Leute, die sich gedacht haben: ‘Och, pff, warum soll eigentlich die Vorwahl immer links stehen? Die Vorwahl könnte ja auch einfach in der Mitte der Rufnummer stehen.’” (Clemens) #quote
+00:35:30 “Keine Ahnung was das sollte. Dann hat man aber festgestellt, dass das sozusagen wenig zukunftsträchtig ist und dass diese Schreiberei mit diesen langen 255.255 und so ein bisschen nervig ist.” (Clemens) #quote
+00:36:08 Netzmaske bzw. Präfixlänge stehen nicht im IPv4-Paket
+00:36:43 IPv4: Strukturierung des Adressraums #chapter
+00:36:47 IPv4-Adressraum wurde in Regionen aufgeteilt
+00:37:07 Einführung von Regional Internet Registries
+00:37:08 Regional Internet Registry (RIR) <http://de.wikipedia.org/wiki/Regional_Internet_Registry> #glossary
+00:37:27 RIPE NCC <http://de.wikipedia.org/wiki/RIPE_Network_Coordination_Centre> #glossary
+00:37:56 Daniel Karrenberg <http://www.internethalloffame.org/inductees/daniel-karrenberg>
+00:38:14 Strukturierung des Adressraums
+00:38:40 Beispiel: Routing von Amerika nach Europa
+00:40:03 “The intention was good.” (Clemens) #quote
+00:40:08 Hierarchie bei Adressvergabe
+00:40:26 Routing-Entscheidung dem Router möglichst einfach machen
+00:41:21 Verkehrsschild “Alle Richtungen”
+00:42:02 Postleitzahl <http://de.wikipedia.org/wiki/Postleitzahl_(Deutschland)> #glossary
+00:42:26 IPv4 verschwendet viele Adress-Bits
+00:42:47 Erste und letzte Adresse können nicht benutzt werden
+00:43:14 Erste Adresse ist Synonym für das ganze Netz
+00:43:24 Letzte Adresse ist die Broadcast-Adresse
+00:43:26 Broadcast <http://de.wikipedia.org/wiki/Broadcast> #glossary
+00:43:33 /30 ist also das kleinste IPv4-Netz
+00:44:54 Informationen über Adressblöcke
+00:45:15 ARIN <http://de.wikipedia.org/wiki/American_Registry_for_Internet_Numbers> #glossary
+00:45:38 InterNIC <http://de.wikipedia.org/wiki/InterNIC> #glossary
+00:45:41 ftp.internic.net ftp://ftp.internic.net/
+00:46:00 IPv4: Nicht verfügbare Adressen #chapter
+00:46:48 Class E (reservierte Adressen) macht ein 16tel aus
+00:47:17 Class D (Multicast) macht auch ein 16tel aus
+00:47:30 Nicht routbare Adressen
+00:47:31 Reserved IP Adresses <http://en.wikipedia.org/wiki/Reserved_IP_addresses> #glossary
+00:47:33 0.0.0.0/8 (Current Network)
+00:47:35 127.0.0.0/8 (Loopback)
+00:47:36 10.0.0.0/8 (RFC1918)
+00:47:44 172.16.0.0/12 (RFC1918)
+00:47:53 192.168.0.0/16 (RFC1918)
+00:47:55 169.254.0.0/16 (Link-local)
+00:48:05 RFC1918 Address Allocation for Private Internets <http://tools.ietf.org/html/rfc1918>
+00:48:41 Kollateralschäden
+00:49:00 Clemens kann seinen Adressraum 192.68.0.0/16 nicht benutzen
+00:49:44 Regional Internet Registry (RIR) <http://de.wikipedia.org/wiki/Regional_Internet_Registry> #glossary
+00:49:50 RIPE NCC <http://de.wikipedia.org/wiki/RIPE_Network_Coordination_Centre> #glossary
+00:49:52 ARIN <http://de.wikipedia.org/wiki/American_Registry_for_Internet_Numbers> #glossary
+00:49:54 LACNIC <http://de.wikipedia.org/wiki/Latin_America_and_Caribbean_Network_Information_Centre> #glossary
+00:50:01 APNIC <http://de.wikipedia.org/wiki/Asia-Pacific_Network_Information_Centre> #glossary
+00:50:07 AFRINIC <http://de.wikipedia.org/wiki/African_Network_Information_Centre> #glossary
+00:50:41 Ungenutzte Adressen aus der Zeit vor den RIRs
+00:50:51 Clemens zitiert Statistik, die behauptet, dass 30% des nutzbaren Adressraums nicht genutzt werden
+00:52:15 Etwa die Hälfte aller Adressen wird nicht genutzt oder kann nicht genutzt werden
+00:52:40 Die RIRs haben keine Adressen mehr zur Verfügung
+00:53:35 Die RIRs haben auch keine Lust mehr auf IPv4
+00:54:43 Network Address Translation (NAT) #chapter
+00:55:05 In der IPv4-Welt muss der Endnutzer sich mit einer Adresse zufrieden geben
+00:55:45 “Und deswegen benutzt man dort einen Mechanismus, der wirklich ein Krebsgeschwür, eine Pest ist in vielerlei Hinsicht, nämlich das sogenannte NATing.” (Clemens) #quote
+00:55:53 Network Address Translation (NAT) <http://de.wikipedia.org/wiki/Network_Address_Translation> #glossary
+00:55:55 Innerhalb des Heimnetzes werden andere Adressen benutzt als außerhalb
+00:56:48 “Fräulein vom Amt” <http://de.wikipedia.org/wiki/Telefonist> #glossary
+00:57:30 “Es ist ein Wunder, dass das überhaupt funktioniert.” (Tim) #quote
+00:57:34 Geräte innerhalb des Netzes wissen nichts vom NAT
+00:58:10 SIP <http://de.wikipedia.org/wiki/Session_Initiation_Protocol> #glossary
+00:58:13 FTP <http://de.wikipedia.org/wiki/File_Transfer_Protocol> #glossary
+00:58:49 IP-Telefonie <http://de.wikipedia.org/wiki/IP-Telefonie> #glossary
+00:59:32 “Also wenn man sozusagen Adressen umlügt, ist das immer ein schwerwiegendes Thema, da könnten wir alleine eine Sendung drüber machen was da alles für Mord und Totschlag bei passiert.” (Clemens) #quote
+00:59:45 Mobilfunk ist auch mit NAT
+01:00:21 Push Notifications <http://de.wikipedia.org/wiki/Push-Medien> #glossary
+01:00:25 Eingebaute “Firewall”
+01:01:19 Im UMTS kann man wegen NAT bswp. keinen Webserver betreiben
+01:01:48 Drei <http://de.wikipedia.org/wiki/Drei_(Mobilfunkmarke)> #glossary
+01:02:30 “Das Land, in dem Milch und Honig und IP-Adressen fließen.” (Tim) #quote
+01:02:35 Adressknappheit ist real und eingetreten
+01:04:25 iPhone <http://de.wikipedia.org/wiki/Apple_iPhone> #glossary
+01:05:09 Adressknappheit ist der leicht erkennbare Grund für IPv6
+01:06:07 “When you type ‘Google’ into Google, you can destroy the internet.” (IT Crowd) #quote
+01:06:16 Probleme beim Facebook-Login
+01:06:49 Schlechte Technik sichert Businessmodelle
+01:08:40 IPv6: Zuteilung von Adressen #chapter
+01:09:04 Eindeutigkeit von Adressen
+01:09:33 IPv6 regelt Adressvergabe politisch und technisch
+01:10:10 Vergabemechanismen am Endgerät
+01:10:30 WLAN <http://de.wikipedia.org/wiki/Wireless_Local_Area_Network> #glossary
+01:10:47 DHCP <http://de.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol> #glossary
+01:11:27 Vergabe von Adressen ist nachträglich zu IPv4 hinzugefügt worden
+01:11:48 BOOTP <http://de.wikipedia.org/wiki/Bootstrap_Protocol> #glossary
+01:12:37 Wie funktioniert BOOTP?
+01:12:50 Wie funktioniert DHCP?
+01:13:51 Port <http://de.wikipedia.org/wiki/Port_(Protokoll)> #glossary
+01:14:03 DNS <http://de.wikipedia.org/wiki/Domain_Name_System> #glossary
+01:14:13 Normalnutzer muss sich nicht um IPv6 kümmern
+01:15:20 Argument für IPv6 ist: Adressen
+01:15:51 IPv6: Header-Format #chapter
+01:16:13 Header <http://de.wikipedia.org/wiki/Header> #glossary
+01:16:15 Payload <http://de.wikipedia.org/wiki/Nutzdaten> #glossary
+01:16:18 Problem Anderer Leute (PAL) <http://de.wikipedia.org/wiki/Hintergr%C3%BCnde_zu_Per_Anhalter_durch_die_Galaxis#Problem-anderer-Leute-Feld> #glossary
+01:16:20 IPv4-Header <http://de.wikipedia.org/wiki/IPv4#Header-Format> #glossary
+01:16:21 IPv6-Header <http://de.wikipedia.org/wiki/IPv6#Header-Format> #glossary
+01:16:36 IPv6 hat 128 Bit lange Adressen
+01:17:00 Zahlenspiele mit dem IPv6-Adressraum
+01:17:41 Struktur ist wichtiger als die Anzahl
+01:18:14 Keine Prüfsumme im IPv6-Header
+01:18:29 Checksum <http://de.wikipedia.org/wiki/Pr%C3%BCfsumme> #glossary
+01:19:00 Time To Live wird in IPv6 zum Hop Limit
+01:19:04 Time To Live <http://de.wikipedia.org/wiki/Time_to_Live> #glossary
+01:19:14 RFC791 <http://tools.ietf.org/html/rfc791>
+01:20:45 Prüfsumme musste nach jedem Hop neu berechnet werden
+01:21:15 IPv4 Header Options
+01:22:00 IPv6 macht dem Router das Leben leichter
+01:24:00 IP-Fragmentierung <http://de.wikipedia.org/wiki/IP-Fragmentierung> #glossary #topic
+01:25:07 Probleme mit der Fragmentierung
+01:25:14 DSL <http://de.wikipedia.org/wiki/Digital_Subscriber_Line> #glossary
+01:25:15 Ethernet-MTU: 1500 Bytes
+01:25:17 Ethernet <http://de.wikipedia.org/wiki/Ethernet> #glossary
+01:25:20 WLAN <http://de.wikipedia.org/wiki/Wireless_Local_Area_Network> #glossary
+01:25:21 Maximum Transmission Unit (MTU) <http://de.wikipedia.org/wiki/Maximum_Transmission_Unit> #glossary
+01:25:29 DSL-MTU: 1492 Bytes
+01:26:27 Abhilfe bei IPv4 schafft MTU-Discovery #topic
+01:26:33 Path MTU Discovery <http://de.wikipedia.org/wiki/Path_MTU_Discovery> #glossary
+01:26:55 Wie funktioniert MTU Discovery?
+01:27:01 DF-Bit (Don’t Fragment)
+01:27:08 ICMP Destination Unreachable <http://en.wikipedia.org/wiki/Internet_Control_Message_Protocol#Destination_unreachable> #glossary
+01:27:29 ICMP Time Exceeded <http://en.wikipedia.org/wiki/Internet_Control_Message_Protocol#Time_exceeded> #glossary
+01:28:16 Probleme mit MTU-Discovery
+01:28:30 Internet Control Message Protocol (ICMP) <http://de.wikipedia.org/wiki/Internet_Control_Message_Protocol> #glossary
+01:28:39 “Die halten das für die schlimmste Erfindung seit es Schokolade gibt.” (Clemens) #quote
+01:28:56 Firewall <http://de.wikipedia.org/wiki/Firewall> #glossary
+01:29:05 Bei IPv6 ist MTU Discovery Pflicht
+01:29:06 “Das Schöne ist, bei IPv6 haben sie sich gesagt: ‘Wir hören jetzt mal auf mit dem Blödsinn.’” (Clemens) #quote
+01:29:14 Keine Fragmentierung mehr bei IPv6
+01:29:36 “Ja, und wenn ein Admin jetzt das abstellt, dann geht das Internet nicht mehr schlecht, sondern dann geht es einfach gar nicht mehr.” (Clemens) #quote
+01:29:55 IPv6 zieht die Lehren aus über 40 Jahre IPv4
+01:30:23 Arpanet <https://de.wikipedia.org/wiki/Arpanet> #glossary
+01:30:57 IPv6: Link-local Adressen #chapter
+01:31:45 “Ein Rechner der v6 benutzen möchte, grundsätzlich erstmal um die Adresse zu kriegen – muss man ihn anmachen.” (Clemens) #quote
+01:32:20 Link-local address <http://en.wikipedia.org/wiki/Link-local_address> #glossary #topic
+01:32:41 Link-local bei IPv4
+01:33:06 196.254.0.0/16 (Zeroconf)
+01:34:00 Wo kommt die Link-local Adresse her?
+01:34:15 Ethernet <http://de.wikipedia.org/wiki/Ethernet> #glossary
+01:34:19 Token Ring <http://de.wikipedia.org/wiki/Token_Ring> #glossary
+01:34:21 IP over Avian Carriers <http://de.wikipedia.org/wiki/Internet_Protocol_over_Avian_Carriers> #glossary
+01:34:30 Jedes Ethernet-Gerät hat von Werk eine MAC-Adresse #topic
+01:34:44 MAC-Adresse <http://de.wikipedia.org/wiki/MAC-Adresse> #glossary
+01:34:46 Apple Macintosh <http://de.wikipedia.org/wiki/Apple_Macintosh> #glossary
+01:34:49 Media Access Control <http://de.wikipedia.org/wiki/Media_Access_Control> #glossary
+01:35:06 EPROM <http://de.wikipedia.org/wiki/Erasable_Programmable_Read-Only_Memory> #glossary
+01:35:07 EEPROM <http://de.wikipedia.org/wiki/Electrically_Erasable_Programmable_Read-Only_Memory> #glossary
+01:35:48 IEEE <http://de.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers> #glossary
+01:35:50 “Die IEEE diesmal, sozusagen die – ist das ‘International’ vorne? ‘Electrical Engineering E-irgendwas’. Also irgendeine Assoziation von Elektrikern.” (Clemens) #quote
+01:36:09 OUI <http://en.wikipedia.org/wiki/Organizationally_unique_identifier> #glossary
+01:37:39 oui.txt <http://standards.ieee.org/develop/regauth/oui/oui.txt>
+01:37:55 NetCS Informationstechnik GmbH (OUI: 00A0AB)
+01:38:20 Bluetooth <http://de.wikipedia.org/wiki/Bluetooth> #glossary
+01:38:57 Mit der eindeutigen MAC-Adresse kann man sich eine IPv6-Adresse basteln
+01:39:28 Kollisionen sind trotzdem möglich
+01:39:39 Hexspeak <http://en.wikipedia.org/wiki/Hexspeak> #glossary
+01:40:13 Link-local Adressen sind nur auf direkter Verbindung gültig
+01:41:45 IPv6-Interface muss mehrere Adressen pro Interface unterstützen
+01:42:32 OS X <http://de.wikipedia.org/wiki/Mac_OS_X> #glossary
+01:43:26 Abmahnung <https://de.wikipedia.org/wiki/Abmahnung> #glossary
+01:44:48 IPv6: Adresstypen und Gültigkeitsbereiche #chapter
+01:45:00 Notrufnummer <http://de.wikipedia.org/wiki/Notruf> #glossary
+01:45:03 Rufnummer <http://de.wikipedia.org/wiki/Rufnummer> #glossary
+01:45:06 Unicast (einer an einen)
+01:45:16 Unicast <http://de.wikipedia.org/wiki/Unicast> #glossary
+01:45:30 Multicast (einer an mehrere)
+01:45:32 Multicast <http://de.wikipedia.org/wiki/Multicast> #glossary
+01:45:47 Broadcast (einer an alle)
+01:45:51 Broadcast <http://de.wikipedia.org/wiki/Broadcast> #glossary
+01:45:58 Broadcast gibt es in IPv6 nicht mehr
+01:46:09 Denial of Service <https://de.wikipedia.org/wiki/Denial_of_Service> #glossary
+01:46:24 Anycast (einer an einen beliebigen aus einer Gruppe)
+01:46:28 Anycast <http://de.wikipedia.org/wiki/Anycast> #glossary
+01:46:30 Nachricht geht an einen Empfänger aus einer Gruppe, an wen aus der Gruppe ist egal
+01:47:16 Anycast wird bspw. für Root-Nameserver benutzt
+01:47:19 DNS <http://de.wikipedia.org/wiki/Domain_Name_System> #glossary
+01:47:28 Root-Nameserver <http://de.wikipedia.org/wiki/Root-Nameserver> #glossary
+01:49:54 Anycast lässt keinen fortgeführten Dialog zu
+01:50:36 Zusammenfassung der Adresstypen
+01:50:56 Loud Howard <https://en.wikipedia.org/wiki/List_of_minor_characters_in_Dilbert#Loud_Howard> #glossary
+01:51:15 Adress-Gültigkeitsbereiche #topic
+01:51:43 Link-local scope
+01:52:01 Site-local scope (wird nicht mehr benutzt)
+01:52:32 Global scope
+01:52:51 IPv6: Der Weg zur globalen Adresse #chapter
+01:53:03 Gerät fragt mit der Link-local-Adresse in dem lokalen Netz nach einer globalen Adresse
+01:53:19 Vordefinierte Multicast-Adressen
+01:53:23 “All Routers”-Adressen
+01:54:20 Router Solicitation
+01:54:53 Router Advertisement
+01:55:20 Router Advertisement schließt globalen Netzpräfix mit ein
+01:55:41 ISP <http://de.wikipedia.org/wiki/Internetdienstanbieter> #glossary
+01:56:35 Umrechnung der MAC-Adresse in den Interface Identifier
+01:56:36 EUI-64 <http://de.wikipedia.org/wiki/EUI-64> #glossary
+01:57:00 ifconfig <http://de.wikipedia.org/wiki/Ifconfig> #glossary
+01:59:29 Zusammenfassung #topic
+01:59:50 fe80::/64 (Link-local)
+02:00:38 Duplicate Address Detection <http://en.wikipedia.org/wiki/IPv6_address#Duplicate_address_detection> #glossary
+02:04:05 IPv6 Interface Identifier (die letzten 64 Bit der Adresse)
+02:04:13 IPv6-Netzpräfixe sind immer /64
+02:05:23 IPv6: Struktur im Adressraum #chapter
+02:05:55 Regional Internet Registry <http://de.wikipedia.org/wiki/Regional_Internet_Registry> #glossary
+02:06:05 2001::/ (RIPE)
+02:06:31 inter.net <http://inter.net>
+02:06:32 snafu <http://www.snafu.de/>
+02:06:47 2001:1560::/32
+02:06:53 Adressbereich der Deutschen Telekom
+02:06:56 Deutsche Telekom <http://de.wikipedia.org/wiki/Deutsche_Telekom> #glossary
+02:07:32 Kleine ISPs bekommen normalerweise /32-Netze
+02:07:47 Der ursprüngliche Plan zur Netzaufteilung
+02:07:59 Jeder Kunde sollte ein /48-Netz bekommen
+02:09:03 “Das hat man inzwischen eingesehen, dass das ein bisschen doch zu exzessiv ist.” (Clemens) #quote
+02:09:07 Momentan sind /56-Netze für Kunden üblich
+02:10:02 “Warum gibt man denn überhaupt so viel? Ich meine, das ist doch vollkommen illusionär, dass jemand soviel wirklich benötigt, was soll denn das?” (Tim) #quote
+02:10:52 Hierarchien beim Endkunden
+02:12:11 “Es gibt keine Zuteilungsmechanismen, die funktionieren, wenn du dem Kunden weniger als 64 Bit überlassen willst.” (Clemens) #quote
+02:12:26 Comcast <http://de.wikipedia.org/wiki/Comcast> #glossary
+02:14:07 IPv6: Privacy Extensions #chapter
+02:14:25 Präfix und Interface Identifier
+02:14:40 Aluhüte <http://de.wikipedia.org/wiki/Aluminiumhut> #glossary
+02:14:46 “Wenn man sich das jetzt realisiert, stellt man fest, dass man auf so viele Arten und Weisen dort so unglaublich global unique ist, dass Werbeleute und sonst Leute, die darauf stehen, möglichst viel von dir zu erfahren nasse Hosen kriegen.” (Clemens) #quote
+02:15:29 YouPorn <http://de.wikipedia.org/wiki/YouPorn> #glossary
+02:15:32 My Little Pony <http://de.wikipedia.org/wiki/Mein_kleines_Pony> #glossary
+02:15:42 Bei IPv6 gibt es kein NAT
+02:16:09 “‘Ich hab hier mal einen Vorschlag, wie man NAT machen könnte!’” (Clemens) #quote
+02:16:20 IPv6-Adressen aus dem Heimnetz sind global sichtbar
+02:16:37 Identifikation über Interface Identifier #topic
+02:17:52 Das Problem ist erst spät aufgefallen
+02:18:24 Abhilfe schaffen die Privacy Extensions
+02:19:10 Privacy Extensions waren in vielen Betriebssystemen lange nicht angeschaltet
+02:19:41 Was machen die Privacy Extensions? #topic
+02:20:01 Link-local Adresse ist sowieso notwendig
+02:20:08 Globale “traditionelle” IP-Adresse
+02:20:14 Zusätzliche temporäre IP-Adressen
+02:20:25 NTP <http://de.wikipedia.org/wiki/Network_Time_Protocol> #glossary
+02:20:32 SHA <http://de.wikipedia.org/wiki/Secure_Hash_Algorithm> #glossary
+02:20:43 Automatisch und periodisch werden neue IP-Adressen erstellt
+02:21:55 Ständige Erreichbarkeit durch die “traditionelle” IP-Adresse
+02:22:21 Temporäre Adressen für ausgehende Verbindungen
+02:23:16 Tim hat viele Adressen mit dem Status “temporary deprecated”
+02:24:37 Vergleich zum Handy
+02:25:04 Identifikation über Netzpräfix #topic
+02:25:32 Netzpräfix kann sich natürlich auch ändern
+02:26:14 Hinzufügen und Entfernen von Netzpräfixen zur Laufzeit
+02:26:42 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #glossary
+02:29:26 Anwendungsfall Firmennetzwerk
+02:30:41 IPv6: Address Selection #chapter
+02:31:26 Router kann sagen: “priorisiere mich”
+02:32:19 Router kann sagen: “benutz mich lieber nicht”
+02:33:30 IPv6 macht diese Verhaltensweisen zur Pflicht
+02:33:37 Routing Information Protocol (RIP) <http://de.wikipedia.org/wiki/Routing_Information_Protocol> #glossary
+02:34:03 Address Selection #topic
+02:34:11 Fall 1: Verbindung wird von außen angestoßen
+02:34:39 Fall 2a: Die Applikation gibt es vor
+02:35:02 Fall 2b: Der Applikation ist es egal
+02:35:05 Browser <http://de.wikipedia.org/wiki/Webbrowser> #glossary
+02:35:10 Kernel <http://de.wikipedia.org/wiki/Kernel_(Betriebssystem)> #glossary
+02:35:23 Unique local address (ULA) <http://en.wikipedia.org/wiki/Unique_local_address> #glossary
+02:35:33 IP-Tunnel
+02:36:16 Entscheidung IPv4 vs. IPv6
+02:36:42 Apple macht das dynamisch
+02:39:27 Multicast #chapter
+02:40:10 Wie funktioniert Ethernet?
+02:40:17 48 Bit Adressen
+02:40:24 Früher war Ethernet immer ein Kabel
+02:40:30 Yellow Cable <http://de.wikipedia.org/wiki/10BASE5> #glossary
+02:40:35 BNC-Stecker <http://de.wikipedia.org/wiki/BNC-Steckverbinder> #glossary
+02:40:44 Dann wurden Switches eingeführt
+02:40:49 Switch <http://de.wikipedia.org/wiki/Switch_(Netzwerktechnik)> #glossary
+02:40:52 Stern-Topologie <http://de.wikipedia.org/wiki/Topologie_(Rechnernetz)#Stern-Topologie> #glossary
+02:40:54 Bus <http://de.wikipedia.org/wiki/Bus_(Datenverarbeitung)> #glossary
+02:41:11 Port <http://de.wikipedia.org/wiki/Port_(Schnittstelle)> #glossary
+02:41:34 Saturn <http://de.wikipedia.org/wiki/Media-Saturn-Holding> #glossary
+02:41:35 Netgear <http://de.wikipedia.org/wiki/Netgear> #glossary
+02:41:52 Airport Extreme <http://de.wikipedia.org/wiki/Apple_AirPort#AirPort_Extreme> #glossary
+02:42:01 “Stell dir vor, du hast einen kleinen normalen Briefkasten und jeden Tag stellt dir einer einen Container mit Papier vor die Tür.” (Clemens) #quote
+02:42:17 Moderne Switches merken sich, wer zu welchem Multicast gehört
+02:42:53 Internet Group Management Protocol (IGMP) <http://de.wikipedia.org/wiki/Internet_Group_Management_Protocol> #glossary
+02:43:47 Opt-In <http://de.wikipedia.org/wiki/Opt-in> #glossary
+02:45:14 Grundlegende Mechanismen in IPv6 beruhen auf Multicast
+02:45:49 Neighbor Discovery Protocol (NDP) <http://de.wikipedia.org/wiki/Neighbor_Discovery_Protocol> #glossary
+02:46:45 Subnetwork Conversion Protocol
+02:46:49 Address Resolution Protocol (ARP) <http://de.wikipedia.org/wiki/Address_Resolution_Protocol> #glossary
+02:46:53 ARP und IPv4 sind separate Protokolle
+02:47:37 Neighbor Discovery gehört zu IPv6
+02:48:11 Flooding mit unbekannten Ethernet-Adressen
+02:49:10 Switch lernt durch Antwortpakete, welches Gerät an welchem Port steckt
+02:50:42 Funktionsweise von ARP bei IPv4 #topic
+02:50:58 IPv6 definiert Multicast-Adressen für gesuchte MAC-Adresse
+02:52:11 IPv6 aus der Dose #chapter
+02:52:13 ISPs mit IPv6
+02:52:38 NetCologne
+02:52:47 Adressneuvergabe alle 24h ist politisches Problem
+02:54:36 Clemens Vermutung zum stockenden IPv6-Deployment
+02:56:39 IP-Tunnel #chapter
+02:56:51 Grundidee bei Tunnel
+02:56:58 Token Ring <http://de.wikipedia.org/wiki/Token_Ring> #glossary
+02:57:02 IP over Avian Carriers <http://de.wikipedia.org/wiki/Internet_Protocol_over_Avian_Carriers> #glossary
+02:57:27 Tunnelprovider
+02:58:20 Anything In Anything (AYIYA) <http://en.wikipedia.org/wiki/Anything_In_Anything> #glossary
+02:59:39 Verschiedene Tunnelprovider #topic
+02:59:47 SixXS (Six Access) <https://www.sixxs.net/>
+03:01:40 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #glossary
+03:04:29 SixXS “Nachteile”
+03:04:32 PoP (Point of Presence) <https://de.wikipedia.org/wiki/Point_of_Presence> #glossary
+03:05:59 Hurricane Electric Free IPv6 Tunnel Broker <https://tunnelbroker.net/>
+03:07:19 6to4-Tunnel
+03:07:32 6to4 <http://de.wikipedia.org/wiki/6to4> #glossary
+03:07:35 IPv6-Präfix aus IPv4-Adresse generieren
+03:08:07 2002::/16 (6to4)
+03:09:05 192.88.99.1 (6to4-Zieladresse, Anycast)
+03:11:01 Rückweg funktioniert genauso, nur umgekehrt
+03:11:49 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #glossary
+03:11:55 6to4 ist hauptsächlich für IPv6-only Dienste interessant
+03:13:20 Andere Transition Strategies #topic
+03:13:36 6in4 <http://de.wikipedia.org/wiki/6in4> #glossary
+03:13:41 6rd <http://de.wikipedia.org/wiki/6rd> #glossary
+03:13:43 “Man muss dazu erzählen, damit könnte man alleine wieder Stunden füllen und jetzt kommen wirklich fiese Mindfucks raus.” (Clemens) #quote
+03:15:26 Carrier-grade NAT <http://de.wikipedia.org/wiki/Carrier-grade_NAT> #glossary
+03:16:14 Clemens plaudert aus dem Nähkästchen
+03:16:53 France Télécom <http://de.wikipedia.org/wiki/Orange_(Unternehmen)> #glossary
+03:18:28 SixXS scheint der entspannteste Weg zu sein
+03:18:44 CRE191 Internet im Festnetz <http://cre.fm/cre191-internet-im-festnetz>
+03:19:00 IP-Tunnel Anwendungsfälle #topic
+03:19:06 Konstante (und mobile) Adressen
+03:20:32 Port Address Translation <http://de.wikipedia.org/wiki/Port_Address_Translation> #glossary
+03:20:38 VPN <http://de.wikipedia.org/wiki/Virtual_Private_Network> #glossary
+03:20:44 SSH <http://de.wikipedia.org/wiki/Secure_Shell> #glossary
+03:20:45 Telnet <http://de.wikipedia.org/wiki/Telnet> #glossary
+03:21:06 Support für befreundete Anwender
+03:21:33 Vorteile bei der Netzwerk-Administration
+03:22:54 inter.net
+03:23:13 IPv6-only Netzwerke #chapter
+03:23:30 Geräte ohne IPv4 finden sich erst nach einer Weile damit ab
+03:25:36 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #glossary
+03:26:30 Wieviel Internet ist über IPv6 erreichbar?
+03:26:52 ping6
+03:28:42 ipv6.google.com
+03:29:57 Metaebene <http://metaebene.me>
+03:30:38 meta.metaebene.me <http://meta.metaebene.me>
+03:30:40 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #glossary
+03:30:52 Was muss eine Applikation tun um IPv6 zu unterstützen? (Spoiler: Meistens nichts.)
+03:33:44 Adressnotation <https://de.wikipedia.org/wiki/IP-Adresse> #glossary
+03:33:54 IPv4-Adressen (4 Gruppen a 8 Bit, Trenner “.”)
+03:34:11 IPv6-Adressen (8 Gruppen a 16 Bit, Trenner “:”)
+03:35:20 Der größte Null-Block in einer IPv6-Adresse lässt sich mit “::” abkürzen
+03:35:53 2001:1560:42::42
+03:36:36 2001:1560:42::61 <http://[2001:1560:42::61]/>
+03:36:49 In der URL stehen IPv6-Adressen in eckigen Klammern
+03:37:19 Buchstaben werden klein geschrieben, führende Nullen weggelassen
+03:37:30 DNS unter IPv6
+03:37:48 DHCPv6 <https://de.wikipedia.org/wiki/DHCPv6> #glossary
+03:38:18 DHCPv6: Prefix Delegation
+03:39:35 IPv6CP (IPv6 Control Protocol) #glossary
+03:39:52 “Das ist sozusagen der feuchte Traum eines Admins für ein Firmennetz in der Größe von sagen wir mal Siemens, dass du das alles schön etabliert hast, nimmst dein Ethernet-Kabel und steckst es bei Provider A rein und plötzlich macht es WAPAPAPAPAPAP und durch deine ganze Organisation durch kriegen alle Leute plötzlich IP-Adressen. So, und jetzt nimmst du dein zweites Kabel, steckst es bei Provider B rein und DATATATATATA geht es wieder durch. Das kannst du bauen.” (Clemens) #quote
+03:41:05 The KAME Project <http://www.kame.net>
+03:42:22 “Wenn man lame ist, kann man zum Beispiel auch einfach www.ripe.net aufrufen.” (Clemens) #quote
+03:42:35 IPv6: Cui bono? #chapter
+03:42:45 Für normale Anwender sollte sich nichts ändern
+03:43:24 Für große Netzwerke ist IPv6 die Erlösung
+03:45:34 Bonjour <https://de.wikipedia.org/wiki/Bonjour_(Apple)> #glossary
+03:46:00 Fefe (Felix von Leitner) <https://en.wikipedia.org/wiki/Felix_von_Leitner> #glossary
+03:48:01 Verabschiedung #chapter
+03:48:16 Andreas Bogk <http://blog.andreas.org/>
+03:48:17 CRE194 Bier <http://cre.fm/cre194-bier>
+03:48:27 Sendung sollte ein Einstieg sein
+03:49:00 “Wir sehen uns dann demnächst in einem anderen Addressrange.” (Tim) #quote
+03:49:29 CRE Outro #chapter
