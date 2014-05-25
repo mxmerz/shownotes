@@ -1,0 +1,203 @@
+00:00:00 John F. Kennedy – Waldorf-Astoria Hotel 1961 #chapter
+00:00:01 Address before the American Newspaper Publishers Association, April 27, 1961 <http://www.jfklibrary.org/Research/Research-Aids/JFK-Speeches/American-Newspaper-Publishers-Association_19610427.aspx>
+00:01:01 CRE Intro #chapter
+00:01:30 Begrüßung #chapter
+00:01:46 Tim ist in Hamburg
+00:01:58 Chaos Computer Club Hamburg <http://www.hamburg.ccc.de/>
+00:02:07 Felix Fietkau
+00:02:22 OpenWRT <https://openwrt.org/>
+00:02:47 Der CCCHH #chapter
+00:03:49 Freifunk <https://de.wikipedia.org/wiki/Freifunk>
+00:04:45 Kernel <https://de.wikipedia.org/wiki/Kernel_(Betriebssystem)> #glossary
+00:05:41 Felix Fietkau #chapter
+00:05:50 Felix ist 25 und macht seit 14 mit Rechnern rum
+00:06:00 OpenWRT ist sein erstes wirkliches Projekt
+00:06:15 Linksys <http://www.linksys.com/>
+00:06:19 Linux <http://de.wikipedia.org/wiki/Linux> #glossary
+00:07:17 Linksys WRT54G <https://de.wikipedia.org/wiki/Linksys_WRT54G> #glossary #chapter
+00:07:37 IEEE 802.11g <https://en.wikipedia.org/wiki/IEEE_802.11g> #glossary
+00:07:39 IEEE 802.11b <https://en.wikipedia.org/wiki/IEEE_802.11b> #glossary
+00:07:51 Harald Welte <https://de.wikipedia.org/wiki/Harald_Welte> #glossary
+00:07:52 GPL Violations <http://gpl-violations.org/>
+00:08:01 Free Software Foundation <https://de.wikipedia.org/wiki/Free_Software_Foundation> #glossary
+00:08:12 Cisco Systems <https://de.wikipedia.org/wiki/Cisco_Systems> #glossary
+00:08:31 Erster günstiger WLAN-Router mit offenem Quellcode
+00:08:45 Leider ist nicht wirklich die komplette Software erhältlich
+00:09:40 VxWorks <https://de.wikipedia.org/wiki/VxWorks> #glossary
+00:09:54 Bootloader <https://de.wikipedia.org/wiki/Bootloader> #glossary
+00:10:03 Flash-Speicher <https://de.wikipedia.org/wiki/Flash-Speicher> #glossary
+00:10:04 RAM <https://de.wikipedia.org/wiki/Random-Access_Memory> #glossary
+00:10:17 Hardware des WRT54G
+00:10:35 125/200MHz-Prozessor
+00:10:41 MIPS-Architektur <https://de.wikipedia.org/wiki/MIPS-Architektur> #glossary
+00:11:04 4MB Flash, 16MB RAM
+00:11:29 Filesystem <https://de.wikipedia.org/wiki/Dateisystem> #glossary
+00:11:34 PPP <https://de.wikipedia.org/wiki/Point-to-Point_Protocol> #glossary
+00:11:35 DHCP <https://de.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol> #glossary
+00:11:38 NAT <https://de.wikipedia.org/wiki/Network_Address_Translation> #glossary
+00:12:42 Zielsetzung des OpenWRT-Projektes #chapter
+00:12:58 OpenWRT sieht für Benutzer aus wie modifiziertes Linux
+00:13:45 Zielplattformen des Projektes #topic
+00:13:53 Zu Beginn Konzentration auf WRT54G und WRT54GS
+00:14:12 Dann auch ähnliche Broadcomm-Geräte
+00:14:21 Danach Plattformabstraktion
+00:14:31 Hardwareabstraktionsschicht <https://de.wikipedia.org/wiki/Hardwareabstraktionsschicht> #glossary
+00:14:35 Momentan Ausweitung über Wireless Router hinaus
+00:14:45 Umfang der OpenWRT-Software #chapter
+00:14:47 Linux <https://de.wikipedia.org/wiki/Linux> #glossary
+00:14:49 Linux-Standardwerkzeuge
+00:14:58 ls <https://de.wikipedia.org/wiki/Ls_(Unix)> #glossary
+00:14:59 Editor <https://de.wikipedia.org/wiki/Editor_(Software)> #glossary
+00:15:01 Shell <https://de.wikipedia.org/wiki/Betriebssystem-Shell> #glossary
+00:15:06 DHCP <https://de.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol> #glossary
+00:15:07 DNS <https://de.wikipedia.org/wiki/Domain_Name_System> #glossary
+00:15:21 Außerdem an die 300, 400 Pakete zur Auswahl #topic
+00:15:50 Samba <https://de.wikipedia.org/wiki/Samba_(Software)> #glossary
+00:16:02 Mesh-Routing
+00:16:29 Network Attached Storage <https://de.wikipedia.org/wiki/Network_Attached_Storage> #glossary
+00:17:00 Netzwerkdrucker
+00:17:05 USB <https://de.wikipedia.org/wiki/Universal_Serial_Bus> #glossary
+00:17:08 Port <https://de.wikipedia.org/wiki/Port_(Protokoll)> #glossary
+00:18:00 Packetverwaltung
+00:18:11 iPKG <https://de.wikipedia.org/wiki/IPKG> #glossary
+00:18:44 Änderungen am Linux Kernel #chapter
+00:19:01 Standard-Linux-Kernel hat üblicherweise keine Hardwareunterstützung
+00:19:06 Hersteller von Embedded-Geräten forken den Kernel, ändern ihn ab und verbreiten die geänderte Version
+00:19:12 Broadcom <https://de.wikipedia.org/wiki/Broadcom> #glossary
+00:19:26 Linksys <https://de.wikipedia.org/wiki/Linksys> #glossary
+00:19:31 Modifikationen werden nie an neue Kernel-Versionen angepasst
+00:19:41 OpenWRT schreibt Kernel-Patches, die die Hersteller-Versionen ersetzen
+00:20:44 OpenWRT-Benutzer wählt nur noch die Plattform aus und kompiliert einmal
+00:21:01 make <https://de.wikipedia.org/wiki/Make> #glossary
+00:21:30 Beispiel: Tim hat sich ein Gerät gekauft #chapter
+00:21:40 OpenWRT-Image kann mit Standard-Firmware aufgespielt werden
+00:21:57 OpenWRT stellt Binaries zur Verfügung
+00:23:01 MediaMarkt <https://de.wikipedia.org/wiki/Media-Saturn-Holding> #glossary
+00:23:09 Unterstützte Geräte #topic
+00:24:07 Intel <https://de.wikipedia.org/wiki/Intel> #glossary
+00:24:12 MIPS <https://de.wikipedia.org/wiki/MIPS_Technologies> #glossary
+00:24:14 ARM <https://de.wikipedia.org/wiki/ARM-Architektur> #glossary
+00:24:35 x86 <https://de.wikipedia.org/wiki/X86-Prozessor> #glossary
+00:25:30 Populäre Geräte #topic
+00:25:39 Asus WL-500g Premium <http://www.asus.com/products.aspx?l1=12&l2=43&l3=0&l4=0&model=1121&modelmenu=2> #shopping
+00:26:26 Soundkarte <https://de.wikipedia.org/wiki/Soundkarte> #glossary
+00:26:43 Proprietäre WLAN-Treiber #chapter
+00:26:55 PPPoE <https://de.wikipedia.org/wiki/PPP_over_Ethernet> #glossary
+00:26:57 DSL <https://de.wikipedia.org/wiki/Digital_Subscriber_Line> #glossary
+00:26:58 Provider <https://de.wikipedia.org/wiki/Internetdienstanbieter> #glossary
+00:27:01 DHCP <https://de.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol> #glossary
+00:27:04 Ethernet <https://de.wikipedia.org/wiki/Ethernet> #glossary
+00:27:06 IP <https://de.wikipedia.org/wiki/Internet_Protocol> #glossary
+00:27:10 WLAN <https://de.wikipedia.org/wiki/Wireless_Local_Area_Network> #glossary
+00:27:13 Hersteller behalten ihren Quellcode gerne für sich
+00:28:02 GPL Violations <http://gpl-violations.org/>
+00:28:43 Grafikkarte <https://de.wikipedia.org/wiki/Grafikkarte> #glossary
+00:29:46 Hersteller mit komplett freien WLAN-Systemen #chapter
+00:30:00 Ralink <https://en.wikipedia.org/wiki/Ralink> #glossary
+00:30:15 Realtek <https://de.wikipedia.org/wiki/Realtek> #glossary
+00:30:24 Broadcom <http://www.broadcom.com/>
+00:30:25 Atheros <http://www.atheros.com/>
+00:30:34 Atheros sagt, sie wollen offen werden
+00:31:45 FCC <https://de.wikipedia.org/wiki/Federal_Communications_Commission> #glossary
+00:32:10 Reverse Engineering für Atheros und Broadcom fertig, aber noch nicht stabil
+00:32:36 Was muss ein WLAN-Treiber leisten? #chapter
+00:32:44 IEEE 802.11 <https://de.wikipedia.org/wiki/IEEE_802.11> #glossary
+00:33:00 Access Point <https://de.wikipedia.org/wiki/Wireless_Access-Point> #glossary
+00:33:04 Arbeit wird vom Treiber bzw. WLAN-Stack geleistet
+00:33:39 BSD <https://de.wikipedia.org/wiki/Berkeley_Software_Distribution> #glossary
+00:33:42 Multiband Atheros Driver for WiFi (MADWIFI) <http://sourceforge.net/projects/madwifi/>
+00:34:06 MADWIFI ist teilweise proprietär
+00:34:30 Neues Treiberprojekt für IEEE 802.11 direkt im Kernel
+00:36:12 Reverse Engineering für Broadcom
+00:37:32 Reverse Engineering für Atheros
+00:37:43 OpenBSD <https://de.wikipedia.org/wiki/OpenBSD> #glossary
+00:38:41 Unterstützung für 802.11n bzw. 802.11a #topic
+00:38:43 IEEE 802.11n <https://de.wikipedia.org/wiki/IEEE_802.11n> #glossary
+00:38:46 IEEE 802.11a <https://de.wikipedia.org/wiki/IEEE_802.11a> #glossary
+00:39:46 Hardware-Hersteller die OpenWRT einsetzen #chapter
+00:39:56 Infineon scheint sich zu interessieren
+00:41:30 Unterstützung des Asus WL-500g Premium #chapter
+00:41:46 Der Asus-Access-Point hat einen 802.11g Broadcom 4318
+00:42:01 Da hier Reverse Engineering des Treibers noch nicht fertig ist, werden noch die Hersteller-Binaries genutzt
+00:43:14 Zielsetzung sind aber freie Treiber für alle Geräte
+00:43:41 Status der OpenWRT-Entwicklung für den Asus-Access-Point
+00:44:54 Funktionsweise von WLAN #chapter
+00:45:50 WLAN ist kein Full-Duplex-Kanal
+00:46:04 Access Point schickt regelmäßig Beacons aus
+00:46:29 Kommunikation zwischen Clients läuft über den Access Point
+00:47:03 Timing-Probeme
+00:47:55 WLAN auf dem Chaos Communication Congress #chapter
+00:48:54 Roaming <https://de.wikipedia.org/wiki/Roaming> #glossary
+00:49:07 Bridge <https://de.wikipedia.org/wiki/Bridge_(Netzwerk)> #glossary
+00:49:26 Angreifer im Netz
+00:49:49 DOS <http://de.wikipedia.org/wiki/Denial_of_Service> #glossary
+00:49:54 Bug im Atheros-Treiber
+00:50:24 Leute, die ihren eigenen Access Point mitbringen und damit stören
+00:50:53 Diese Probleme sind zur Zeit noch nicht im Fokus von OpenWRT
+00:51:11 Benutzerinterface von OpenWRT #chapter
+00:51:29 Standardmäßig kein Webinterface
+00:51:36 X-WRT <https://en.wikipedia.org/wiki/X-Wrt> #glossary
+00:51:51 Webinterface für OpenWRT ist in Entwicklung
+00:53:41 Erstmal ist das Ziel von OpenWRT aber die Basistechnologie
+00:55:51 Apple Airport <https://de.wikipedia.org/wiki/Apple_AirPort> #glossary
+00:55:54 Für die Konfiguration der Airport gibt es eine Anwendung auf dem Rechner
+00:56:40 Daran wird bei OpenWRT auch gearbeitet
+00:56:51 Fraunhofer Fokus <https://www.fokus.fraunhofer.de/de/fokus/index.html>
+00:57:00 SNMP (Simple Network Management Protocol) <https://de.wikipedia.org/wiki/Simple_Network_Management_Protocol> #glossary
+00:57:22 Fehlermeldungen
+00:59:00 Arbeitsweise des OpenWRT-Projektes #chapter
+00:59:21 IRC <https://de.wikipedia.org/wiki/Internet_Relay_Chat> #glossary
+00:59:27 Mailingliste für Kommunikation mit externen Entwicklern
+00:59:28 Mailingliste <https://de.wikipedia.org/wiki/Mailingliste> #glossary
+00:59:48 Git <https://de.wikipedia.org/wiki/Git> #glossary
+00:59:57 Versionskontrollsystem <https://de.wikipedia.org/wiki/Versionsverwaltung> #glossary
+00:59:58 SVN <https://de.wikipedia.org/wiki/Apache_Subversion> #glossary
+01:00:12 trac <https://en.wikipedia.org/wiki/Trac> #glossary
+01:00:13 OpenWrt development center <https://dev.openwrt.org/>
+01:00:44 OpenWrt Community wiki <http://wiki.openwrt.org/>
+01:00:49 MediaWiki <https://de.wikipedia.org/wiki/MediaWiki> #glossary
+01:00:52 MoinMoin <https://de.wikipedia.org/wiki/MoinMoin_Wiki> #glossary
+01:00:58 Entwicklertreffen auf dem Chaos Communication Congress
+01:01:07 Chaos Communication Congress <https://de.wikipedia.org/wiki/Chaos_Communication_Congress> #glossary
+01:01:29 OpenBSD <https://de.wikipedia.org/wiki/OpenBSD> #glossary
+01:01:41 Flame War <https://de.wikipedia.org/wiki/Flame_War> #glossary
+01:01:45 Theo de Raadt <https://de.wikipedia.org/wiki/Theo_de_Raadt> #glossary
+01:02:00 Die “Fairydust” Rakete <https://commons.wikimedia.org/wiki/File:Wp_zelt_mit_rakete.JPG> #glossary
+01:02:20 Atheros <https://en.wikipedia.org/wiki/Qualcomm_Atheros> #glossary
+01:02:23 Broadcom <https://de.wikipedia.org/wiki/Broadcom> #glossary
+01:03:11 Chaos Communication Camp <https://de.wikipedia.org/wiki/Chaos_Communication_Camp> #glossary
+01:03:50 ICMP4 <http://icmp4.de/>
+01:03:58 Zusammenarbeit mit Firmen #chapter
+01:04:08 Infineon <https://de.wikipedia.org/wiki/Infineon> #glossary
+01:04:12 Fon <https://fon.com/>
+01:05:08 CRE019 Fon <http://cre.fm/cre019-fon>
+01:06:30 RP-SMA-Steckverbinder <https://de.wikipedia.org/wiki/Koaxiale_Steckverbinder_f%C3%BCr_Hochfrequenzanwendungen#RP-SMA-Steckverbinder> #glossary
+01:06:47 Netgear <https://de.wikipedia.org/wiki/Netgear> #glossary
+01:07:40 Infineon <http://www.infineon.com/>
+01:08:08 DSL <https://de.wikipedia.org/wiki/Digital_Subscriber_Line> #glossary
+01:08:09 Voice over IP <https://de.wikipedia.org/wiki/IP-Telefonie> #glossary
+01:08:29 Codequalität in der Embedded-Welt
+01:09:30 Abspaltungen von OpenWRT #chapter
+01:09:35 DD-WRT <http://www.dd-wrt.com/>
+01:10:28 FreeWRT <https://freewrt.org/>
+01:10:47 OLPC (One Laptop Per Child) #chapter
+01:10:49 CRE071 One Laptop Per Child (OLPC) <http://cre.fm/cre071-one-laptop-per-child>
+01:11:32 X-Server <https://de.wikipedia.org/wiki/X_Window_System> #glossary
+01:11:49 OpenWRT mit GUI auf dem OLPC <http://www.hamburg.ccc.de/2007/11/14/94>
+01:13:33 Cross Compilation <https://de.wikipedia.org/wiki/Cross-Compiler> #glossary
+01:14:37 MD5 <https://de.wikipedia.org/wiki/Message-Digest_Algorithm_5> #glossary
+01:14:38 Tarball <https://de.wikipedia.org/wiki/Tar> #glossary
+01:16:43 Mesh Networking #topic
+01:16:46 IEEE 802.11s <https://de.wikipedia.org/wiki/IEEE_802.11s> #glossary
+01:16:56 Firmware der Meshing-Hardware ist nicht offen
+01:17:15 Marvell <https://de.wikipedia.org/wiki/Marvell_Technology_Group> #glossary
+01:18:00 CRE071 One Laptop Per Child (OLPC) <http://cre.fm/cre071-one-laptop-per-child>
+01:18:06 CRE016 Wireless Mesh Networking <http://cre.fm/cre016-wireless-mesh-networking>
+01:18:13 CRE045 B.A.T.M.A.N. <http://cre.fm/cre045-batman>
+01:18:30 Unterstützungsmöglichkeiten #chapter
+01:18:44 Entwickler werden gebraucht
+01:19:31 OpenWRT.org <http://openwrt.org>
+01:19:44 OpenWRT IRC Channel irc://irc.freenode.net/openwrt
+01:20:09 Verabschiedung #chapter
+01:20:49 “Vielleicht kramt ihr nochmal eure alten Router aus dem Regal und könnt vielleicht noch ein bisschen mehr damit machen.” (Tim) “Lieber neue als alte, bei den alten siehts manchmal nicht so gut aus.” (Felix) #quote
+01:21:01 CRE Outro #chapter
