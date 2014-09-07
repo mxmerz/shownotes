@@ -1,0 +1,173 @@
+HEADER
+
+/HEADER
+
+00:00:00 Die Wolken <https://www.youtube.com/watch?v=hsPuZN7gnzc> #chapter
+00:00:01 Peter Camenzind <https://de.wikipedia.org/wiki/Peter_Camenzind> #glossary
+00:00:02 Hermann Hesse <https://de.wikipedia.org/wiki/Hermann_Hesse> #glossary
+00:00:03 Gert Westphal <https://de.wikipedia.org/wiki/Gert_Westphal> #glossary
+00:01:04 CRE Intro #chapter
+00:01:30 Begrüßung #chapter
+00:02:15 Elisa Jasinska <http://jasinska.de/>
+00:02:19 Christian Kaufmann <https://twitter.com/ckatminxsdotnet>
+00:03:08 AMS-IX (Amsterdam Internet Exchange) <https://de.wikipedia.org/wiki/AMS-IX> #glossary
+00:03:19 Akamai <https://de.wikipedia.org/wiki/Akamai> #glossary
+00:03:25 Peering <http://de.wikipedia.org/wiki/Peering> #glossary
+00:03:38 Switch <http://de.wikipedia.org/wiki/Switch_(Netzwerktechnik)> #glossary
+00:04:23 Cloud Computing <http://de.wikipedia.org/wiki/Cloud_Computing> #glossary
+00:04:35 ISP <http://de.wikipedia.org/wiki/Internetdienstanbieter> #glossary
+00:04:51 Netzwerkprotokoll <http://de.wikipedia.org/wiki/Netzwerkprotokoll> #glossary
+00:05:00 The Matrix: Computer Networks and Conferencing Systems Worldwide – John S. Quarterman
+00:05:23 Wolkenkuckucksheim <https://de.wikipedia.org/wiki/Wolkenkuckucksheim> #glossary
+00:05:47 AMS-IX <https://de.wikipedia.org/wiki/AMS-IX> #chapter
+00:05:52 AMS-IX ist wie ein Wasserwerk
+00:06:02 ISP <http://de.wikipedia.org/wiki/Internetdienstanbieter> #glossary
+00:06:04 Content Provider
+00:06:05 Service Provider
+00:06:40 300-400 verschiedene Netzwerke am AMS-IX
+00:07:04 Internet Exchange <http://de.wikipedia.org/wiki/Internet-Knoten> #glossary
+00:07:35 DE-CIX <http://www.de-cix.net/>
+00:07:37 LINX <https://en.wikipedia.org/wiki/London_Internet_Exchange> #glossary
+00:08:45 The IT Crowd <https://de.wikipedia.org/wiki/The_IT_Crowd> #glossary
+00:08:46 The IT Crowd: This Is The Internet <https://www.youtube.com/watch?v=iDbyYGrswtg> #video
+00:09:27 Colocation <http://de.wikipedia.org/wiki/Serverhousing> #glossary
+00:10:10 10Gbit-Ethernet <http://de.wikipedia.org/wiki/Ethernet#10-Gbit.2Fs-Ethernet> #glossary
+00:10:12 Port (Schnittstelle) <https://de.wikipedia.org/wiki/Port_(Schnittstelle)> #glossary
+00:12:03 Glasfaser <https://de.wikipedia.org/wiki/Lichtwellenleiter> #glossary
+00:12:45 AMS-IX Statistiken <https://ams-ix.net/statistics/>
+00:12:56 IPv6 <https://de.wikipedia.org/wiki/IPv6> #glossary
+00:15:10 Fußball-Weltmeisterschaft <https://de.wikipedia.org/wiki/Fu%C3%9Fball-Weltmeisterschaft> #glossary
+00:15:53 Tour de France <https://de.wikipedia.org/wiki/Tour_de_France> #glossary
+00:16:21 Fußball-Weltmeisterschaft 2010 <https://de.wikipedia.org/wiki/Fu%C3%9Fball-Weltmeisterschaft_2010> #glossary
+00:16:21 Mitarbeiter am AMS-IX
+00:17:00 Wieviel Pflege braucht das Netz?
+00:18:28 Infrastrukturausbau
+00:19:08 AMS-IX besteht aus einem Verein und einer Firma
+00:19:27 Chaos Computer Club <https://de.wikipedia.org/wiki/Chaos_Computer_Club> #glossary
+00:20:41 Mitgliederkreis des AMS-IX
+00:21:44 Vorteile eines Internet Exchanges
+00:24:03 Trafficaufkommen der Exchanges
+00:24:47 Peering <https://de.wikipedia.org/wiki/Peering> #glossary
+00:25:05 Situation in den USA
+00:27:37 Switch and Data <https://en.wikipedia.org/wiki/Switch_and_Data> #glossary
+00:27:42 PAIX <https://en.wikipedia.org/wiki/PAIX> #glossary
+00:28:37 Colocation <https://de.wikipedia.org/wiki/Serverhousing> #glossary
+00:30:05 Patchkabel <https://de.wikipedia.org/wiki/Patchkabel> #glossary
+00:31:01 Mailserver <https://de.wikipedia.org/wiki/Mailserver> #glossary
+00:31:03 Akamai <https://de.wikipedia.org/wiki/Akamai> #chapter
+00:31:16 Content Delivery Network (CDN) <https://de.wikipedia.org/wiki/Content_Delivery_Network> #glossary
+00:31:31 Was macht ein Content Delivery Network?
+00:33:07 CDN ist günstig und skaliert gut
+00:33:38 Internet Transit <http://en.wikipedia.org/wiki/Internet_transit> #glossary
+00:33:43 Backbone <http://de.wikipedia.org/wiki/Backbone_(Telekommunikation)> #glossary
+00:37:44 Deutsche Telekom <https://de.wikipedia.org/wiki/Deutsche_Telekom> #glossary
+00:39:12 Infrastruktur von Akamai
+00:39:17 Akamai hat (anders als ISPs) kein eigenes Backbone
+00:40:52 TeliaSonera <https://de.wikipedia.org/wiki/TeliaSonera> #glossary
+00:40:57 Transit <https://de.wikipedia.org/wiki/Transitverkehr_(Netzwerk)> #glossary
+00:41:42 “95th percentile” Abrechnung
+00:42:47 Aktuelle Preise pro Mbit/s
+00:44:14 Satellitenverbindung <https://de.wikipedia.org/wiki/Internetzugang_%C3%BCber_Satellit> #glossary
+00:44:19 Aktuelle Preise pro Port am AMS-IX
+00:45:16 Anschluss an den AMS-IX schließt kein Peering mit ein
+00:45:47 Border Gateway Protocol (BGP) <https://de.wikipedia.org/wiki/Border_Gateway_Protocol> #glossary
+00:45:51 Peering-Policies
+00:46:56 “Das diskordianische Prinzip: Kommunikation ist nur unter Gleichen möglich.” (Tim) #quote
+00:47:10 Akamai peert mit jedem
+00:47:24 “Akamai wird immer als ‘Peering-Slut’ bezeichnet.” (Elisa) #quote
+00:47:30 Carrier, Telcos sind wählerischer
+00:47:48 Level 3 Communications <https://de.wikipedia.org/wiki/Level_3_Communications> #glossary
+00:47:49 Global Crossing <https://de.wikipedia.org/wiki/Global_Crossing> #glossary
+00:47:50 TeliaSonera <https://de.wikipedia.org/wiki/TeliaSonera> #glossary
+00:47:54 Deutsche Telekom <https://de.wikipedia.org/wiki/Deutsche_Telekom> #glossary
+00:48:40 Beispiel: Tim gründet einen ISP
+00:48:49 “Ich biete irgendwie Verschlüsselung und Anonymisierung an gepaart mit Charme und Attraktivität…” (Tim) #quote
+00:50:54 Infrastruktur von Google
+00:51:07 Google Public DNS <https://en.wikipedia.org/wiki/Google_Public_DNS> #glossary
+00:51:36 Googles Präsenz in Europa
+00:52:52 Peering und Transit bei Google
+00:56:18 Amazon Web Services <http://de.wikipedia.org/wiki/Amazon_Web_Services> #glossary
+00:56:40 Infrastruktur von Amazon ist wesentlich kleiner als die von Google
+00:59:14 Andere nicht-ISPs mit ähnlicher Infrastruktur
+01:00:02 AMS-IX Member List <https://ams-ix.net/connected>
+01:01:11 Autonomes System (AS) <https://de.wikipedia.org/wiki/Autonomes_System> #glossary #chapter
+01:02:25 Chaos Communication Congress <https://de.wikipedia.org/wiki/Chaos_Communication_Congress> #glossary
+01:02:40 Vorteile eines AS
+01:03:04 Congress ist mit mehreren ISPs verbunden
+01:03:27 Um mit den ISPs mitspielen zu können, muss man AS sein
+01:03:42 Réseaux IP Européens (RIPE) <https://de.wikipedia.org/wiki/R%C3%A9seaux_IP_Europ%C3%A9ens> #glossary
+01:04:08 RIR (Regional Internet Registry) <https://de.wikipedia.org/wiki/Regional_Internet_Registry> #glossary
+01:04:24 Latin America and Caribbean Network Information Centre (LACNIC) <https://de.wikipedia.org/wiki/Latin_America_and_Caribbean_Network_Information_Centre> #glossary
+01:04:26 American Registry for Internet Numbers (ARIN) <https://de.wikipedia.org/wiki/American_Registry_for_Internet_Numbers> #glossary
+01:04:29 African Network Information Centre (AfriNIC) <https://de.wikipedia.org/wiki/African_Network_Information_Centre> #glossary
+01:04:31 Asia-Pacific Network Information Centre (APNIC) <https://de.wikipedia.org/wiki/Asia-Pacific_Network_Information_Centre> #glossary
+01:04:33 RIRs vergeben IP-Adressen und AS-Nummern
+01:05:43 AS spielt bei BGP eine Rolle
+01:06:06 Border Gateway Protocol (BGP) <https://de.wikipedia.org/wiki/Border_Gateway_Protocol> #glossary
+01:07:26 Vergabebedingungen für AS-Nummern
+01:07:36 Multihoming <https://de.wikipedia.org/wiki/Multihoming> #glossary
+01:08:16 Wer Multihoming will, muss BGP sprechen
+01:08:43 “BGP-Server” ist der Router
+01:09:10 BGP- bzw. Peering-Session
+01:09:35 Wie funktioniert BGP? #revision #chapter
+01:15:20 Announcing-Etikette
+01:15:46 Network Provider
+01:17:21 Wie gut funktioniert BGP? #chapter
+01:17:34 “Erstaunlich gut für die Umstände.” (Elisa) #quote
+01:17:40 Das ganze System ist sehr unkontrolliert
+01:18:48 Richtig konfigurierte BGP-Router glauben nicht alles, was man ihnen erzählt
+01:19:19 Beispiel: Provider meldet Adressen an, die ihm gar nicht gehören
+01:20:54 Pakistan Telecom und Youtube <https://de.wikipedia.org/wiki/Border_Gateway_Protocol#YouTube-Blockade> #glossary #topic
+01:20:59 YouTube Hijacking: A RIPE NCC RIS case study <http://www.ripe.net/internet-coordination/news/industry-developments/youtube-hijacking-a-ripe-ncc-ris-case-study>
+01:21:09 Longest Prefix Match <https://de.wikipedia.org/wiki/Longest_Prefix_Match> #glossary
+01:22:37 Pakistan Telecom hat einen spezifischeren Präfix für Youtube-Adressen angemeldet
+01:24:35 Eigentlich wollte Pakistan Telecom das Announcment nicht nach außen kommunizieren
+01:24:55 Transit-Provider von Pakistan Telecom hätte die Announcments filtern müssen
+01:25:13 PCCW <https://de.wikipedia.org/wiki/PCCW> #glossary
+01:26:12 Der Youtube-Traffic wurde dann zur Pakistan Telecom umgeleitet
+01:26:53 Beispiel: Provider meldet Default-Route an
+01:27:37 Bspw. hatte Provider eine Default-Route nach Regensburg angemeldet
+01:28:17 BGP-Session Authentifizierung #topic
+01:29:09 Unfähigkeit ist ein größeres Problem als Bösartigkeit #topic
+01:29:22 Auf der DEF CON wurde der gesamte Traffic einmal umgeleitet
+01:29:28 DEF CON <https://de.wikipedia.org/wiki/DEF_CON> #glossary
+01:30:35 AS-Abfragen bei den RIRs #topic
+01:33:49 BGP-Implementierungen #topic
+01:34:07 Quagga <http://de.wikipedia.org/wiki/Quagga_(Software)> #glossary
+01:34:08 OpenBGPD <http://de.wikipedia.org/wiki/OpenBGPD> #glossary
+01:34:10 Bird Internet routing daemon <http://en.wikipedia.org/wiki/Bird_Internet_routing_daemon> #glossary
+01:36:35 Die Sendung mit der Maus – Wie funktioniert das Internet <http://www.youtube.com/watch?v=8PNRrOGJqUI> #video
+01:37:45 Beim AMS-IX aggregiert ein Route Server alle BGP Sessions
+01:38:59 Trafficanalyse beim AMS-IX #chapter
+01:39:22 Analyse beim AMS-IX geht nur bis Layer 2
+01:40:19 Netzneutralität und Quality of Service betrifft IX auch nicht
+01:40:23 Netzneutralität <https://de.wikipedia.org/wiki/Netzneutralit%C3%A4t> #glossary
+01:42:26 Prognose für IPv6 #chapter
+01:42:28 IPv6 <http://de.wikipedia.org/wiki/IPv6> #glossary
+01:42:44 IPv4-Adressen sind knapp
+01:44:13 Bei IPv6 bekommt man ohne Nachfragen ein /32-Netz
+01:44:56 IPv6-Traffic ist am AMS-IX auf dem Stand, auf dem IPv4 1995 war
+01:45:45 Schwierigkeiten beim Umsetzen von IPv6
+01:48:26 In etwa 2 Jahren sind IPv4-Adressen alle
+01:50:12 FRITZ!Box <https://de.wikipedia.org/wiki/FRITZ!Box> #glossary
+01:50:33 In den Niederlanden gibt es einen Testversuch
+01:50:47 “Oh weia. Also in zwei Jahren gibt es keine Adressen mehr, aber die ersten 20 Kunden sind schon in einem Testversuch. Das sieht irgendwie nicht gut aus, oder?” (Tim) #quote
+01:51:00 Auswirkungen der Adressknappheit
+01:51:36 Internet Assigned Numbers Authority (IANA) <https://de.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority> #glossary
+01:52:33 Adresshandel
+01:55:19 Network Address Translation (NAT) <http://de.wikipedia.org/wiki/Network_Address_Translation> #glossary
+01:56:40 Teredo <https://de.wikipedia.org/wiki/Teredo> #glossary
+01:57:14 Zusammenfassung
+01:57:30 Youtube bietet Endnutzern auf Anfrage des AS IPv6 an
+02:00:03 Vorteile des IPv6-Routing
+02:01:31 Die Community #chapter
+02:02:33 Peering-Kontaktbörsen
+02:03:05 RIPE Meetings <http://www.ripe.net/ripe/meetings>
+02:03:20 NANOG <http://www.nanog.org/meetings/home>
+02:03:22 APRICOT <http://www.apricot.net/>
+02:03:55 AMS-IX Parties sind legendär
+02:04:04 “Darf denn da jeder hinkommen oder muss man da eine AS-Nummer haben?” (Tim) #quote
+02:04:25 nibbler <https://twitter.com/nblr>
+02:04:56 Elisa hatte Dienst während dem Chaos Communication Congress
+02:06:50 Verabschiedung #chapter
+02:07:58 CRE Outro #chapter
