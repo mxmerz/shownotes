@@ -1,0 +1,104 @@
+HEADER
+
+/HEADER
+
+00:00:00 Office Space – Tom Smykowski <http://www.imdb.com/title/tt0151804/quotes?item=qt0386890> #chapter
+00:00:05 “Look, I already told you! I deal with the goddamn customers so the engineers don’t have to! I have people skills! I am good at dealing with people! Can’t you understand that? What the hell is wrong with you people?” (Tom Smykowksi) #quote
+00:00:20 CRE Intro #chapter
+00:00:46 Begrüßung #chapter
+00:01:13 FreeBSD <http://www.freebsd.org/>
+00:01:22 Cryx <https://twitter.com/cristianyxen>
+00:01:40 Cryx nutzt auf seinen Servern exklusiv FreeBSD
+00:02:33 Mailserver <http://de.wikipedia.org/wiki/Mailserver> #glossary
+00:02:34 Webserver <http://de.wikipedia.org/wiki/Webserver> #glossary
+00:02:36 FTP (File Transfer Protocol) <http://de.wikipedia.org/wiki/File_Transfer_Protocol> #glossary
+00:02:59 Chaos Computer Club (CCC) <http://de.wikipedia.org/wiki/Chaos_Computer_Club> #glossary
+00:03:17 Chaosradio <http://chaosradio.ccc.de/>
+00:03:34 Tim hatte mal einen sehr stabilen FreeBSD-Server
+00:05:21 FreeBSD, andere BSDs und Linux #chapter
+00:05:30 Open Source <http://de.wikipedia.org/wiki/Open_Source> #glossary
+00:05:33 Betriebssystem <http://de.wikipedia.org/wiki/Betriebssystem> #glossary
+00:05:58 Concurrent Versions System (CVS) <http://de.wikipedia.org/wiki/Concurrent_Versions_System> #glossary
+00:06:13 Perforce <http://www.perforce.com/>
+00:07:50 Unterschiede der BSDs und zu Linux #topic
+00:08:04 Linux <https://de.wikipedia.org/wiki/Linux>
+00:08:30 BSD-Lizenz <http://de.wikipedia.org/wiki/BSD-Lizenz> #glossary
+00:08:34 GPL-Lizenz <http://de.wikipedia.org/wiki/GNU_General_Public_License> #glossary
+00:08:42 Berkeley Software Distribution <http://de.wikipedia.org/wiki/Berkeley_Software_Distribution> #glossary
+00:08:47 Unix <http://de.wikipedia.org/wiki/Unix> #glossary
+00:09:07 University of California, Berkeley (UCB) <http://de.wikipedia.org/wiki/University_of_California,_Berkeley> #glossary
+00:09:14 Internet Protocol (IP) <http://de.wikipedia.org/wiki/Internet_Protocol> #glossary
+00:09:41 Die Wende <http://de.wikipedia.org/wiki/Wende_und_friedliche_Revolution_in_der_DDR> #glossary
+00:09:47 “Tja, ich kann mich noch dran erinnern, damals in Klondike…” (Tim) “Als wir nur Nullen und keine Einsen hatten!” (Cryx) #quote
+00:09:48 Klondike <http://de.wikipedia.org/wiki/Klondike-Goldrausch> #glossary
+00:09:54 UNIX History <http://www.levenez.com/unix/>
+00:10:40 Linus Torvalds <http://de.wikipedia.org/wiki/Linus_Torvalds> #glossary
+00:11:22 AT&T <http://de.wikipedia.org/wiki/AT%26T>
+00:11:47 Interactive Unix <http://de.wikipedia.org/wiki/Interactive_Unix> #glossary
+00:11:48 SCO Unix <http://de.wikipedia.org/wiki/SCO_OpenServer>
+00:12:02 OpenBSD <http://www.openbsd.org/>
+00:12:03 NetBSD <http://www.netbsd.org/>
+00:13:21 Platforms Supported by NetBSD <http://www.netbsd.org/ports/>
+00:15:04 Sourcecode-Austausch zwischen den Systemen
+00:16:48 Harald Welte <http://de.wikipedia.org/wiki/Harald_Welte> #glossary
+00:16:49 GPL Violations <http://gpl-violations.org/>
+00:17:08 Darwin <http://de.wikipedia.org/wiki/Darwin_%28Betriebssystem%29> #glossary
+00:17:11 Mac OS X <http://de.wikipedia.org/wiki/Mac_OS_X> #glossary
+00:17:19 Mach (Kernel) <http://de.wikipedia.org/wiki/Mach_(Kernel)> #glossary
+00:17:40 DragonFly BSD <http://www.dragonflybsd.org/>
+00:19:06 Theo de Raadt <http://de.wikipedia.org/wiki/Theo_de_Raadt> #glossary
+00:19:42 Unterscheide der BSD-Community gegenüber Linux #topic
+00:19:57 Linux-Distribution <http://de.wikipedia.org/wiki/Linux-Distribution> #glossary
+00:20:30 Richard Stallman <http://de.wikipedia.org/wiki/Richard_Stallman> #glossary
+00:24:34 FreeBSD Core Team <http://www.freebsd.org/doc/en_US.ISO8859-1/articles/contributors/staff-core.html>
+00:27:00 Klischees über FreeBSD- und Linux-Benutzer #topic
+00:30:00 Popularität der freien Betriebssysteme
+00:30:19 The *BSDstats Project <http://bsdstats.org/>
+00:30:46 PC-BSD <http://www.pcbsd.org/>
+00:31:07 KDE <http://de.wikipedia.org/wiki/KDE> #glossary
+00:31:09 Gnome <http://de.wikipedia.org/wiki/Gnome> #glossary
+00:32:35 MidnightBSD <http://www.midnightbsd.org/>
+00:33:40 FreeBSD Features #chapter
+00:34:22 FreeBSD ist aufgeräumt
+00:34:29 Userland <http://en.wikipedia.org/wiki/User_space> #glossary
+00:34:48 FreeBSD ist einfach zu aktualisieren
+00:35:24 FreeBSD Jail <http://en.wikipedia.org/wiki/FreeBSD_jail> #glossary
+00:35:37 Packet Filter (PF) <http://en.wikipedia.org/wiki/PF_(firewall)> #glossary
+00:35:49 FreeBSD Ports <http://en.wikipedia.org/wiki/FreeBSD_Ports> #glossary
+00:36:34 Wiki <http://de.wikipedia.org/wiki/Wiki> #glossary
+00:37:04 Beispiel: Tim will einen Heimserver
+00:38:43 ISO-Abbild <http://de.wikipedia.org/wiki/ISO-Abbild> #glossary
+00:39:22 FreeBSD Handbook <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/>
+00:42:10 FreeBSD Ports Collection #chapter
+00:46:35 Wordpress <http://de.wikipedia.org/wiki/WordPress> #glossary
+00:46:36 MediaWiki <http://de.wikipedia.org/wiki/MediaWiki> #glossary
+00:47:06 qmail <http://de.wikipedia.org/wiki/Qmail> #glossary
+00:47:07 Postfix <http://de.wikipedia.org/wiki/Postfix_%28Mail_Transfer_Agent%29> #glossary
+00:47:25 FreeBSD Jail <http://en.wikipedia.org/wiki/FreeBSD_jail> #glossary #chapter
+00:47:45 Virtualisierung <http://de.wikipedia.org/wiki/Virtualisierung_%28Informatik%29> #glossary
+00:47:52 VMware <http://de.wikipedia.org/wiki/VMware> #glossary
+00:47:54 Parallels <http://de.wikipedia.org/wiki/Parallels_Desktop_for_Mac> #glossary
+00:49:00 Jails sind gut abgehangen
+00:55:00 portaudit <http://www.freshports.org/security/portaudit/>
+00:55:50 jailaudit <http://anonsvn.h3q.com/projects/jailaudit/>
+00:57:16 Anwendung von Jails
+00:57:40 Packet Filter (PF) <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/firewalls-pf.html> #chapter
+00:59:28 UCB vs. AT&T und die BSD-Lizenz #topic
+01:03:23 GEOM: Modular Disk Transformation Framework <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/geom.html> #chapter
+01:04:13 “Stopf dir den Kopf nicht voll mit Fakten, dafür gibt es Akten.” (Cryx) #quote
+01:04:40 Datenträger sind GEOM-Provider
+01:04:56 Floppy-Disc <http://de.wikipedia.org/wiki/Diskette> #glossary
+01:05:59 RAID <http://de.wikipedia.org/wiki/RAID> #glossary
+01:06:46 Journaling-Dateisystem <http://de.wikipedia.org/wiki/Journaling-Dateisystem> #glossary
+01:11:25 erdgeist <http://erdgeist.org/>
+01:11:28 ezjail <http://erdgeist.org/arts/software/ezjail/>
+01:12:47 tar <http://de.wikipedia.org/wiki/Tar> #glossary
+01:12:49 rsync <http://de.wikipedia.org/wiki/Rsync> #glossary
+01:13:02 Tips und Tricks #chapter
+01:13:30 Situation im Desktop-Bereich
+01:14:10 Im Server-Bereich wird kaum etwas nicht unterstützt
+01:15:13 SAP <http://de.wikipedia.org/wiki/SAP> #glossary
+01:15:22 Mathematica <http://de.wikipedia.org/wiki/Mathematica> #glossary
+01:15:50 “Ich mag FreeBSD, weil’s funktioniert.” (Cryx) #quote
+01:16:05 Verabschiedung #chapter
+01:16:41 CRE Outro #chapter
